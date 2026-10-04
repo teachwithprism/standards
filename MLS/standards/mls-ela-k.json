@@ -1,0 +1,378 @@
+[
+  {
+    "code": "K.R.1.A.a",
+    "description": "With assistance, develop and demonstrate reading skills in response to read alouds by predicting what might happen next in a text based on the cover, title, and illustrations"
+  },
+  {
+    "code": "K.R.1.A.b",
+    "description": "With assistance, develop and demonstrate reading skills in response to read alouds by asking and responding to questions about texts read aloud"
+  },
+  {
+    "code": "K.R.1.A.c",
+    "description": "With assistance, develop and demonstrate reading skills in response to read alouds by retelling main ideas or important facts from a read aloud or familiar story"
+  },
+  {
+    "code": "K.R.1.A.d",
+    "description": "With assistance, develop and demonstrate reading skills in response to read alouds by connecting the information and events of a text to experiences"
+  },
+  {
+    "code": "K.R.1.A.e",
+    "description": "With assistance, develop and demonstrate reading skills in response to read alouds by recognizing beginning, middle, and end"
+  },
+  {
+    "code": "K.R.1.B.a",
+    "description": "With assistance, develop an understanding of vocabulary by identifying and sorting pictures of objects into conceptual categories"
+  },
+  {
+    "code": "K.R.1.B.b",
+    "description": "With assistance, develop an understanding of vocabulary by demonstrating understanding of opposites (antonyms)"
+  },
+  {
+    "code": "K.R.1.B.c",
+    "description": "With assistance, develop an understanding of vocabulary by distinguishing meaning between verbs describing the same action"
+  },
+  {
+    "code": "K.R.1.B.d",
+    "description": "With assistance, develop an understanding of vocabulary by using a picture dictionary to find words"
+  },
+  {
+    "code": "K.R.1.B.e",
+    "description": "With assistance, develop an understanding of vocabulary by using words and phrases acquired through conversations, reading and being read to and responding to texts"
+  },
+  {
+    "code": "K.R.1.C.a",
+    "description": "With assistance, determine the connection between text to self (text ideas and own experiences)"
+  },
+  {
+    "code": "K.R.1.C.b",
+    "description": "With assistance, determine the connection between text to text (text ideas including similarities and differences in fiction and nonfiction)"
+  },
+  {
+    "code": "K.R.1.D.a",
+    "description": "Read independently for sustained periods of time by engaging with text as developmentally appropriate"
+  },
+  {
+    "code": "K.R.2.A.a",
+    "description": "With assistance, read, infer and draw conclusions to identify elements of a story, including setting, character, and key events"
+  },
+  {
+    "code": "K.R.2.A.b",
+    "description": "With assistance, read, infer and draw conclusions to retell a main event from a story read aloud and familiar stories"
+  },
+  {
+    "code": "K.R.2.A.c",
+    "description": "With assistance, read, infer and draw conclusions to recognize sensory details and reoccurring phrases"
+  },
+  {
+    "code": "K.R.2.A.d",
+    "description": "With assistance, read, infer and draw conclusions to recognize different types of texts"
+  },
+  {
+    "code": "K.R.2.A.e",
+    "description": "With assistance, read, infer and draw conclusions to name author and illustrator of a story and describe how each is telling the story"
+  },
+  {
+    "code": "K.R.2.A.f",
+    "description": "With assistance, read, infer and draw conclusions to compare and contrast adventures of characters in familiar stories"
+  },
+  {
+    "code": "K.R.2.A.g",
+    "description": "With assistance, read, infer and draw conclusions to ask and answer questions about unknown words in text"
+  },
+  {
+    "code": "K.R.2.B.a",
+    "description": "With assistance, read, infer and draw conclusions to respond to rhythm and rhyme through identifying a regular beat and similarities in word sounds"
+  },
+  {
+    "code": "K.R.2.C.a",
+    "description": "With assistance, read, infer and draw conclusions to identify characters in a puppet play or performance by actors"
+  },
+  {
+    "code": "K.R.3.A.a",
+    "description": "With assistance, read, infer and draw conclusions to identify the topic and details in an expository text heard and/or read referring to the words and/or illustrations"
+  },
+  {
+    "code": "K.R.3.A.b",
+    "description": "With assistance, read, infer and draw conclusions to use titles and illustrations to make predictions about text"
+  },
+  {
+    "code": "K.R.3.A.c",
+    "description": "With assistance, read, infer and draw conclusions to identify text features"
+  },
+  {
+    "code": "K.R.3.A.d",
+    "description": "With assistance, read, infer and draw conclusions to identify the meaning of environmental print"
+  },
+  {
+    "code": "K.R.3.B.a",
+    "description": "With assistance, read, infer and draw conclusions to respond to examples of sensory details"
+  },
+  {
+    "code": "K.R.3.C.a",
+    "description": "With assistance, read, infer and draw conclusions to ask and answer questions to clarify meaning"
+  },
+  {
+    "code": "K.R.3.C.b",
+    "description": "With assistance, read, infer and draw conclusions to identify basic similarities and differences between two texts on the same topic"
+  },
+  {
+    "code": "K.R.3.C.c",
+    "description": "With assistance, read, infer and draw conclusions to name the main topic and recall key details of the text"
+  },
+  {
+    "code": "K.R.3.C.d",
+    "description": "With assistance, read, infer and draw conclusions to ask and answer questions about unknown words in a text"
+  },
+  {
+    "code": "K.R.4.A.a",
+    "description": "With assistance, develop an awareness of media literacy by identifying different forms of media"
+  },
+  {
+    "code": "K.R.4.A.b",
+    "description": "With assistance, develop an awareness of media literacy by identifying techniques used in media"
+  },
+  {
+    "code": "K.RF.1.A.a",
+    "description": "Develop print awareness in the reading process by identifying all upper and lower case letters"
+  },
+  {
+    "code": "K.RF.1.A.b",
+    "description": "Develop print awareness in the reading process by sequencing the letters of the alphabet"
+  },
+  {
+    "code": "K.RF.1.A.c",
+    "description": "Develop print awareness in the reading process by demonstrating that books are read left to right, top to bottom"
+  },
+  {
+    "code": "K.RF.1.A.d",
+    "description": "Develop print awareness in the reading process by demonstrating that written words are made up of different letters"
+  },
+  {
+    "code": "K.RF.1.A.e",
+    "description": "Develop print awareness in the reading process by knowing that a sentence is comprised of a group of words separated by spaces"
+  },
+  {
+    "code": "K.RF.1.A.f",
+    "description": "Develop print awareness in the reading process by demonstrating one-to-one correspondence between spoken words and written words"
+  },
+  {
+    "code": "K.RF.2.A.a",
+    "description": "Develop phonemic awareness in the reading process by identifying sounds in spoken words"
+  },
+  {
+    "code": "K.RF.2.A.b",
+    "description": "Develop phonemic awareness in the reading process by producing rhymes in response to spoken words"
+  },
+  {
+    "code": "K.RF.2.A.c",
+    "description": "Develop phonemic awareness in the reading process by distinguishing orally presented rhyming pairs of words from non-rhyming pairs"
+  },
+  {
+    "code": "K.RF.2.A.d",
+    "description": "Develop phonemic awareness in the reading process by recognizing spoken alliteration or groups of words that begin with the same onset or initial sound"
+  },
+  {
+    "code": "K.RF.2.A.e",
+    "description": "Develop phonemic awareness in the reading process by blending spoken onsets and rimes to form simple words"
+  },
+  {
+    "code": "K.RF.2.A.f",
+    "description": "Develop phonemic awareness in the reading process by blending spoken phonemes to form one syllable words"
+  },
+  {
+    "code": "K.RF.2.A.g",
+    "description": "Develop phonemic awareness in the reading process by isolating the initial, medial and final sounds in spoken words"
+  },
+  {
+    "code": "K.RF.2.A.h",
+    "description": "Develop phonemic awareness in the reading process by segmenting spoken words into 2 or 3 phonemes"
+  },
+  {
+    "code": "K.RF.3.A.a",
+    "description": "Develop phonics in the reading process by producing and writing letter(s) for most short vowel and consonant sounds"
+  },
+  {
+    "code": "K.RF.3.A.b",
+    "description": "Develop phonics in the reading process by reading high frequency words"
+  },
+  {
+    "code": "K.RF.3.A.c",
+    "description": "Develop phonics in the reading process by blending letter sounds to decode simple words"
+  },
+  {
+    "code": "K.RF.3.A.d",
+    "description": "Develop phonics in the reading process by recognizing that new words can be created when letters are changed, added, or deleted and using letter sound knowledge to write simple messages and words"
+  },
+  {
+    "code": "K.RF.4.A",
+    "description": "Read with support, appropriate texts with purpose and understanding"
+  },
+  {
+    "code": "K.W.1.A.a",
+    "description": "Follow a writing process, with assistance, to generate a writing plan through using pictures, oral language or written letters, and/or words"
+  },
+  {
+    "code": "K.W.1.B.a",
+    "description": "Appropriate to genre type, develop a draft from prewriting by sequencing the actions or details through letters, words, and pictures"
+  },
+  {
+    "code": "K.W.1.C.a",
+    "description": "Reread, revise, and edit drafts, with assistance from adults/peers, to respond to questions and suggestions, adding details to strengthen writing"
+  },
+  {
+    "code": "K.W.1.C.b",
+    "description": "Reread, revise, and edit drafts, with assistance from adults/peers, to edit by leaving spaces between words in a sentence"
+  },
+  {
+    "code": "K.W.1.D.a",
+    "description": "With assistance from adults/peers explore a variety of conventional/digital tools to produce and publish writing"
+  },
+  {
+    "code": "K.W.2.A.a",
+    "description": "With assistance, draw/write opinion texts that use a combination of drawing and/or writing to tell an opinion about a topic or text being studied"
+  },
+  {
+    "code": "K.W.2.A.b",
+    "description": "With assistance, draw/write opinion texts that give logical reasons for suggesting that others follow a particular course of action or line of thinking"
+  },
+  {
+    "code": "K.W.2.A.c",
+    "description": "With assistance, draw/write opinion texts that use words that are related to the topic"
+  },
+  {
+    "code": "K.W.2.B.a",
+    "description": "With assistance, draw or write informative/ explanatory texts that use a combination of drawing and/or writing to name and inform about a topic or a text they are learning in school"
+  },
+  {
+    "code": "K.W.2.B.b",
+    "description": "With assistance, draw or write informative/ explanatory texts that use words that are related to the topic"
+  },
+  {
+    "code": "K.W.2.C.a",
+    "description": "With assistance, draw and/or write fiction or non-fiction narratives and poems that use a combination of drawing and/or writing to narrate a story or experience the student has had or has imagined"
+  },
+  {
+    "code": "K.W.2.C.b",
+    "description": "With assistance, draw and/or write fiction or non-fiction narratives and poems that tell the reader about a character or personal event"
+  },
+  {
+    "code": "K.W.2.C.c",
+    "description": "With assistance, draw and/or write fiction or non-fiction narratives and poems that place events in the order they occurred"
+  },
+  {
+    "code": "K.W.2.C.d",
+    "description": "With assistance, draw and/or write fiction or non-fiction narratives and poems that use words that are related to the topic"
+  },
+  {
+    "code": "K.W.2.C.e",
+    "description": "With assistance, draw and/or write fiction or non-fiction narratives and poems that provide a reaction to what happened in the events"
+  },
+  {
+    "code": "K.W.3.A.a",
+    "description": "With assistance, apply research process to generate a list of open-ended questions about topics of class interest"
+  },
+  {
+    "code": "K.W.3.A.b",
+    "description": "With assistance, apply research process to decide what sources or people in the classroom, school, library, or home can answer their questions"
+  },
+  {
+    "code": "K.W.3.A.c",
+    "description": "With assistance, apply research process to gather evidence from sources"
+  },
+  {
+    "code": "K.W.3.A.d",
+    "description": "With assistance, apply research process to use pictures in conjunction with writing when documenting research"
+  },
+  {
+    "code": "K.L.1.A.a",
+    "description": "In speech and written form, apply standard English grammar to identify naming words (nouns) and action words (verbs)"
+  },
+  {
+    "code": "K.L.1.A.b",
+    "description": "In speech and written form, apply standard English grammar to use plural words when speaking"
+  },
+  {
+    "code": "K.L.1.A.c",
+    "description": "In speech and written form, apply standard English grammar to express time and space"
+  },
+  {
+    "code": "K.L.1.A.d",
+    "description": "In speech and written form, apply standard English grammar to demonstrate the use of complete sentences in shared language activities"
+  },
+  {
+    "code": "K.L.1.A.e",
+    "description": "In speech and written form, apply standard English grammar to use question words in sentences"
+  },
+  {
+    "code": "K.L.1.B.a",
+    "description": "In speech and written form, apply standard English grammar to print in upper and lower case letters"
+  },
+  {
+    "code": "K.L.1.B.b",
+    "description": "In speech and written form, apply standard English grammar to recognize that a sentence ends with punctuation marks"
+  },
+  {
+    "code": "K.L.1.B.c",
+    "description": "In speech and written form, apply standard English grammar to capitalize own first and last name"
+  },
+  {
+    "code": "K.L.1.B.d",
+    "description": "In speech and written form, apply standard English grammar to capitalize first word in a sentence"
+  },
+  {
+    "code": "K.L.1.B.e",
+    "description": "In speech and written form, apply standard English grammar to capitalize the pronoun I"
+  },
+  {
+    "code": "K.L.1.B.f",
+    "description": "In speech and written form, apply standard English grammar to write and name the printed letters that match the sound"
+  },
+  {
+    "code": "K.L.1.B.g",
+    "description": "In speech and written form, apply standard English grammar to use inventive spelling with beginning, final, and medial sounds"
+  },
+  {
+    "code": "K.L.1.B.h",
+    "description": "In speech and written form, apply standard English grammar to write and name letters for consonant and vowel sounds"
+  },
+  {
+    "code": "K.L.1.B.i",
+    "description": "In speech and written form, apply standard English grammar to use correct spelling of own first and last names"
+  },
+  {
+    "code": "K.SL.1.A.a",
+    "description": "Develop and apply effective listening skills and strategies in formal and informal settings by following classroom listening rules"
+  },
+  {
+    "code": "K.SL.1.A.b",
+    "description": "Develop and apply effective listening skills and strategies in formal and informal settings by continuing a conversation through multiple exchanges"
+  },
+  {
+    "code": "K.SL.1.A.c",
+    "description": "Develop and apply effective listening skills and strategies in formal and informal settings by following one-step instructions, according to classroom expectations"
+  },
+  {
+    "code": "K.SL.2.A.a",
+    "description": "Develop and apply effective listening skills and strategies in formal and informal settings by demonstrating active listening, according to classroom expectations"
+  },
+  {
+    "code": "K.SL.3.A.a",
+    "description": "Speak clearly using conventions of language when presenting individually or with a group by taking turns speaking, according to classroom expectations"
+  },
+  {
+    "code": "K.SL.3.A.b",
+    "description": "Speak clearly using conventions of language when presenting individually or with a group by continuing a conversation through multiple exchanges"
+  },
+  {
+    "code": "K.SL.3.A.c",
+    "description": "Speak clearly using conventions of language when presenting individually or with a group by confirming comprehension by retelling information and asking appropriate questions based on read-alouds or other media"
+  },
+  {
+    "code": "K.SL.4.A.a",
+    "description": "Speak clearly using conventions of language when presenting individually or with a group by describing personal experiences using a prop, picture, or other visual aide"
+  },
+  {
+    "code": "K.SL.4.A.b",
+    "description": "Speak clearly using conventions of language when presenting individually or with a group by speaking in complete sentences"
+  }
+]

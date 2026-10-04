@@ -1,0 +1,142 @@
+[
+  {
+    "code": "2.NBT.A.1",
+    "description": "Understand three-digit numbers are composed of hundreds, tens and ones."
+  },
+  {
+    "code": "2.NBT.A.2",
+    "description": "Understand that 100 can be thought of as 10 tens - called a \"hundred\"."
+  },
+  {
+    "code": "2.NBT.A.3",
+    "description": "Count within 1000 by 1s, 10s and 100s starting with any number."
+  },
+  {
+    "code": "2.NBT.A.4",
+    "description": "Read and write numbers to 1000 using number names, base-ten numerals and expanded form."
+  },
+  {
+    "code": "2.NBT.A.5",
+    "description": "Compare two three-digit numbers using the symbols >, = or <."
+  },
+  {
+    "code": "2.NBT.B.6",
+    "description": "Demonstrate fluency with addition and subtraction within 100."
+  },
+  {
+    "code": "2.NBT.B.7",
+    "description": "Add up to four two-digit numbers."
+  },
+  {
+    "code": "2.NBT.B.8",
+    "description": "Add or subtract within 1000, and justify the solution."
+  },
+  {
+    "code": "2.NBT.B.9",
+    "description": "Use the relationship between addition and subtraction to solve problems."
+  },
+  {
+    "code": "2.NBT.B.10",
+    "description": "Add or subtract mentally 10 or 100 to or from a given number within 1000."
+  },
+  {
+    "code": "2.NBT.C.11",
+    "description": "Write and solve problems involving addition and subtraction within 100."
+  },
+  {
+    "code": "2.RA.A.1",
+    "description": "Demonstrate fluency with addition and subtraction within 20."
+  },
+  {
+    "code": "2.RA.B.2a",
+    "description": "Count by 2s to 100 starting with any even number."
+  },
+  {
+    "code": "2.RA.B.2b",
+    "description": "Express even numbers as pairings/groups of 2, and write an expression to represent the number using addends of 2."
+  },
+  {
+    "code": "2.RA.B.2c",
+    "description": "Express even numbers as being composed of equal groups and write an expression to represent the number with 2 equal addends."
+  },
+  {
+    "code": "2.RA.B.3",
+    "description": "Find the total number of objects arranged in a rectangular array with up to 5 rows and 5 columns, and write an equation to represent the total as a sum of equal addends."
+  },
+  {
+    "code": "2.GM.A.1a",
+    "description": "Identify triangles, quadrilaterals, pentagons, hexagons, circles and cubes."
+  },
+  {
+    "code": "2.GM.A.1b",
+    "description": "Identify the faces of three-dimensional objects."
+  },
+  {
+    "code": "2.GM.A.2",
+    "description": "Partition a rectangle into rows and columns of same-size squares and count to find the total number of squares."
+  },
+  {
+    "code": "2.GM.A.3a",
+    "description": "Demonstrate that equal shares of identical wholes need not have the same shape."
+  },
+  {
+    "code": "2.GM.B.4",
+    "description": "Measure the length of an object by selecting and using appropriate tools."
+  },
+  {
+    "code": "2.GM.B.5",
+    "description": "Analyze the results of measuring the same object with different units."
+  },
+  {
+    "code": "2.GM.B.6",
+    "description": "Estimate lengths using units of inches, feet, yards, centimeters and meters."
+  },
+  {
+    "code": "2.GM.B.7",
+    "description": "Measure to determine how much longer one object is than another."
+  },
+  {
+    "code": "2.GM.C.8",
+    "description": "Use addition and subtraction within 100 to solve problems involving lengths that are given in the same units."
+  },
+  {
+    "code": "2.GM.C.9",
+    "description": "Represent whole numbers as lengths on a number line, and represent whole-number sums and differences within 100 on a number line."
+  },
+  {
+    "code": "2.GM.D.10",
+    "description": "Tell and write time from analog and digital clocks to the nearest five minutes, using a.m. and p.m."
+  },
+  {
+    "code": "2.GM.D.11",
+    "description": "Describe a time shown on a digital clock as representing hours and minutes, and relate a time shown on a digital clock to the same time on an analog clock."
+  },
+  {
+    "code": "2.GM.D.12",
+    "description": "Find the value of combinations of dollar bills, quarters, dimes, nickels and pennies, using $ and ¢ appropriately."
+  },
+  {
+    "code": "2.GM.D.13",
+    "description": "Find combinations of coins that equal a given amount."
+  },
+  {
+    "code": "2.DS.A.1",
+    "description": "Create a line plot to represent a set of numeric data, given a horizontal scale marked in whole numbers."
+  },
+  {
+    "code": "2.DS.A.2",
+    "description": "Generate measurement data to the nearest whole unit, and display the data in a line plot."
+  },
+  {
+    "code": "2.DS.A.3",
+    "description": "Draw a picture graph or a bar graph to represent a data set with up to four categories."
+  },
+  {
+    "code": "2.DS.A.4",
+    "description": "Solve problems using information presented in line plots, picture graphs and bar graphs."
+  },
+  {
+    "code": "2.DS.A.5",
+    "description": "Draw conclusions from line plots, picture graphs and bar graphs."
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "code": "7.RP.A.1",
+    "description": "Compute unit rates, including those that involve complex fractions, with like or different units."
+  },
+  {
+    "code": "7.RP.A.2a",
+    "description": "Determine when two quantities are in a proportional relationship."
+  },
+  {
+    "code": "7.RP.A.2b",
+    "description": "Identify and/or compute the constant of proportionality (unit rate)."
+  },
+  {
+    "code": "7.RP.A.2c",
+    "description": "Explain what a point (x, y) on the graph of a proportional relationship means in terms of the situation."
+  },
+  {
+    "code": "7.RP.A.2d",
+    "description": "Recognize that the graph of any proportional relationship will pass through the origin."
+  },
+  {
+    "code": "7.RP.A.3",
+    "description": "Solve problems involving ratios, rates, percentages and proportional relationships."
+  },
+  {
+    "code": "7.NS.A.1a",
+    "description": "Add and subtract rational numbers."
+  },
+  {
+    "code": "7.NS.A.1b",
+    "description": "Represent addition and subtraction on a horizontal or vertical number line."
+  },
+  {
+    "code": "7.NS.A.1c",
+    "description": "Describe situations and show that a number and its opposite have a sum of 0 (additive inverses)."
+  },
+  {
+    "code": "7.NS.A.1d",
+    "description": "Understand subtraction of rational numbers as adding the additive inverse."
+  },
+  {
+    "code": "7.NS.A.1e",
+    "description": "Determine the distance between two rational numbers on the number line is the absolute value of their difference."
+  },
+  {
+    "code": "7.NS.A.1f",
+    "description": "Interpret sums and differences of rational numbers."
+  },
+  {
+    "code": "7.NS.A.2a",
+    "description": "Multiply and divide rational numbers."
+  },
+  {
+    "code": "7.NS.A.2b",
+    "description": "Determine that a number and its reciprocal have a product of 1 (multiplicative inverse)."
+  },
+  {
+    "code": "7.NS.A.2c",
+    "description": "Understand that every quotient of integers (with non-zero divisor) is a rational number."
+  },
+  {
+    "code": "7.NS.A.2d",
+    "description": "Convert a rational number to a decimal."
+  },
+  {
+    "code": "7.NS.A.2e",
+    "description": "Understand that all rational numbers can be written as fractions or decimal numbers that terminate or repeat."
+  },
+  {
+    "code": "7.NS.A.2f",
+    "description": "Interpret products and quotients of rational numbers by describing real-world contexts."
+  },
+  {
+    "code": "7.NS.A.3",
+    "description": "Solve problems involving the four arithmetic operations with rational numbers."
+  },
+  {
+    "code": "7.EEI.A.1",
+    "description": "Apply properties of operations to simplify and to factor linear algebraic expressions with rational coefficients."
+  },
+  {
+    "code": "7.EEI.A.2",
+    "description": "Understand how to use equivalent expressions to clarify quantities in a problem."
+  },
+  {
+    "code": "7.EEI.B.3a",
+    "description": "Convert between equivalent forms of the same number."
+  },
+  {
+    "code": "7.EEI.B.3b",
+    "description": "Assess the reasonableness of answers using mental computation and estimation strategies."
+  },
+  {
+    "code": "7.EEI.B.4a",
+    "description": "Write and/or solve equations of the form x+p = q and px = q in which p and q are rational numbers."
+  },
+  {
+    "code": "7.EEI.B.4b",
+    "description": "Write and/or solve two-step equations of the form px + q = r and p(x + q) = r, where p, q and r are rational numbers, and interpret the meaning of the solution in the context of the problem."
+  },
+  {
+    "code": "7.EEI.B.4c",
+    "description": "Write, solve and/or graph inequalities of the form px + q > r or px + q < r, where p, q and r are rational numbers."
+  },
+  {
+    "code": "7.GM.A.1",
+    "description": "Solve problems involving scale drawings of real objects and geometric figures, including computing actual lengths and areas from a scale drawing and reproducing the drawing at a different scale."
+  },
+  {
+    "code": "7.GM.A.2a",
+    "description": "Determine if provided constraints will create a unique triangle through construction."
+  },
+  {
+    "code": "7.GM.A.2b",
+    "description": "Construct special quadrilaterals given specific parameters."
+  },
+  {
+    "code": "7.GM.A.3",
+    "description": "Describe two-dimensional cross sections of pyramids, prisms, cones and cylinders."
+  },
+  {
+    "code": "7.GM.A.4a",
+    "description": "Analyze the relationships among the circumference, the radius, the diameter, the area and Pi in a circle."
+  },
+  {
+    "code": "7.GM.A.4b",
+    "description": "Know and apply the formulas for circumference and area of circles to solve problems."
+  },
+  {
+    "code": "7.GM.B.5",
+    "description": "Use angle properties to write and solve equations for an unknown angle."
+  },
+  {
+    "code": "7.GM.B.6a",
+    "description": "Find the area of triangles, quadrilaterals and other polygons composed of triangles and rectangles."
+  },
+  {
+    "code": "7.GM.B.6b",
+    "description": "Find the volume and surface area of prisms, pyramids and cylinders."
+  },
+  {
+    "code": "7.DSP.A.1a",
+    "description": "Understand that a sample is a subset of a population."
+  },
+  {
+    "code": "7.DSP.A.1b",
+    "description": "Understand that generalizations from a sample are valid only if the sample is representative of the population."
+  },
+  {
+    "code": "7.DSP.A.1c",
+    "description": "Understand that random sampling is used to produce representative samples and support valid inferences."
+  },
+  {
+    "code": "7.DSP.A.2",
+    "description": "Use data from multiple samples to draw inferences about a population and investigate variability in estimates of the characteristic of interest."
+  },
+  {
+    "code": "7.DSP.B.3",
+    "description": "Analyze different data distributions using statistical measures."
+  },
+  {
+    "code": "7.DSP.B.4",
+    "description": "Compare the numerical measures of center, measures of frequency and measures of variability from two random samples to draw inferences about the population."
+  },
+  {
+    "code": "7.DSP.C.5a",
+    "description": "Determine probabilities of simple events."
+  },
+  {
+    "code": "7.DSP.C.5b",
+    "description": "Understand that the probability of a chance event is a number between 0 and 1 that expresses the likelihood of the event occurring."
+  },
+  {
+    "code": "7.DSP.C.6a",
+    "description": "Predict outcomes using theoretical probability."
+  },
+  {
+    "code": "7.DSP.C.6b",
+    "description": "Perform experiments that model theoretical probability."
+  },
+  {
+    "code": "7.DSP.C.6c",
+    "description": "Compare theoretical and experimental probabilities."
+  },
+  {
+    "code": "7.DSP.C.7a",
+    "description": "Develop a uniform probability model by assigning equal probability to all outcomes, and use the model to determine probabilities of events."
+  },
+  {
+    "code": "7.DSP.C.7b",
+    "description": "Develop a probability model (which may not be uniform) by observing frequencies in data generated from a chance process."
+  },
+  {
+    "code": "7.DSP.C.8a",
+    "description": "Represent the sample space of a compound event."
+  },
+  {
+    "code": "7.DSP.C.8b",
+    "description": "Design and use a simulation to generate frequencies for compound events."
+  }
+]

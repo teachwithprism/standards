@@ -1,0 +1,182 @@
+[
+  {
+    "code": "G.CO.A.1",
+    "description": "Define angle, circle, perpendicular line, parallel line, line segment and ray based on the undefined notions of point, line, distance along a line and distance around a circular arc."
+  },
+  {
+    "code": "G.CO.A.2",
+    "description": "Represent transformations in the plane, and describe them as functions that take points in the plane as inputs and give other points as outputs."
+  },
+  {
+    "code": "G.CO.A.3",
+    "description": "Describe the rotational symmetry and lines of symmetry of two-dimensional figures."
+  },
+  {
+    "code": "G.CO.A.4",
+    "description": "Develop definitions of rotations, reflections and translations in terms of angles, circles, perpendicular lines, parallel lines and line segments."
+  },
+  {
+    "code": "G.CO.A.5",
+    "description": "Demonstrate the ability to rotate, reflect or translate a figure, and determine a possible sequence of transformations between two congruent figures."
+  },
+  {
+    "code": "G.CO.B.6",
+    "description": "Develop the definition of congruence in terms of rigid motions."
+  },
+  {
+    "code": "G.CO.B.7",
+    "description": "Develop the criteria for triangle congruence from the definition of congruence in terms of rigid motions."
+  },
+  {
+    "code": "G.CO.C.8",
+    "description": "Prove theorems about lines and angles."
+  },
+  {
+    "code": "G.CO.C.9",
+    "description": "Prove theorems about triangles."
+  },
+  {
+    "code": "G.CO.C.10",
+    "description": "Prove theorems about polygons."
+  },
+  {
+    "code": "G.CO.D.11",
+    "description": "Construct geometric figures using various tools and methods."
+  },
+  {
+    "code": "G.SRT.A.1",
+    "description": "Construct and analyze scale changes of geometric figures."
+  },
+  {
+    "code": "G.SRT.A.2",
+    "description": "Use the definition of similarity to decide if figures are similar and to solve problems involving similar figures."
+  },
+  {
+    "code": "G.SRT.A.3",
+    "description": "Use the properties of similarity transformations to establish the AA criterion for two triangles to be similar."
+  },
+  {
+    "code": "G.SRT.B.4",
+    "description": "Use congruence and similarity criteria for triangles to solve problems and to prove relationships in geometric figures."
+  },
+  {
+    "code": "G.SRT.C.5",
+    "description": "Understand that side ratios in right triangles define the trigonometric ratios for acute angles."
+  },
+  {
+    "code": "G.SRT.C.6",
+    "description": "Explain and use the relationship between the sine and cosine of complementary angles."
+  },
+  {
+    "code": "G.SRT.C.7",
+    "description": "Use trigonometric ratios and the Pythagorean Theorem to solve right triangles."
+  },
+  {
+    "code": "G.SRT.C.8",
+    "description": "Derive the formula A = 1/2 ab sin(C) for the area of a triangle."
+  },
+  {
+    "code": "G.C.A.1",
+    "description": "Prove that all circles are similar using similarity transformations."
+  },
+  {
+    "code": "G.C.A.2",
+    "description": "Identify and describe relationships among inscribed angles, radii and chords of circles."
+  },
+  {
+    "code": "G.C.A.3",
+    "description": "Construct the inscribed and circumscribed circles of a triangle, and prove properties of angles for a quadrilateral inscribed in a circle."
+  },
+  {
+    "code": "G.C.B.4",
+    "description": "Derive the formula for the length of an arc of a circle."
+  },
+  {
+    "code": "G.C.B.5",
+    "description": "Derive the formula for the area of a sector of a circle."
+  },
+  {
+    "code": "G.GPE.A.1",
+    "description": "Derive the equation of a circle."
+  },
+  {
+    "code": "G.GPE.A.2",
+    "description": "Derive the equation of a parabola given a focus and directory."
+  },
+  {
+    "code": "G.GPE.B.3",
+    "description": "Use coordinates to prove geometric theorems algebraically."
+  },
+  {
+    "code": "G.GPE.B.4",
+    "description": "Prove the slope criteria for parallel and perpendicular lines and use them to solve problems."
+  },
+  {
+    "code": "G.GPE.B.5",
+    "description": "Find the point on a directed line segment between two given points that partitions the segment in a given ratio."
+  },
+  {
+    "code": "G.GPE.B.6",
+    "description": "Use coordinates to compute perimeters of polygons and areas of triangles and rectangles."
+  },
+  {
+    "code": "G.GMD.A.1",
+    "description": "Give an informal argument for the formulas for the circumference of a circle, area of a circle, volume of a cylinder, pyramid and cone."
+  },
+  {
+    "code": "G.GMD.A.2",
+    "description": "Use volume formulas for cylinders, pyramids, cones, spheres and composite figures to solve problems."
+  },
+  {
+    "code": "G.GMD.B.3",
+    "description": "Identify the shapes of two-dimensional cross-sections of three-dimensional objects."
+  },
+  {
+    "code": "G.GMD.B.4",
+    "description": "Identify three-dimensional objects generated by transformations of two-dimensional objects."
+  },
+  {
+    "code": "G.MG.A.1",
+    "description": "Use geometric shapes, their measures and their properties to describe objects."
+  },
+  {
+    "code": "G.MG.A.2",
+    "description": "Apply concepts of density based on area and volume in modeling situations."
+  },
+  {
+    "code": "G.MG.A.3",
+    "description": "Apply geometric methods to solve design mathematical modeling problems."
+  },
+  {
+    "code": "G.CP.A.1",
+    "description": "Describe events as subsets of a sample space using characteristics of the outcomes, or as unions, intersections or complements of other events."
+  },
+  {
+    "code": "G.CP.A.2",
+    "description": "Understand the definition of independent events and use it to solve problems."
+  },
+  {
+    "code": "G.CP.A.3",
+    "description": "Calculate conditional probabilities of events."
+  },
+  {
+    "code": "G.CP.A.4",
+    "description": "Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified. Use the two-way table as a sample space to decide if events are independent and to approximate conditional probabilities."
+  },
+  {
+    "code": "G.CP.A.5",
+    "description": "Recognize and explain the concepts of conditional probability and independence in a context."
+  },
+  {
+    "code": "G.CP.A.6",
+    "description": "Apply and interpret the Addition Rule for calculating probabilities."
+  },
+  {
+    "code": "G.CP.A.7",
+    "description": "Apply and Interpret the general Multiplication Rule in a uniform probability model."
+  },
+  {
+    "code": "G.CP.A.8",
+    "description": "Use permutations and combinations to solve problems."
+  }
+]

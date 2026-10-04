@@ -1,0 +1,450 @@
+[
+  {
+    "code": "2.R.1.A.a",
+    "description": "Develop and demonstrate reading skills in response to text by using text features to make and confirm predictions, explain why not confirmed"
+  },
+  {
+    "code": "2.R.1.A.b",
+    "description": "Develop and demonstrate reading skills in response to text by asking and responding to relevant questions"
+  },
+  {
+    "code": "2.R.1.A.c",
+    "description": "Develop and demonstrate reading skills in response to text by seeking clarification, and using information/ facts and details about texts and supporting answers with evidence from text"
+  },
+  {
+    "code": "2.R.1.A.d",
+    "description": "Develop and demonstrate reading skills in response to text by retelling a story's beginning, middle, and end and determining their central message, lesson or moral"
+  },
+  {
+    "code": "2.R.1.A.e",
+    "description": "Develop and demonstrate reading skills in response to text by monitoring comprehension and making corrections and adjustments when understanding breaks down"
+  },
+  {
+    "code": "2.R.1.B.a",
+    "description": "Develop an understanding of vocabulary by using prefixes, root words, and suffixes to determine the meaning of words"
+  },
+  {
+    "code": "2.R.1.B.b",
+    "description": "Develop an understanding of vocabulary by using knowledge of the meaning of individual words to determine the meaning of compound words"
+  },
+  {
+    "code": "2.R.1.B.c",
+    "description": "Develop an understanding of vocabulary by using context to determine the meaning of a new word or multiple-meaning word in text"
+  },
+  {
+    "code": "2.R.1.B.d",
+    "description": "Develop an understanding of vocabulary by using antonyms and synonyms"
+  },
+  {
+    "code": "2.R.1.B.e",
+    "description": "Develop an understanding of vocabulary by locating words in a dictionary or glossary to determine or clarify the meaning of words or phrases"
+  },
+  {
+    "code": "2.R.1.B.f",
+    "description": "Develop an understanding of vocabulary by distinguishing meaning among closely related verbs and adjectives"
+  },
+  {
+    "code": "2.R.1.B.g",
+    "description": "Develop an understanding of vocabulary by recognizing that some words have literal and non-literal meanings"
+  },
+  {
+    "code": "2.R.1.B.h",
+    "description": "Develop an understanding of vocabulary by using conversational, general academic, and domain-specific words and phrases"
+  },
+  {
+    "code": "2.R.1.C.a",
+    "description": "Determine the relevant connections between text to text (text ideas, including similarities and differences regarding information and relationships in fiction and nonfiction)"
+  },
+  {
+    "code": "2.R.1.C.b",
+    "description": "Determine the relevant connections between text to world (text ideas regarding experiences in the world)"
+  },
+  {
+    "code": "2.R.1.D.a",
+    "description": "Read independently for multiple purposes over sustained periods of time by reading text that is developmentally appropriate"
+  },
+  {
+    "code": "2.R.1.D.b",
+    "description": "Read independently for multiple purposes over sustained periods of time by producing evidence of reading"
+  },
+  {
+    "code": "2.R.2.A.a",
+    "description": "Read, infer, analyze, and draw conclusions to describe the setting, problems, solutions, sequence of events (plot), and big idea or moral lesson"
+  },
+  {
+    "code": "2.R.2.A.b",
+    "description": "Read, infer, analyze, and draw conclusions to describe the main characters in works of fiction, including their traits, motivations, and feelings"
+  },
+  {
+    "code": "2.R.2.A.c",
+    "description": "Read, infer, analyze, and draw conclusions to compare and contrast different versions of the same story with respect to their characters, settings, and sequence of events"
+  },
+  {
+    "code": "2.R.2.A.d",
+    "description": "Read, infer, analyze, and draw conclusions to describe cause and effect relationships"
+  },
+  {
+    "code": "2.R.2.A.e",
+    "description": "Read, infer, analyze, and draw conclusions to explain how the story changes based on who is telling the story"
+  },
+  {
+    "code": "2.R.2.A.f",
+    "description": "Read, infer, analyze, and draw conclusions to compare and contrast the differences in points of view of characters and how stories are narrated"
+  },
+  {
+    "code": "2.R.2.B.a",
+    "description": "Read, infer and draw conclusions to describe how rhythm, rhyme, and repetition create imagery in poetry"
+  },
+  {
+    "code": "2.R.2.B.b",
+    "description": "Read, infer and draw conclusions to use onomatopoeia"
+  },
+  {
+    "code": "2.R.2.C.a",
+    "description": "Read, infer and draw conclusions to identify characters, setting, acts, and scenes in plays"
+  },
+  {
+    "code": "2.R.2.C.b",
+    "description": "Read, infer and draw conclusions to identify the elements of dialogue and use them in informal plays"
+  },
+  {
+    "code": "2.R.3.A.a",
+    "description": "Read, infer and draw conclusions to identify the main idea of sections of text and distinguish it from the topic"
+  },
+  {
+    "code": "2.R.3.A.b",
+    "description": "Read, infer and draw conclusions to demonstrate understanding by locating facts to answer and/or ask questions"
+  },
+  {
+    "code": "2.R.3.A.c",
+    "description": "Read, infer and draw conclusions to use text features to locate specific information"
+  },
+  {
+    "code": "2.R.3.A.d",
+    "description": "Read, infer and draw conclusions to explain common graphic features to assist in the interpretation of text"
+  },
+  {
+    "code": "2.R.3.A.e",
+    "description": "Read, infer and draw conclusions to follow written multi-step directions"
+  },
+  {
+    "code": "2.R.3.A.f",
+    "description": "Read, infer and draw conclusions to describe connections between, and state the order of, the events or ideas"
+  },
+  {
+    "code": "2.R.3.B.a",
+    "description": "Read, infer and draw conclusions to explain why a text is fiction or nonfiction"
+  },
+  {
+    "code": "2.R.3.B.b",
+    "description": "Read, infer and draw conclusions to ask and answer questions to clarify meaning"
+  },
+  {
+    "code": "2.R.3.B.c",
+    "description": "Read, infer and draw conclusions to explain examples of sensory details"
+  },
+  {
+    "code": "2.R.3.C.a",
+    "description": "Read, infer and draw conclusions to explain main ideas and supporting details"
+  },
+  {
+    "code": "2.R.3.C.b",
+    "description": "Read, infer and draw conclusions to describe the connection between events and retell the sequence of events"
+  },
+  {
+    "code": "2.R.3.C.c",
+    "description": "Read, infer and draw conclusions to describe the connection between and identify problems and solutions"
+  },
+  {
+    "code": "2.R.3.C.d",
+    "description": "Read, infer and draw conclusions to identify the author's purpose"
+  },
+  {
+    "code": "2.R.3.C.e",
+    "description": "Read, infer and draw conclusions to compare and contrast the most important points presented by text on the same topic"
+  },
+  {
+    "code": "2.R.4.A.a",
+    "description": "Read to develop an understanding of media and its components by explaining purposes of media"
+  },
+  {
+    "code": "2.R.4.A.b",
+    "description": "Read to develop an understanding of media and its components by describing techniques used to create media messages"
+  },
+  {
+    "code": "2.R.4.A.c",
+    "description": "Read to develop an understanding of media and its components by identifying various written conventions for using digital media"
+  },
+  {
+    "code": "2.RF.1.A.a",
+    "description": "Develop print awareness in the reading process by understanding that sentences are organized into paragraphs to convey meaning"
+  },
+  {
+    "code": "2.RF.3.A.a",
+    "description": "Develop phonics in the reading process by decoding multisyllabic words in context by applying common letter-sound correspondences including: single letters, consonant blends , consonant and vowel digraphs and vowel diphthongs"
+  },
+  {
+    "code": "2.RF.3.A.b",
+    "description": "Develop phonics in the reading process by distinguishing long and short vowels when reading regularly spelled one syllable words"
+  },
+  {
+    "code": "2.RF.3.A.c",
+    "description": "Develop phonics in the reading process by decoding regularly spelled two syllable words with long vowels"
+  },
+  {
+    "code": "2.RF.3.A.d",
+    "description": "Develop phonics in the reading process by decoding words with vowel diphthongs"
+  },
+  {
+    "code": "2.RF.3.A.e",
+    "description": "Develop phonics in the reading process by decoding words with vowel digraphs"
+  },
+  {
+    "code": "2.RF.3.A.f",
+    "description": "Develop phonics in the reading process by reading words with common prefixes and suffixes"
+  },
+  {
+    "code": "2.RF.3.A.g",
+    "description": "Develop phonics in the reading process by using contractions"
+  },
+  {
+    "code": "2.RF.3.A.h",
+    "description": "Develop phonics in the reading process by using common syllable patterns to decode words including r-controlled vowels"
+  },
+  {
+    "code": "2.RF.3.A.i",
+    "description": "Develop phonics in the reading process by reading irregularly spelled high-frequency words"
+  },
+  {
+    "code": "2.RF.3.A.j",
+    "description": "Develop phonics in the reading process by demonstrating decoding skills when reading new words in a text"
+  },
+  {
+    "code": "2.RF.4.A.a",
+    "description": "Read appropriate texts with fluency (rate, accuracy, expression, appropriate phrasing) with purpose and for comprehension use context to confirm or self-correct word recognition and understanding, rereading as necessary"
+  },
+  {
+    "code": "2.W.1.A.a",
+    "description": "Follow a writing process to plan a first draft by brainstorming and recording key ideas using a graphic organizer"
+  },
+  {
+    "code": "2.W.1.B.a",
+    "description": "Appropriate to genre type, develop a draft from prewriting by sequencing ideas into clear and coherent sentences"
+  },
+  {
+    "code": "2.W.1.B.b",
+    "description": "Appropriate to genre type, develop a draft from prewriting by generating paragraphs with one main idea"
+  },
+  {
+    "code": "2.W.1.B.c",
+    "description": "Appropriate to genre type, develop a draft from prewriting by creating evidence of a beginning, middle and end"
+  },
+  {
+    "code": "2.W.1.B.d",
+    "description": "Appropriate to genre type, develop a draft from prewriting by addressing an appropriate audience"
+  },
+  {
+    "code": "2.W.1.C.a",
+    "description": "Reread, revise and edit drafts with assistance from adults/peers, to strengthen writing as needed by revising"
+  },
+  {
+    "code": "2.W.1.C.b",
+    "description": "Reread, revise and edit drafts with assistance from adults/peers, to edit for language conventions"
+  },
+  {
+    "code": "2.W.1.D.a",
+    "description": "With assistance from adults/peers use a variety of conventional/digital tools to produce and publish writing"
+  },
+  {
+    "code": "2.W.1.D.b",
+    "description": "With assistance from adults/peers introduce keyboarding skills"
+  },
+  {
+    "code": "2.W.2.A.a",
+    "description": "Write opinion texts that introduce a topic or text being studied using complete sentences"
+  },
+  {
+    "code": "2.W.2.A.b",
+    "description": "Write opinion texts that state an opinion about the topic or text and provide reasons for the opinion"
+  },
+  {
+    "code": "2.W.2.A.c",
+    "description": "Write opinion texts that use specific words that are related to the topic and audience"
+  },
+  {
+    "code": "2.W.2.A.d",
+    "description": "Write opinion texts that use linking/transition words and phrases to signal event order"
+  },
+  {
+    "code": "2.W.2.A.e",
+    "description": "Write opinion texts that provide evidence of a beginning, middle and concluding statement or section"
+  },
+  {
+    "code": "2.W.2.B.a",
+    "description": "Write informative/ explanatory texts that introduce a topic or text being studied, using complete sentences"
+  },
+  {
+    "code": "2.W.2.B.b",
+    "description": "Write informative/ explanatory texts that use facts and definitions to develop points in generating paragraphs"
+  },
+  {
+    "code": "2.W.2.B.c",
+    "description": "Write informative/ explanatory texts that use specific words that are related to the topic and audience"
+  },
+  {
+    "code": "2.W.2.B.d",
+    "description": "Write informative/ explanatory texts that use linking words and phrases to signal event order"
+  },
+  {
+    "code": "2.W.2.B.e",
+    "description": "Write informative/ explanatory texts that create a concluding statement or paragraph"
+  },
+  {
+    "code": "2.W.2.C.a",
+    "description": "Write fiction or non-fiction narratives and poems that establish a situation/topic based on the student's experience or imagination"
+  },
+  {
+    "code": "2.W.2.C.b",
+    "description": "Write fiction or non-fiction narratives and poems that introduce a main character and setting"
+  },
+  {
+    "code": "2.W.2.C.c",
+    "description": "Write fiction or non-fiction narratives and poems that develop sensory details"
+  },
+  {
+    "code": "2.W.2.C.d",
+    "description": "Write fiction or non-fiction narratives and poems that follow a logical sequence of events using complete sentences to create a beginning/middle/ end"
+  },
+  {
+    "code": "2.W.2.C.e",
+    "description": "Write fiction or non-fiction narratives and poems that use linking/transition words to signal event order"
+  },
+  {
+    "code": "2.W.2.C.f",
+    "description": "Write fiction or non-fiction narratives and poems that use specific words that are related to the topic and audience"
+  },
+  {
+    "code": "2.W.3.A.a",
+    "description": "Apply research process to generate a list of open-ended questions about topics of interest"
+  },
+  {
+    "code": "2.W.3.A.b",
+    "description": "Apply research process to create an individual question about a topic"
+  },
+  {
+    "code": "2.W.3.A.c",
+    "description": "Apply research process to use their own question to find information on their topic"
+  },
+  {
+    "code": "2.W.3.A.d",
+    "description": "Apply research process to gather evidence from available sources, literary and informational"
+  },
+  {
+    "code": "2.W.3.A.e",
+    "description": "Apply research process to record basic information from literary and informational texts in simple visual format"
+  },
+  {
+    "code": "2.W.3.A.f",
+    "description": "Apply research process to present and evaluate information in written and oral reports or displays, using previously established teacher/student criteria"
+  },
+  {
+    "code": "2.L.1.A.a",
+    "description": "In speech and written form, apply standard English grammar to use nouns and pronouns in writing"
+  },
+  {
+    "code": "2.L.1.A.b",
+    "description": "In speech and written form, apply standard English grammar to use collective nouns"
+  },
+  {
+    "code": "2.L.1.A.c",
+    "description": "In speech and written form, apply standard English grammar to use common irregular nouns"
+  },
+  {
+    "code": "2.L.1.A.d",
+    "description": "In speech and written form, apply standard English grammar to use reflexive pronouns"
+  },
+  {
+    "code": "2.L.1.A.e",
+    "description": "In speech and written form, apply standard English grammar to use regular verbs"
+  },
+  {
+    "code": "2.L.1.A.f",
+    "description": "In speech and written form, apply standard English grammar to use helping verbs with regular verbs"
+  },
+  {
+    "code": "2.L.1.A.g",
+    "description": "In speech and written form, apply standard English grammar to use adjectives and adverbs in sentences"
+  },
+  {
+    "code": "2.L.1.A.h",
+    "description": "In speech and written form, apply standard English grammar to produce simple declarative, imperative, exclamatory, and interrogative sentences"
+  },
+  {
+    "code": "2.L.1.B.a",
+    "description": "In written text write legibly (print, cursive)"
+  },
+  {
+    "code": "2.L.1.B.b",
+    "description": "In written text use dialogue that contains quotation marks"
+  },
+  {
+    "code": "2.L.1.B.c",
+    "description": "In written text use apostrophes correctly for contractions"
+  },
+  {
+    "code": "2.L.1.B.d",
+    "description": "In written text capitalize weeks, days, months, holidays"
+  },
+  {
+    "code": "2.L.1.B.e",
+    "description": "In written text capitalize abbreviated titles of people"
+  },
+  {
+    "code": "2.L.1.B.f",
+    "description": "In written text spell words using irregular spelling patterns"
+  },
+  {
+    "code": "2.L.1.B.g",
+    "description": "In written text spell and use the plural of nouns by adding -es to nouns ending in -s, -ss, -sh, -ch, or -x"
+  },
+  {
+    "code": "2.L.1.B.h",
+    "description": "In written text use nouns that change their spelling in plural form"
+  },
+  {
+    "code": "2.L.1.B.i",
+    "description": "In written text arrange words in alphabetical order, to the second letter"
+  },
+  {
+    "code": "2.SL.1.A.a",
+    "description": "Develop and apply effective listening skills and strategies in formal and informal settings by following classroom listening rules"
+  },
+  {
+    "code": "2.SL.1.A.b",
+    "description": "Develop and apply effective listening skills and strategies in formal and informal settings by following three-step instructions, according to classroom expectations"
+  },
+  {
+    "code": "2.SL.2.A.a",
+    "description": "Develop and apply effective listening skills and strategies in formal and informal settings by demonstrating active listening, according to classroom expectations"
+  },
+  {
+    "code": "2.SL.3.A.a",
+    "description": "Speak clearly and to the point, using conventions of language when presenting individually or with a group by taking turns in discussion with a shoulder partner, according to classroom expectations"
+  },
+  {
+    "code": "2.SL.3.A.b",
+    "description": "Speak clearly and to the point, using conventions of language when presenting individually or with a group by confirming comprehension of read-alouds and independent reading by retelling and asking appropriate questions"
+  },
+  {
+    "code": "2.SL.4.A.a",
+    "description": "Speak clearly, audibly and to the point, using conventions of language when presenting individually or with a group by explaining a topic (student-chosen or teacher-assigned), while maintaining eye contact with audience"
+  },
+  {
+    "code": "2.SL.4.A.b",
+    "description": "Speak clearly, audibly and to the point, using conventions of language when presenting individually or with a group by recalling and telling a story with details, including a beginning, middle, and end"
+  },
+  {
+    "code": "2.SL.4.A.c",
+    "description": "Speak clearly, audibly and to the point, using conventions of language when presenting individually or with a group by using academic language and conventions"
+  }
+]

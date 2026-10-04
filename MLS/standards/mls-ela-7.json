@@ -1,0 +1,162 @@
+[
+  {
+    "code": "7.RL.1.A",
+    "description": "Draw conclusions, infer and analyze by citing several pieces of textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text."
+  },
+  {
+    "code": "7.RL.1.B",
+    "description": "Determine the meaning of words and phrases as they are used in the text, including figurative and connotative meanings using context, affixes, or reference materials."
+  },
+  {
+    "code": "7.RL.1.C",
+    "description": "Interpret visual elements of a text and draw conclusions from them (when applicable)."
+  },
+  {
+    "code": "7.RL.1.D",
+    "description": "Using appropriate text, determine the theme(s) of a text and explain the relationship between the theme(s) and supporting evidence; summarize the text distinct from personal opinions."
+  },
+  {
+    "code": "7.RL.2.A",
+    "description": "Analyze how a texts form or overall structure contributes to meaning."
+  },
+  {
+    "code": "7.RL.2.B",
+    "description": "Analyze how an author develops and contrasts the points of view of different characters or narrators in a text."
+  },
+  {
+    "code": "7.RL.2.C",
+    "description": "Analyze how specific word choices contribute to meaning and tone."
+  },
+  {
+    "code": "7.RL.2.D",
+    "description": "Analyze how the setting, characters, and plot of a text affect each other and contribute to meaning."
+  },
+  {
+    "code": "7.RL.3.A",
+    "description": "Compare and contrast a written story, drama, or poem to its audio, filmed, staged, or multimedia version, analyzing how the techniques unique to each medium contribute to meaning."
+  },
+  {
+    "code": "7.RL.3.B",
+    "description": "Compare and contrast a fictional portrayal of a time, place, or character with realistic accounts of the same subject matter."
+  },
+  {
+    "code": "7.RL.3.C",
+    "description": "Explain how characters and settings reflect historical and/or cultural contexts."
+  },
+  {
+    "code": "7.RL.3.D",
+    "description": "Read and comprehend literature, including stories, dramas and poems, independently and proficiently."
+  },
+  {
+    "code": "7.RI.1.A",
+    "description": "Draw conclusions, infer and analyze by citing several pieces of textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text."
+  },
+  {
+    "code": "7.RI.1.B",
+    "description": "Determine the meaning of words and phrases as they are used in the text, including figurative, connotative, and content-specific meanings using context, affixes, or reference materials."
+  },
+  {
+    "code": "7.RI.1.C",
+    "description": "Interpret visual elements of a text including those from different media and draw conclusions from them (when applicable)."
+  },
+  {
+    "code": "7.RI.1.D",
+    "description": "Explain the central/main idea(s) of a text and explain the relationship between the central idea(s) and supporting evidence; summarize the text distinct from personal opinions."
+  },
+  {
+    "code": "7.RI.2.A",
+    "description": "Analyze how a texts organization or overall structure contributes to meaning"
+  },
+  {
+    "code": "7.RI.2.B",
+    "description": "Analyze how an author develops his/her point of view or purpose and distinguishes it from those of others."
+  },
+  {
+    "code": "7.RI.2.C",
+    "description": "Analyze how word choice contributes to meaning and tone."
+  },
+  {
+    "code": "7.RI.2.D",
+    "description": "Evaluate an authors argument, assessing whether the reasoning is sound and the evidence is relevant and sufficient to support the claims."
+  },
+  {
+    "code": "7.RI.3.A",
+    "description": "Compare and contrast information presented in different mediums and analyze how the techniques unique to each medium contribute to meaning."
+  },
+  {
+    "code": "7.RI.3.B",
+    "description": "Compare and contrast how two or more authors writing about the same topic make decisions about craft and structure."
+  },
+  {
+    "code": "7.RI.3.C",
+    "description": "Explain how the text reflects historical and/or cultural contexts."
+  },
+  {
+    "code": "7.RI.3.D",
+    "description": "Read and comprehend informational text independently and proficiently."
+  },
+  {
+    "code": "7.W.1.A.a",
+    "description": "Conduct research to answer a question; gather relevant sources, print and digital; integrate information using a standard citation system."
+  },
+  {
+    "code": "7.W.1.A.b",
+    "description": "Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accuracy of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation."
+  },
+  {
+    "code": "7.W.2.A.a",
+    "description": "Narrative: Develop narratives including poems about real or imagined experiences, which establish and maintain a consistent point of view, and include clearly identified characters, well-structured event sequences, narrative techniques and relevant, descriptive details"
+  },
+  {
+    "code": "7.W.2.A.b",
+    "description": "Expository: Develop informative/explanatory writing to examine a topic with relevant facts, examples, and details; establish relationships between ideas and supporting evidence"
+  },
+  {
+    "code": "7.W.2.A.c",
+    "description": "Argumentative: Develop argumentative writing by introducing and supporting a claim with clear reasons and relevant evidence; acknowledging counterclaims; establishing relationships between claims and supporting evidence"
+  },
+  {
+    "code": "7.W.3.A.a",
+    "description": "Organization and Content: Introduce the topic, maintain a clear focus throughout the text,and provide a conclusion that follows from the text. Add or delete content to clarify meaning."
+  },
+  {
+    "code": "7.W.3.A.b",
+    "description": "Word choice, syntax, and style: Choose appropriate precise language for the style, task and audience; convey the relationship among ideas through varied sentence structures"
+  },
+  {
+    "code": "7.W.3.A.c",
+    "description": "Conventions of standard English and usage: Demonstrate a command of the conventions of standard English grammar and usage, including spelling and punctuation"
+  },
+  {
+    "code": "7.W.3.A.d",
+    "description": "Use effective transitions to clarify relationships and connect ideas, claims and signal time shifts"
+  },
+  {
+    "code": "7.W.3.A.e",
+    "description": "Use technology, including the Internet, to produce, publish writing and link to and cite sources as well as to interact and collaborate with others, including linking to and citing sources"
+  },
+  {
+    "code": "7.SL.1.A",
+    "description": "Follow rules for collegial discussions and decision-making, track progress toward specific goals and deadlines, and define individual roles as needed."
+  },
+  {
+    "code": "7.SL.1.B",
+    "description": "Delineate a speaker's argument and claims, evaluating reasoning in order to pose questions that elicit elaboration and respond to others questions and comments with relevant observations and ideas that bring the discussion back on topic as needed."
+  },
+  {
+    "code": "7.SL.1.C",
+    "description": "Acknowledge new information expressed by others including those presented in diverse media and, when warranted, modify their own views."
+  },
+  {
+    "code": "7.SL.2.A",
+    "description": "Speak clearly, audibly, and to the point, using conventions of language as appropriate to task, purpose and audience when presenting including appropriate volume at an understandable pace."
+  },
+  {
+    "code": "7.SL.2.B",
+    "description": "Position body to face the audience when speaking and makes eye contact with listeners at various intervals using effective gestures to communicate a clear viewpoint."
+  },
+  {
+    "code": "7.SL.2.C",
+    "description": "Plan and deliver appropriate presentations based on the task, audience and purpose including multimedia components in presentations to clarify claims and findings and emphasize significant points."
+  }
+]

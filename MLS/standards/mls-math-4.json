@@ -1,0 +1,150 @@
+[
+  {
+    "code": "4.NBT.A.1",
+    "description": "Round multi-digit whole numbers to any place."
+  },
+  {
+    "code": "4.NBT.A.2",
+    "description": "Read, write and identify multi-digit whole numbers up to one million using number names, base ten numerals and expanded form."
+  },
+  {
+    "code": "4.NBT.A.3",
+    "description": "Compare two multi-digit numbers using the symbols >, = or <, and justify the solution."
+  },
+  {
+    "code": "4.NBT.A.4",
+    "description": "Understand that in a multi-digit whole number, a digit represent 10 times what it would represents in the place to its right."
+  },
+  {
+    "code": "4.NBT.A.5",
+    "description": "Demonstrate fluency with addition and subtraction of whole numbers."
+  },
+  {
+    "code": "4.NBT.A.6",
+    "description": "Multiply a whole number of up to four digits by a one-digit whole number and multiply two two-digit numbers, and justify the solution."
+  },
+  {
+    "code": "4.NBT.A.7",
+    "description": "Find whole-number quotients and remainders with up to four-digit dividends and one-digit divisors, and justify the solution."
+  },
+  {
+    "code": "4.NF.A.1",
+    "description": "Explain and/or illustrate why two fractions are equivalent."
+  },
+  {
+    "code": "4.NF.A.2",
+    "description": "Recognize and generate equivalent fractions."
+  },
+  {
+    "code": "4.NF.A.3",
+    "description": "Compare two fractions using the symbols >, = or <, and justify the solution."
+  },
+  {
+    "code": "4.NF.B.4",
+    "description": "Understand addition and subtraction of fractions as joining/composing and separating/decomposing parts referring to the same whole."
+  },
+  {
+    "code": "4.NF.B.5",
+    "description": "Decompose a fraction into a sum of fractions with the same denominator and record each decomposition with an equation and justification."
+  },
+  {
+    "code": "4.NF.B.6",
+    "description": "Solve problems involving adding and subtracting fractions and mixed numbers with like denominators."
+  },
+  {
+    "code": "4.NF.B.7",
+    "description": "Apply and extend previous understandings of multiplication to multiply a fraction by a whole number."
+  },
+  {
+    "code": "4.NF.B.8",
+    "description": "Solve problems involving multiplication of a fraction by a whole number."
+  },
+  {
+    "code": "4.NF.C.9",
+    "description": "Use decimal notation for fractions with denominators of 10 or 100."
+  },
+  {
+    "code": "4.NF.C.10",
+    "description": "Understand that fractions and decimals are equivalent representations of the same quantity."
+  },
+  {
+    "code": "4.NF.C.11",
+    "description": "Read, write and identify decimals to the hundredths place using number names, base ten numerals and expanded form."
+  },
+  {
+    "code": "4.NF.C.12",
+    "description": "Compare two decimals to the hundredths place using the symbols >, = or <, and justify the solution."
+  },
+  {
+    "code": "4.RA.A.1",
+    "description": "Multiply or divide to solve problems involving a multiplicative comparison."
+  },
+  {
+    "code": "4.RA.A.2",
+    "description": "Solve multi-step whole number problems involving the four operations and variables and using estimation to interpret the reasonableness of the answer."
+  },
+  {
+    "code": "4.RA.A.3",
+    "description": "Solve whole number division problems involving variables in which remainders need to be interpreted, and justify the solution."
+  },
+  {
+    "code": "4.RA.B.4",
+    "description": "Recognize that a whole number is a multiple of each of its factors and find the multiples for a given whole number."
+  },
+  {
+    "code": "4.RA.B.5",
+    "description": "Determine if a whole number within 100 is composite or prime, and find all factor pairs for whole numbers within 100."
+  },
+  {
+    "code": "4.RA.C.6",
+    "description": "Generate a number pattern that follows a given rule."
+  },
+  {
+    "code": "4.RA.C.7",
+    "description": "Use words or mathematical symbols to express a rule for a given pattern."
+  },
+  {
+    "code": "4.GM.A.1",
+    "description": "Draw and identify points, lines, line segments, rays, angles, perpendicular lines and parallel lines."
+  },
+  {
+    "code": "4.GM.A.2",
+    "description": "Classify two-dimensional shapes by their sides and/or angles."
+  },
+  {
+    "code": "4.GM.A.3",
+    "description": "Construct lines of symmetry for a two-dimensional figure."
+  },
+  {
+    "code": "4.GM.B.4",
+    "description": "Identify and estimate angles and their measure."
+  },
+  {
+    "code": "4.GM.B.5",
+    "description": "Draw and measure angles in whole-number degrees using a protractor."
+  },
+  {
+    "code": "4.GM.C.6a",
+    "description": "Convert measurements in a larger unit in terms of a smaller unit."
+  },
+  {
+    "code": "4.GM.C.7",
+    "description": "Use the four operations to solve problems involving distances, intervals of time, liquid volume, weight of objects and money."
+  },
+  {
+    "code": "4.GM.C.8",
+    "description": "Apply the area and perimeter formulas for rectangles to solve problems."
+  },
+  {
+    "code": "4.DS.A.1",
+    "description": "Create a frequency table and/or line plot to display measurement data."
+  },
+  {
+    "code": "4.DS.A.2",
+    "description": "Solve problems involving addition and subtraction by using information presented in a data display."
+  },
+  {
+    "code": "4.DS.A.3",
+    "description": "Analyze the data in a frequency table, line plot, bar graph or picture graph."
+  }
+]
