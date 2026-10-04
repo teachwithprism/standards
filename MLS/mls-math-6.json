@@ -1,0 +1,202 @@
+[
+  {
+    "code": "6.RP.A.1",
+    "description": "Understand a ratio as a comparison of two quantities and represent these comparisons."
+  },
+  {
+    "code": "6.RP.A.2",
+    "description": "Understand the concept of a unit rate associated with a ratio, and describe the meaning of unit rate."
+  },
+  {
+    "code": "6.RP.A.3a",
+    "description": "Create tables of equivalent ratios, find missing values in the tables and plot the pairs of values on the Cartesian coordinate plane."
+  },
+  {
+    "code": "6.RP.A.3b",
+    "description": "Solve unit rate problems."
+  },
+  {
+    "code": "6.RP.A.3c",
+    "description": "Solve percent problems."
+  },
+  {
+    "code": "6.RP.A.3d",
+    "description": "Convert measurement units within and between two systems of measurement."
+  },
+  {
+    "code": "6.NS.A.1a",
+    "description": "Solve problems involving division of fractions by fractions."
+  },
+  {
+    "code": "6.NS.B.2",
+    "description": "Demonstrate fluency with division of multi-digit whole numbers."
+  },
+  {
+    "code": "6.NS.B.3",
+    "description": "Demonstrate fluency with addition, subtraction, multiplication and division of decimals."
+  },
+  {
+    "code": "6.NS.B.4a",
+    "description": "Find the greatest common factor (GCF) and the least common multiple (LCM)."
+  },
+  {
+    "code": "6.NS.B.4b",
+    "description": "Use the distributive property to express a sum of two whole numbers with a common factor as a multiple of a sum of two whole numbers."
+  },
+  {
+    "code": "6.NS.C.5",
+    "description": "Use positive and negative numbers to represent quantities."
+  },
+  {
+    "code": "6.NS.C.6a",
+    "description": "Locate rational numbers on a horizontal or vertical number line."
+  },
+  {
+    "code": "6.NS.C.6b",
+    "description": "Write, interpret and explain problems of ordering of rational numbers."
+  },
+  {
+    "code": "6.NS.C.6c",
+    "description": "Understand that a number and its opposite (additive inverse) are located on opposite sides of zero on the number line."
+  },
+  {
+    "code": "6.NS.C.7",
+    "description": "Understand that the absolute value of a rational number is its distance from 0 on the number line."
+  },
+  {
+    "code": "6.NS.C.8",
+    "description": "Extend prior knowledge to generate equivalent representations of rational numbers between fractions, decimals and percentages (limited to terminating decimals and/or benchmark fractions of 1/3 and 2/3)."
+  },
+  {
+    "code": "6.EEI.A.1",
+    "description": "Describe the difference between an expression and an equation."
+  },
+  {
+    "code": "6.EEI.A.2a",
+    "description": "Identify parts of an expression using mathematical terminology."
+  },
+  {
+    "code": "6.EEI.A.2b",
+    "description": "Evaluate expressions at specific values of the variables."
+  },
+  {
+    "code": "6.EEI.A.2c",
+    "description": "Evaluate non-negative rational number expressions."
+  },
+  {
+    "code": "6.EEI.A.2d",
+    "description": "Write and evaluate algebraic expressions."
+  },
+  {
+    "code": "6.EEI.A.2e",
+    "description": "Understand the meaning of the variable in the context of the situation."
+  },
+  {
+    "code": "6.EEI.A.3",
+    "description": "Identify and generate equivalent algebraic expressions using mathematical properties."
+  },
+  {
+    "code": "6.EEI.B.4",
+    "description": "Use substitution to determine whether a given number in a specified set makes a one-variable equation or inequality true."
+  },
+  {
+    "code": "6.EEI.B.5",
+    "description": "Understand that if any solutions exist, the solution set for an equation or inequality consists of values that make the equation or inequality true."
+  },
+  {
+    "code": "6.EEI.B.6",
+    "description": "Write and solve equations using variables to represent quantities, and understand the meaning of the variable in the context of the situation."
+  },
+  {
+    "code": "6.EEI.B.7",
+    "description": "Solve one-step linear equations in one variable involving non-negative rational numbers."
+  },
+  {
+    "code": "6.EEI.B.8a",
+    "description": "Write an inequality of the form x > c, x < c, x ≥ c, or x ≤ c to represent a constraint or condition."
+  },
+  {
+    "code": "6.EEI.B.8b",
+    "description": "Graph the solution set of an inequality."
+  },
+  {
+    "code": "6.EEI.C.9a",
+    "description": "Write an equation to express one quantity, the dependent variable, in terms of the other quantity, the independent variable."
+  },
+  {
+    "code": "6.EEI.C.9b",
+    "description": "Analyze the relationship between the dependent and independent variables using graphs, tables and equations and relate these representations to each other."
+  },
+  {
+    "code": "6.GM.A.1",
+    "description": "Find the area of polygons by composing or decomposing the shapes into rectangles or triangles."
+  },
+  {
+    "code": "6.GM.A.2a",
+    "description": "Understand that the volume of a right rectangular prism can be found by filling the prism with multiple layers of the base."
+  },
+  {
+    "code": "6.GM.A.2b",
+    "description": "Apply V = l * w * h and V = Bh to find the volume of right rectangular prisms."
+  },
+  {
+    "code": "6.GM.A.3a",
+    "description": "Understand signs of numbers in ordered pairs as indicating locations in quadrants of the Cartesian coordinate plane."
+  },
+  {
+    "code": "6.GM.A.3b",
+    "description": "Recognize that when two ordered pairs differ only by signs, the locations of the points are related by reflections across one or both axes."
+  },
+  {
+    "code": "6.GM.A.3c",
+    "description": "Find distances between points with the same first coordinate or the same second coordinate."
+  },
+  {
+    "code": "6.GM.A.3d",
+    "description": "Construct polygons in the Cartesian coordinate plane."
+  },
+  {
+    "code": "6.GM.A.4a",
+    "description": "Represent three-dimensional figures using nets made up of rectangles and triangles."
+  },
+  {
+    "code": "6.GM.A.4b",
+    "description": "Use nets to find the surface area of three-dimensional figures whose sides are made up of rectangles and triangles."
+  },
+  {
+    "code": "6.DSP.A.1",
+    "description": "Recognize a statistical question as one that anticipates variability in the data related to the question and accounts for it in the answers."
+  },
+  {
+    "code": "6.DSP.A.2",
+    "description": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread and overall shape."
+  },
+  {
+    "code": "6.DSP.A.3",
+    "description": "Recognize that a measure of center for a numerical data set summarizes all of its values with a single number, while a measure of variation describes how its values vary from a single number."
+  },
+  {
+    "code": "6.DSP.B.4a",
+    "description": "Use dot plots, histograms and box plots to display and interpret numerical data."
+  },
+  {
+    "code": "6.DSP.B.4b",
+    "description": "Create and interpret circle graphs."
+  },
+  {
+    "code": "6.DSP.B.5a",
+    "description": "Report the number of observations."
+  },
+  {
+    "code": "6.DSP.B.5b",
+    "description": "Describe the nature of the attribute under investigation, including how it was measured and its units of measurement."
+  },
+  {
+    "code": "6.DSP.B.5c",
+    "description": "Give quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context of the data."
+  },
+  {
+    "code": "6.DSP.B.5d",
+    "description": "Analyze the choice of measures of center and variability based on the shape of the data distribution and/or the context of the data."
+  }
+]

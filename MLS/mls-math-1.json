@@ -1,0 +1,122 @@
+[
+  {
+    "code": "1.NS.A.1",
+    "description": "Count to 120, starting at any number less than 120."
+  },
+  {
+    "code": "1.NS.A.2",
+    "description": "Read and write numerals and represent a number of objects with a written numeral."
+  },
+  {
+    "code": "1.NS.A.3",
+    "description": "Count backward from a given number between 20 and 1."
+  },
+  {
+    "code": "1.NS.A.4",
+    "description": "Count by 5s to 100 starting at any multiple of five."
+  },
+  {
+    "code": "1.NBT.A.1",
+    "description": "Understand that 10 can be thought of as a bundle of 10 ones - called a \"ten\"."
+  },
+  {
+    "code": "1.NBT.A.2",
+    "description": "Understand two-digit numbers are composed of ten (s) and ones (s)."
+  },
+  {
+    "code": "1.NBT.A.3",
+    "description": "Compare two two-digit numbers using the symbols >, = or <."
+  },
+  {
+    "code": "1.NBT.A.4",
+    "description": "Count by 10s to 120 starting at any number."
+  },
+  {
+    "code": "1.NBT.B.5",
+    "description": "Add within 100."
+  },
+  {
+    "code": "1.NBT.B.6",
+    "description": "Calculate 10 more or 10 less than a given number mentally without having to count."
+  },
+  {
+    "code": "1.NBT.B.7",
+    "description": "Add or subtract a multiple of 10 from another two-digit number, and justify the solution."
+  },
+  {
+    "code": "1.RA.A.1",
+    "description": "Use addition and subtraction within 20 to solve problems."
+  },
+  {
+    "code": "1.RA.A.2",
+    "description": "Solve problems that call for addition of three whole numbers whose sum is within 20."
+  },
+  {
+    "code": "1.RA.A.3",
+    "description": "Develop the meaning of the equal sign and determine if equations involving addition and subtraction are true or false."
+  },
+  {
+    "code": "1.RA.A.4",
+    "description": "Determine the unknown whole number in an addition or subtraction equation relating three whole numbers."
+  },
+  {
+    "code": "1.RA.B.5",
+    "description": "Use properties as strategies to add and subtract."
+  },
+  {
+    "code": "1.RA.B.6",
+    "description": "Demonstrate that subtraction can be solved as an unknown-addend problem."
+  },
+  {
+    "code": "1.RA.C.7",
+    "description": "Add and subtract within 20."
+  },
+  {
+    "code": "1.RA.C.8",
+    "description": "Demonstrate fluency with addition and subtraction within 10."
+  },
+  {
+    "code": "1.GM.A.1",
+    "description": "Distinguish between defining attributes versus non-defining attributes; build and draw shapes that possess defining attributes."
+  },
+  {
+    "code": "1.GM.A.2",
+    "description": "Compose and decompose two- and three-dimensional shapes to build an understanding of part-whole relationships and the properties of the original and composite shapes."
+  },
+  {
+    "code": "1.GM.A.3",
+    "description": "Recognize two- and three-dimensional shapes from different perspectives and orientations."
+  },
+  {
+    "code": "1.GM.A.4",
+    "description": "Partition circles and rectangles into two or four equal shares, and describe the shares and the wholes verbally."
+  },
+  {
+    "code": "1.GM.B.5",
+    "description": "Order three or more objects by length."
+  },
+  {
+    "code": "1.GM.B.6",
+    "description": "Compare the lengths of two objects indirectly by using a third object."
+  },
+  {
+    "code": "1.GM.B.7",
+    "description": "Demonstrate the ability to measure length or distance using objects."
+  },
+  {
+    "code": "1.GM.C.8",
+    "description": "Tell and write time in hours and half-hours using analog and digital clocks."
+  },
+  {
+    "code": "1.GM.C.9",
+    "description": "Know the value of a penny, nickel, dime and quarter."
+  },
+  {
+    "code": "1.DS.A.1",
+    "description": "Collect, organize and represent data with up to three categories."
+  },
+  {
+    "code": "1.DS.A.2",
+    "description": "Draw conclusions from object graphs, picture graphs, T-charts and tallies."
+  }
+]

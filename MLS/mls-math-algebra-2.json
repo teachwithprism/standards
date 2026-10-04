@@ -1,0 +1,138 @@
+[
+  {
+    "code": "A2.NQ.A.1",
+    "description": "Extend the system of powers and roots to include rational exponents."
+  },
+  {
+    "code": "A2.NQ.A.2",
+    "description": "Create and recognize equivalent expressions involving radical and exponential forms of expressions."
+  },
+  {
+    "code": "A2.NQ.A.3",
+    "description": "Add, subtract, multiply and divide radical expressions."
+  },
+  {
+    "code": "A2.NQ.A.4",
+    "description": "Solve equations involving rational exponents and/or radicals and identify situations where extraneous solutions may result."
+  },
+  {
+    "code": "A2.NQ.B.5",
+    "description": "Represent complex numbers."
+  },
+  {
+    "code": "A2.NQ.B.6",
+    "description": "Add, subtract, multiply and divide complex numbers."
+  },
+  {
+    "code": "A2.NQ.B.7",
+    "description": "Know and apply the Fundamental Theorem of Algebra."
+  },
+  {
+    "code": "A2.SSE.A.1",
+    "description": "Develop the definition of logarithms based on properties of exponents."
+  },
+  {
+    "code": "A2.SSE.A.2",
+    "description": "Use the inverse relationship between exponents and logarithms to solve exponential and logarithmic equations."
+  },
+  {
+    "code": "A2.SSE.A.3",
+    "description": "Use properties of logarithms to solve equations or find equivalent expressions."
+  },
+  {
+    "code": "A2.SSE.A.4",
+    "description": "Understand why logarithmic scales are used, and use them to solve problems."
+  },
+  {
+    "code": "A2.REI.A.1",
+    "description": "Create and solve equations and inequalities, including those that involve absolute value."
+  },
+  {
+    "code": "A2.REI.A.2",
+    "description": "Solve rational equations where numerators and denominators are polynomials and where extraneous solutions may result."
+  },
+  {
+    "code": "A2.REI.B.3",
+    "description": "Create and solve systems of equations that may include non-linear equations and inequalities."
+  },
+  {
+    "code": "A2.APR.A.1",
+    "description": "Extend the knowledge of factoring to include factors with complex coefficients."
+  },
+  {
+    "code": "A2.APR.A.2",
+    "description": "Understand the Remainder Theorem and use it to solve problems."
+  },
+  {
+    "code": "A2.APR.A.3",
+    "description": "Find the least common multiple of two or more polynomials."
+  },
+  {
+    "code": "A2.APR.A.4",
+    "description": "Add, subtract, multiply and divide rational expressions."
+  },
+  {
+    "code": "A2.APR.A.5",
+    "description": "Identify zeros of polynomials when suitable factorizations are available, and use the zeros to sketch the function defined by the polynomial."
+  },
+  {
+    "code": "A2.IF.A.1",
+    "description": "Identify and interpret key characteristics of functions represented graphically, with tables and with algebraic symbolism to solve problems."
+  },
+  {
+    "code": "A2.IF.A.2",
+    "description": "Translate between equivalent forms of functions."
+  },
+  {
+    "code": "A2.BF.A.1",
+    "description": "Create new functions by applying the four arithmetic operations and composition of functions (modifying the domain and range as necessary)."
+  },
+  {
+    "code": "A2.BF.A.2",
+    "description": "Derive inverses of functions, and compose the inverse with the original function to show that the functions are inverses."
+  },
+  {
+    "code": "A2.BF.A.3",
+    "description": "Describe the effects of transformations algebraically and graphically, creating vertical and horizontal translations, vertical and horizontal reflections and dilations (expansions/compressions) for linear, quadratic, cubic, square and cube root, absolute value, exponential and logarithmic functions."
+  },
+  {
+    "code": "A2.FM.A.1",
+    "description": "Create functions and use them to solve applications of quadratic and exponential function model problems."
+  },
+  {
+    "code": "A2.DS.A.1",
+    "description": "Analyze how random sampling could be used to make inferences about population parameters."
+  },
+  {
+    "code": "A2.DS.A.2",
+    "description": "Determine whether a specified model is consistent with a given data set."
+  },
+  {
+    "code": "A2.DS.A.3",
+    "description": "Describe and explain the purposes, relationship to randomization and differences among sample surveys, experiments and observational studies."
+  },
+  {
+    "code": "A2.DS.A.4",
+    "description": "Use data from a sample to estimate characteristics of the population and recognize the meaning of the margin of error in these estimates."
+  },
+  {
+    "code": "A2.DS.A.5",
+    "description": "Describe and explain how the relative sizes of a sample and the population affect the margin of error of predictions."
+  },
+  {
+    "code": "A2.DS.A.6",
+    "description": "Analyze decisions and strategies using probability concepts."
+  },
+  {
+    "code": "A2.DS.A.7",
+    "description": "Evaluate reports based on data."
+  },
+  {
+    "code": "A2.DS.B.8",
+    "description": "Know and use the characteristics of normally distributed data sets; predict what percentage of the data will be above or below a given value that is a multiple of standard deviations above or below the mean."
+  },
+  {
+    "code": "A2.DS.B.9",
+    "description": "Fit a data set to a distribution using its mean and standard deviation to determine whether the data is approximately normally distributed."
+  }
+]
