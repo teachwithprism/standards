@@ -20,23 +20,23 @@
     "description": "Understand a unit fraction as the quantity formed by one part when a whole is partitioned into equal parts."
   },
   {
-    "code": "3.NF.A.2a",
+    "code": "3.NF.A.2.a",
     "description": "Describe the numerator as representing the number of pieces being considered"
   },
   {
-    "code": "3.NF.A.2b",
+    "code": "3.NF.A.2.b",
     "description": "Describe the denominator as the number of pieces that make the whole."
   },
   {
-    "code": "3.NF.A.3a",
+    "code": "3.NF.A.3.a",
     "description": "Understand the whole is the interval from 0 to 1."
   },
   {
-    "code": "3.NF.A.3b",
+    "code": "3.NF.A.3.b",
     "description": "Understand the whole is partitioned into equal parts."
   },
   {
-    "code": "3.NF.A.3c",
+    "code": "3.NF.A.3.c",
     "description": "Understand a fraction represents the endpoint of the length a given number of partitions from 0."
   },
   {

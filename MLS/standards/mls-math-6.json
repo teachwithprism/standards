@@ -8,23 +8,23 @@
     "description": "Understand the concept of a unit rate associated with a ratio, and describe the meaning of unit rate."
   },
   {
-    "code": "6.RP.A.3a",
+    "code": "6.RP.A.3.a",
     "description": "Create tables of equivalent ratios, find missing values in the tables and plot the pairs of values on the Cartesian coordinate plane."
   },
   {
-    "code": "6.RP.A.3b",
+    "code": "6.RP.A.3.b",
     "description": "Solve unit rate problems."
   },
   {
-    "code": "6.RP.A.3c",
+    "code": "6.RP.A.3.c",
     "description": "Solve percent problems."
   },
   {
-    "code": "6.RP.A.3d",
+    "code": "6.RP.A.3.d",
     "description": "Convert measurement units within and between two systems of measurement."
   },
   {
-    "code": "6.NS.A.1a",
+    "code": "6.NS.A.1.a",
     "description": "Solve problems involving division of fractions by fractions."
   },
   {
@@ -36,11 +36,11 @@
     "description": "Demonstrate fluency with addition, subtraction, multiplication and division of decimals."
   },
   {
-    "code": "6.NS.B.4a",
+    "code": "6.NS.B.4.a",
     "description": "Find the greatest common factor (GCF) and the least common multiple (LCM)."
   },
   {
-    "code": "6.NS.B.4b",
+    "code": "6.NS.B.4.b",
     "description": "Use the distributive property to express a sum of two whole numbers with a common factor as a multiple of a sum of two whole numbers."
   },
   {
@@ -48,15 +48,15 @@
     "description": "Use positive and negative numbers to represent quantities."
   },
   {
-    "code": "6.NS.C.6a",
+    "code": "6.NS.C.6.a",
     "description": "Locate rational numbers on a horizontal or vertical number line."
   },
   {
-    "code": "6.NS.C.6b",
+    "code": "6.NS.C.6.b",
     "description": "Write, interpret and explain problems of ordering of rational numbers."
   },
   {
-    "code": "6.NS.C.6c",
+    "code": "6.NS.C.6.c",
     "description": "Understand that a number and its opposite (additive inverse) are located on opposite sides of zero on the number line."
   },
   {
@@ -72,23 +72,23 @@
     "description": "Describe the difference between an expression and an equation."
   },
   {
-    "code": "6.EEI.A.2a",
+    "code": "6.EEI.A.2.a",
     "description": "Identify parts of an expression using mathematical terminology."
   },
   {
-    "code": "6.EEI.A.2b",
+    "code": "6.EEI.A.2.b",
     "description": "Evaluate expressions at specific values of the variables."
   },
   {
-    "code": "6.EEI.A.2c",
+    "code": "6.EEI.A.2.c",
     "description": "Evaluate non-negative rational number expressions."
   },
   {
-    "code": "6.EEI.A.2d",
+    "code": "6.EEI.A.2.d",
     "description": "Write and evaluate algebraic expressions."
   },
   {
-    "code": "6.EEI.A.2e",
+    "code": "6.EEI.A.2.e",
     "description": "Understand the meaning of the variable in the context of the situation."
   },
   {
@@ -112,19 +112,19 @@
     "description": "Solve one-step linear equations in one variable involving non-negative rational numbers."
   },
   {
-    "code": "6.EEI.B.8a",
+    "code": "6.EEI.B.8.a",
     "description": "Write an inequality of the form x > c, x < c, x ≥ c, or x ≤ c to represent a constraint or condition."
   },
   {
-    "code": "6.EEI.B.8b",
+    "code": "6.EEI.B.8.b",
     "description": "Graph the solution set of an inequality."
   },
   {
-    "code": "6.EEI.C.9a",
+    "code": "6.EEI.C.9.a",
     "description": "Write an equation to express one quantity, the dependent variable, in terms of the other quantity, the independent variable."
   },
   {
-    "code": "6.EEI.C.9b",
+    "code": "6.EEI.C.9.b",
     "description": "Analyze the relationship between the dependent and independent variables using graphs, tables and equations and relate these representations to each other."
   },
   {
@@ -132,35 +132,35 @@
     "description": "Find the area of polygons by composing or decomposing the shapes into rectangles or triangles."
   },
   {
-    "code": "6.GM.A.2a",
+    "code": "6.GM.A.2.a",
     "description": "Understand that the volume of a right rectangular prism can be found by filling the prism with multiple layers of the base."
   },
   {
-    "code": "6.GM.A.2b",
+    "code": "6.GM.A.2.b",
     "description": "Apply V = l * w * h and V = Bh to find the volume of right rectangular prisms."
   },
   {
-    "code": "6.GM.A.3a",
+    "code": "6.GM.A.3.a",
     "description": "Understand signs of numbers in ordered pairs as indicating locations in quadrants of the Cartesian coordinate plane."
   },
   {
-    "code": "6.GM.A.3b",
+    "code": "6.GM.A.3.b",
     "description": "Recognize that when two ordered pairs differ only by signs, the locations of the points are related by reflections across one or both axes."
   },
   {
-    "code": "6.GM.A.3c",
+    "code": "6.GM.A.3.c",
     "description": "Find distances between points with the same first coordinate or the same second coordinate."
   },
   {
-    "code": "6.GM.A.3d",
+    "code": "6.GM.A.3.d",
     "description": "Construct polygons in the Cartesian coordinate plane."
   },
   {
-    "code": "6.GM.A.4a",
+    "code": "6.GM.A.4.a",
     "description": "Represent three-dimensional figures using nets made up of rectangles and triangles."
   },
   {
-    "code": "6.GM.A.4b",
+    "code": "6.GM.A.4.b",
     "description": "Use nets to find the surface area of three-dimensional figures whose sides are made up of rectangles and triangles."
   },
   {
@@ -176,27 +176,27 @@
     "description": "Recognize that a measure of center for a numerical data set summarizes all of its values with a single number, while a measure of variation describes how its values vary from a single number."
   },
   {
-    "code": "6.DSP.B.4a",
+    "code": "6.DSP.B.4.a",
     "description": "Use dot plots, histograms and box plots to display and interpret numerical data."
   },
   {
-    "code": "6.DSP.B.4b",
+    "code": "6.DSP.B.4.b",
     "description": "Create and interpret circle graphs."
   },
   {
-    "code": "6.DSP.B.5a",
+    "code": "6.DSP.B.5.a",
     "description": "Report the number of observations."
   },
   {
-    "code": "6.DSP.B.5b",
+    "code": "6.DSP.B.5.b",
     "description": "Describe the nature of the attribute under investigation, including how it was measured and its units of measurement."
   },
   {
-    "code": "6.DSP.B.5c",
+    "code": "6.DSP.B.5.c",
     "description": "Give quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context of the data."
   },
   {
-    "code": "6.DSP.B.5d",
+    "code": "6.DSP.B.5.d",
     "description": "Analyze the choice of measures of center and variability based on the shape of the data distribution and/or the context of the data."
   }
 ]

@@ -48,15 +48,15 @@
     "description": "Demonstrate fluency with addition and subtraction within 20."
   },
   {
-    "code": "2.RA.B.2a",
+    "code": "2.RA.B.2.a",
     "description": "Count by 2s to 100 starting with any even number."
   },
   {
-    "code": "2.RA.B.2b",
+    "code": "2.RA.B.2.b",
     "description": "Express even numbers as pairings/groups of 2, and write an expression to represent the number using addends of 2."
   },
   {
-    "code": "2.RA.B.2c",
+    "code": "2.RA.B.2.c",
     "description": "Express even numbers as being composed of equal groups and write an expression to represent the number with 2 equal addends."
   },
   {
@@ -64,11 +64,11 @@
     "description": "Find the total number of objects arranged in a rectangular array with up to 5 rows and 5 columns, and write an equation to represent the total as a sum of equal addends."
   },
   {
-    "code": "2.GM.A.1a",
+    "code": "2.GM.A.1.a",
     "description": "Identify triangles, quadrilaterals, pentagons, hexagons, circles and cubes."
   },
   {
-    "code": "2.GM.A.1b",
+    "code": "2.GM.A.1.b",
     "description": "Identify the faces of three-dimensional objects."
   },
   {
@@ -76,7 +76,7 @@
     "description": "Partition a rectangle into rows and columns of same-size squares and count to find the total number of squares."
   },
   {
-    "code": "2.GM.A.3a",
+    "code": "2.GM.A.3.a",
     "description": "Demonstrate that equal shares of identical wholes need not have the same shape."
   },
   {
