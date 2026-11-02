@@ -1,0 +1,62 @@
+[
+  {
+    "code": "K.ESS1.B.1",
+    "description": "Make observations during different seasons to relate the amount of daylight to the time of year.",
+    "clarification": "Emphasis is on relative comparisons of the amount of daylight in the winter to the amount in the spring or fall."
+  },
+  {
+    "code": "K.ESS2.D.1",
+    "description": "Use and share observations of local weather conditions to describe patterns over time.",
+    "clarification": "Examples of qualitative observations could include descriptions of the weather (such as sunny, cloudy, rainy, and warm); examples of quantitative observations could include numbers of sunny, windy, and rainy days in a month. Examples of patterns could include that it is usually cooler in the morning than in the afternoon and the number of sunny days versus cloudy days in different month."
+  },
+  {
+    "code": "K.ESS2.E.1",
+    "description": "With prompting and support, construct an argument using evidence for how plants and animals (including but not limited to humans) can change the environment to meet their needs."
+  },
+  {
+    "code": "K.ESS3.A.1",
+    "description": "Use a model to represent the relationship between the needs of different plants or animals (including humans) and the places they live."
+  },
+  {
+    "code": "K.ESS3.C.1",
+    "description": "Communicate solutions that will reduce the impact of humans on the land, water, air, and/or other living things in the local environment."
+  },
+  {
+    "code": "K.ETS1.A.1",
+    "description": "Ask questions, make observations, and gather information about a situation people want to change to define a simple problem that can be solved through the development of a new or improved object or tool."
+  },
+  {
+    "code": "K.ETS1.B.1",
+    "description": "Develop a simple sketch, drawing, or physical model to illustrate how the shape of an object helps it function as needed to solve a given problem."
+  },
+  {
+    "code": "K.ETS1.C.1",
+    "description": "Analyze data from tests of two objects designed to solve the same problem to compare the strength and weaknesses of how each performs."
+  },
+  {
+    "code": "K.LS1.C.1",
+    "description": "Use observations to describe patterns of what plants and animals (including humans) need to survive.",
+    "clarification": "Examples of patterns could include that animals need to take in food but plants do not; the different kinds of food needed by different types of animals; the requirement of plants to have light; and, that all living things need water."
+  },
+  {
+    "code": "K.PS1.A.1",
+    "description": "Make qualitative observations of the physical properties of objects (i.e., size, shape, color, mass)."
+  },
+  {
+    "code": "K.PS2.A.1",
+    "description": "Plan and conduct an investigation to compare the effects of different strength or different directions of pushes and pulls on the motion of an object.",
+    "clarification": "Examples of pushes or pulls could include a string attached to an object being pulled, a person pushing an object, a person stopping a rolling ball, and two objects colliding and pushing on each other."
+  },
+  {
+    "code": "K.PS2.A.2",
+    "description": "Describe ways to change the motion of an object (i.e., how to cause an object to go slower, go faster, go farther, change direction, stop)."
+  },
+  {
+    "code": "K.PS3.A.1",
+    "description": "Make observations to determine the effect of sunlight on Earth’s surface."
+  },
+  {
+    "code": "K.PS3.B.1",
+    "description": "With prompting and support, use tools and materials to design and build a structure that will reduce the warming effect of sunlight on an area"
+  }
+]

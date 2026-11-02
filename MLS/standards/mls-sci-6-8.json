@@ -1,0 +1,292 @@
+[
+  {
+    "code": "6-8.ESS1.A.1",
+    "description": "Develop and use a model of the Earth-sun-moon system to explain the cyclic patterns of lunar phases and eclipses of the sun and moon.",
+    "clarification": "Examples of models can be physical, graphical, or conceptual and should emphasize relative positions and distances."
+  },
+  {
+    "code": "6-8.ESS1.A.2",
+    "description": "Develop and use a model of the Earth-sun system to explain the cyclical pattern of seasons, which includes the Earth's tilt and directional angle of sunlight on different areas of Earth across the year.",
+    "clarification": "Examples of models can be physical, graphical, or conceptual."
+  },
+  {
+    "code": "6-8.ESS1.A.3",
+    "description": "Develop and use a model to describe the role of gravity in the motions within galaxies and the solar system.",
+    "clarification": "Emphasis for the model is on gravity as the force that holds together the solar system and Milky Way galaxy and controls orbital motions within them. Examples of models can be physical or conceptual.",
+    "assessmentBoundary": "Assessment does not include Kepler’s Laws of orbital motion or the apparent retrograde motion of the planets as viewed from Earth."
+  },
+  {
+    "code": "6-8.ESS1.B.1",
+    "description": "Analyze and interpret data to determine scale properties of objects in the solar system.",
+    "clarification": "Examples of scale properties include the sizes of an object’s layers (such as crust and atmosphere), surface features (such as volcanoes), and orbital radius. Examples of data include statistical information, drawings and photograph, and models.",
+    "assessmentBoundary": "Assessment does not include recalling facts about properties of the planets and other solar system bodies."
+  },
+  {
+    "code": "6-8.ESS1.C.1",
+    "description": "Construct a scientific explanation based on evidence from rock strata for how the geologic time scale is used to organize Earth's history.",
+    "clarification": "Emphasis is on how analyses of rock formations and the fossils they contain are used to establish relative ages of major events in Earth’s history. Examples of Earth’s major events could range from being very recent (such as the last Ice Age or the earliest fossils of homo sapiens) to very old (such as the formation of Earth or the earliest evidence of life). Examples can include the formation of mountain chains and ocean basins, the evolution or extinction of particular living Organisms, or significant volcanic eruptions.",
+    "assessmentBoundary": "Assessment does not include recalling the names of specific periods or epochs and events within them."
+  },
+  {
+    "code": "6-8.ESS2.A.1",
+    "description": "Develop and use a model to illustrate that energy from the Earth’s interior drives convection which cycles Earth’s crust leading to melting, crystallization, weathering and deformation of large rock formations, including generation of ocean sea floor at ridges, submergence of ocean sea floor at trenches, mountain building and active volcanic chains.",
+    "clarification": "The emphasis is on large-scale cycling resulting from plate tectonics that includes changes in rock types through erosion, heat and pressure.",
+    "assessmentBoundary": "Assessment does not include specific mechanis6-8 of plate tectonics, the identification and naming of minerals or rock types, nor rote memorization of the “rock cycle”."
+  },
+  {
+    "code": "6-8.ESS2.A.2",
+    "description": "Construct an explanation based on evidence for how geoscience processes have changed Earth’s surface at varying time and spatial scales.",
+    "clarification": "Emphasis is on how processes change Earth’s surface at time and spatial scales that can be large (such as slow plate motions or the uplift of large mountain ranges) or small (such as rapid landslides or microscopic geochemical reactions), and how many geoscience processes (such as earthquakes, volcanoes, and meteor impacts) usually behave gradually but are punctuated by catastrophic events. Examples of geoscience processes include surface weathering and deposition by the movements of water, ice, and wind. Emphasis is on geoscience processes that shape local geographic features, where appropriate."
+  },
+  {
+    "code": "6-8.ESS2.B.1",
+    "description": "Analyze and interpret data on the distribution of fossils and rocks, continental shapes, and seafloor structures to provide evidence of the past plate motions.",
+    "clarification": "Examples of data include similarities of rock and fossil types on different continents, the shapes of the continents (including continental shelves), and the locations of ocean structures (such as ridges, fracture zones, and trenches).",
+    "assessmentBoundary": "Paleomagnetic anomalies in oceanic and continental crust are not assessed."
+  },
+  {
+    "code": "6-8.ESS2.C.1",
+    "description": "Design and develop a model to describe the cycling of water through Earth's System driven by energy from the sun and the force of gravity.",
+    "clarification": "Emphasis is on the ways water changes its state as it moves through the multiple pathways of the hydrologic cycle. Examples of models can be conceptual or physical.",
+    "assessmentBoundary": "A quantitative understanding of the latent heats of vaporization and fusion is not assessed."
+  },
+  {
+    "code": "6-8.ESS2.C.2",
+    "description": "Research, collect, and analyze data to provide evidence for how the motions and complex interactions of air masses results in changes in weather conditions.",
+    "clarification": "Emphasis is on how air masses flow from regions of high pressure to low pressure, causing weather (defined by temperature, pressure, humidity, precipitation, and wind) at a fixed location to change over time, and how sudden changes in weather can result when different air masses collide. Emphasis is on how weather can be predicted within possible ranges. Examples of data can be provided to students (such as weather maps, diagrams, and visualizations) or obtained through laboratory experiments (such as with condensation).",
+    "assessmentBoundary": "Assessment does not include recalling the names of cloud types or weather symbols used on weather maps or the reported diagrams from weather stations."
+  },
+  {
+    "code": "6-8.ESS2.C.3",
+    "description": "Develop and use a model to describe how unequal heating and rotation of the Earth cause patterns of atmospheric and oceanic circulation that determine regional climates.",
+    "clarification": "Emphasis is on how patterns vary by latitude, altitude, and geographic land distribution. Emphasis of atmospheric circulation is on the sunlight-driven latitudinal banding, the Coriolis effect, and resulting prevailing winds; emphasis of ocean circulation is on the transfer of heat by the global ocean convection cycle, which is constrained by the Coriolis effect and the outlines of continents. Examples of models can be diagrams, maps and globes, or digital representations.",
+    "assessmentBoundary": "Assessment does not include the dynamics of the Coriolis effect."
+  },
+  {
+    "code": "6-8.ESS3.A.1",
+    "description": "Construct a scientific explanation based on evidence for how the uneven distributions of Earth’s mineral, energy, and groundwater resources are the result of past and current geoscience processes and human activity.",
+    "clarification": "Emphasis is on how these resources are limited and typically non-renewable, and how their distributions are significantly changing as a result of removal by humans. Examples of uneven distributions of resources as a result of past processes include but are not limited to petroleum (locations of the burial of organic marine sediments and subsequent geologic traps), metal ores (locations of past volcanic and hydrothermal activity associated with subduction zones), and soil (locations of active weathering and/or deposition of rock)."
+  },
+  {
+    "code": "6-8.ESS3.B.1",
+    "description": "Analyze and interpret data on natural hazards to forecast future catastrophic events and inform the development of technologies to mitigate their effects.",
+    "clarification": "Emphasis is on how some natural hazards, such as volcanic eruptions and severe weather, are preceded by phenomena that allow for reliable predictions, but others, such as earthquakes, occur suddenly and with no notice, and thus are not yet predictable. Examples of natural hazards can be taken from interior processes (such as earthquakes and volcanic eruptions), surface processes (such as mass wasting and tsunamis), or severe weather events (such as hurricanes, tornadoes, and floods). Examples of data can include the locations, magnitudes, and frequencies of the natural hazards. Examples of technologies can be global (such as satellite System to monitor hurricanes or forest fires) or local (such as building basements in tornado-prone regions or reservoirs to mitigate droughts)."
+  },
+  {
+    "code": "6-8.ESS3.C.1",
+    "description": "Analyze data to define the relationship for how increases in human population and per-capita consumption of natural resources impact Earth's System.",
+    "clarification": "Examples of data include grade-appropriate databases on human populations and the rates of consumption of food and natural resources (such as freshwater, mineral, and energy). Examples of impacts can include changes to the appearance, composition, and structure of Earth's System as well as the rates at which they change."
+  },
+  {
+    "code": "6-8.ESS3.C.2",
+    "description": "Apply scientific principles to design a method for monitoring and minimizing a human impact on the environment.",
+    "clarification": "Examples of the design process include examining human environmental impacts, assessing the kinds of solutions that are feasible, and designing and evaluating solutions that could reduce that impact. Examples of human impacts can include water usage (such as the withdrawal of water from streams and aquifers or the construction of dams and levees), land usage (such as urban development, agriculture, or the removal of wetlands), and pollution (such as of the air, water, or land)."
+  },
+  {
+    "code": "6-8.ESS3.D.1",
+    "description": "Analyze evidence of the factors that have caused the change in global temperatures over the past century.",
+    "clarification": "Examples of factors include human activities (such as fossil fuel combustion, cement production, and agricultural activity) and natural processes (such as changes in incoming solar radiation or volcanic activity). Examples of evidence can include tables, graph, and maps of global and regional temperatures, atmospheric levels of gases such as carbon dioxide and methane, and the rates of human activities."
+  },
+  {
+    "code": "6-8.ETS1.A.1",
+    "description": "Define the criteria and constraints of a design problem with sufficient precision to ensure a successful solution, taking into account relevant scientific principles and potential impacts on people and the natural environment that may limit possible solutions."
+  },
+  {
+    "code": "6-8.ETS1.B.1",
+    "description": "Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem."
+  },
+  {
+    "code": "6-8.ETS1.B.2",
+    "description": "Analyze data from tests to determine similarities and differences among several design solutions to identify the best characteristics of each that can be combined into a new solution to better meet the criteria for success."
+  },
+  {
+    "code": "6-8.ETS1.B.3",
+    "description": "Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process such that an optimal design can be achieved."
+  },
+  {
+    "code": "6-8.LS1.A.1",
+    "description": "Provide evidence that Organisms (unicellular and multicellular) are made of cells and that a single cell must carry out all of the basic functions of life.",
+    "clarification": "Emphasis is on developing evidence that living things are made of cells, distinguishing between living and non-living things, and understanding that living things may be made of one cell or many and varied cells."
+  },
+  {
+    "code": "6-8.LS1.A.2",
+    "description": "Develop and use a model to describe the function of a cell as a whole and ways parts of the cells contribute to that function.",
+    "clarification": "Emphasis is on the cell functioning as a whole system and the primary role of identified parts of the cell, specifically the nucleus, chloroplasts, mitochondria, cell membrane, and cell wall.",
+    "assessmentBoundary": "Assessment of organelle structure/function relationships is limited to the cell wall and cell membrane. Assessment of the function of the other organelles is limited to their relationship to the whole cell. Assessment does not include the biochemical function of cells or cell parts."
+  },
+  {
+    "code": "6-8.LS1.A.3",
+    "description": "Develop an argument supported by evidence for how multicellular Organisms are organized by varying levels of complexity; cells, tissue, organs, organ System."
+  },
+  {
+    "code": "6-8.LS1.A.4",
+    "description": "Present evidence that body System interact to carry out key body functions, including providing nutrients and oxygen to cells, removing carbon dioxide and waste from cells and the body, controlling body motion/activity and coordination, and protecting the body.",
+    "assessmentBoundary": "BodySystem are limited to the circulatory, excretory, digestive, respiratory, muscular/skeletal and nervousSystem. Emphasis is on the function and interactions of the bodySystem, not specific body parts and organs or one body system independent of others."
+  },
+  {
+    "code": "6-8.LS1.B.1",
+    "description": "Construct an explanation for how characteristic animal behaviors as well as specialized plant structures affect the probability of successful reproduction of animals and plants respectively.",
+    "clarification": "Examples of animal behaviors that affect the probability of animal reproduction could include nest building to protect young from cold, herding of animals to protect young from predators, and vocalization of animals and colorful plumage to attract mates for breeding. Examples of animal behaviors that affect the probability of plant reproduction could include transferring pollen or seeds; and, creating conditions for seed germination and growth. Examples of plant structures that affect the probability of plant reproduction could include bright flowers attracting butterflies that transfer pollen, flower nectar and odors that attract insects that transfer pollen, and hard shells on nuts that squirrels bury.",
+    "assessmentBoundary": "Assessment does not include natural selection."
+  },
+  {
+    "code": "6-8.LS1.B.2",
+    "description": "Construct a scientific explanation based on evidence for how environmental and genetic factors influence the growth of Organisms.",
+    "clarification": "Examples of local environmental conditions could include availability of food, light, space, and water. Examples of genetic factors could include large breed cattle and species of grass affecting growth of Organisms. Examples of evidence could include drought decreasing plant growth, fertilizer increasing plant growth, different varieties of plant seeds growing at different rates in different conditions, and fish growing larger in large ponds than they do in small ponds.",
+    "assessmentBoundary": "Assessment does not include genetic mechanis6-8, gene regulation, or biochemical processes."
+  },
+  {
+    "code": "6-8.LS1.C.1",
+    "description": "Construct a scientific explanation based on evidence for the role of photosynthesis and cellular respiration in the cycling of matter and flow of energy into and out of Organisms."
+  },
+  {
+    "code": "6-8.LS2.B.1",
+    "description": "Develop a model to describe the cycling of matter and flow of energy among living and nonliving parts of an ecosystem.",
+    "clarification": "Emphasis is on describing the conservation of matter and flow of energy into and out of various Ecosystems, including food chains and food webs.",
+    "assessmentBoundary": "Assessment does not include the use of chemical reactions to describe the processes."
+  },
+  {
+    "code": "6-8.LS2.A.1",
+    "description": "Analyze and interpret data to provide evidence for the effects of resource availability on individual Organisms and populations of Organisms in an ecosystem.",
+    "clarification": "Emphasis is on cause and effect relationships between resources and growth of individual Organisms and the numbers of Organisms in Ecosystems during periods of abundant and scarce resources."
+  },
+  {
+    "code": "6-8.LS2.C.1",
+    "description": "Construct an argument supported by empirical evidence that explains how changes to physical or biological components of an ecosystem affect populations.",
+    "clarification": "Emphasis is on recognizing patterns in data and making inferences about changes in populations, defining the boundaries of the system, and on evaluating empirical evidence supporting arguments about changes to Ecosystems."
+  },
+  {
+    "code": "6-8.LS2.A.2",
+    "description": "Construct an explanation that predicts the patterns of interactions among and between the biotic and abiotic factors in a given ecosystem.",
+    "clarification": "Relationships may include competition, predation, and symbiosis."
+  },
+  {
+    "code": "6-8.LS2.C.2",
+    "description": "Evaluate benefits and limitations of differing design solutions for maintaining an ecosystem.",
+    "clarification": "Examples of design solutions could include water, land, and species protection, and the prevention of soil erosion. Examples of design solution constraints could include scientific, economic, and social considerations."
+  },
+  {
+    "code": "6-8.LS4.A.1",
+    "description": "Analyze and interpret evidence from the fossil record to infer patterns of environmental change resulting in extinction and changes to life forms throughout the history of the Earth.",
+    "clarification": "Examples of evidence include sets of fossils that indicate an environment, anatomical structures that indicate the function of an organism in the environment, and fossilized tracks that indicate behavior of Organisms.",
+    "assessmentBoundary": "Assessment does not include the names of individual species, geological eras in the fossil record, nor mechanisms for extinction or speciation."
+  },
+  {
+    "code": "6-8.LS4.B.1",
+    "description": "Construct an explanation based on evidence that describes how genetic variations of traits in a population increase some individuals' probability of surviving and reproducing in a specific environment.",
+    "clarification": "Emphasis is on using simple probability statements and proportional reasoning to construct explanations."
+  },
+  {
+    "code": "6-8.LS4.B.2",
+    "description": "Gather and synthesize information about the technologies that have changed the way humans influence the inheritance of desired traits in Organisms.",
+    "clarification": "Emphasis is on synthesizing information from reliable sources about the influence of humans on genetic outcomes in artificial selection (such as genetic modification, animal husbandry, and farming practices)."
+  },
+  {
+    "code": "6-8.LS4.C.1",
+    "description": "Interpret graphical representations to support explanations of how natural selection may lead to increases and decreases of specific traits in populations over time."
+  },
+  {
+    "code": "6-8.PS1.A.1",
+    "description": "Develop models to describe the atomic composition of simple molecules and extended structures. [Clarification Statement: Emphasis is on developing models of molecules that vary in complexity. Examples of simple molecules could include ammonia and methanol. Examples of extended structures could include sodium chloride or diamonds. Examples of molecular-level models could include drawings, 3D ball and stick structures, or computer representations showing different molecules with different types of atoms.",
+    "assessmentBoundary": "Assessment does not include valence electrons and bonding energy, discussing the ionic nature of subunits of complex structures, or a complete depiction of all individual ato6-8 in a complex molecule or extended structure."
+  },
+  {
+    "code": "6-8.PS1.A.2",
+    "description": "Analyze and interpret data on the properties of substances before and after the substances interact to determine if a chemical reaction has occurred.",
+    "clarification": "Examples of reactions could include burning sugar or steel wool, fat reacting with sodium hydroxide, and mixing zinc with hydrogen chloride.",
+    "assessmentBoundary": "Assessment is limited to analysis of the following properties: density, melting point, boiling point, solubility, flammability, and odor."
+  },
+  {
+    "code": "6-8.PS1.A.3",
+    "description": "Gather, analyze, and present information to describe that synthetic materials come from natural resources and how they impact society.",
+    "clarification": "Emphasis is on natural resources that undergo a chemical process to form the synthetic material. Examples of new materials could include new medicine, foods, and alternative fuels.",
+    "assessmentBoundary": "Assessment is limited to qualitative information."
+  },
+  {
+    "code": "6-8.PS1.A.4",
+    "description": "Develop a model that describes changes in particle motion, temperature, and state of a pure substance when thermal energy is added or removed.",
+    "clarification": "Emphasis is on qualitative molecular-level models of solids, liquids, and gases to show that adding or removing thermal energy increases or decreases kinetic energy of the particles until a change of state occurs. Examples of models could include drawings and diagrams. Examples of particles could include molecules or inert atoms. Examples of pure substances could include water, carbon dioxide, and helium."
+  },
+  {
+    "code": "6-8.PS1.B.1",
+    "description": "Develop and use a model to describe how the total number of atoms remains the same during a chemical reaction and thus mass is conserved.",
+    "clarification": "Emphasis is on law of conservation of matter and on physical models or drawings, including digital forms that represent atoms.",
+    "assessmentBoundary": "Assessment does not include the use of atomic masses, balancing symbolic equations, or intermolecular forces."
+  },
+  {
+    "code": "6-8.PS1.B.2",
+    "description": "Construct, test, and modify a device that either releases or absorbs thermal energy by chemical processes.",
+    "clarification": "Emphasis is on the design, controlling the transfer of energy to the environment, and modification of a device using factors such as type and concentration of a substance. Examples of designs could involve chemical reactions such as dissolving ammonium chloride or calcium chloride.",
+    "assessmentBoundary": "Assessment is limited to the criteria of amount, time, and temperature of substance in testing the device."
+  },
+  {
+    "code": "6-8.PS2.A.1",
+    "description": "Apply physics principles to design a solution that minimizes the force of an object during a collision and develop an evaluation of the solution.",
+    "assessmentBoundary": "Assessment is limited to vertical or horizontal interactions in one dimension."
+  },
+  {
+    "code": "6-8.PS2.A.2",
+    "description": "Plan and conduct an investigation to provide evidence that the change in an object’s motion depends on the sum of the forces on the object and the mass of the object.",
+    "clarification": "Emphasis is on balanced (Newton’s First Law) and unbalanced forces in a system, qualitative comparisons of forces, mass and changes in motion (Newton’s Second Law), frame of reference, and specification of units.",
+    "assessmentBoundary": "Assessment is limited to forces and changes in motion in one-dimension in an inertial reference frame and to change in one variable at a time. Assessment does not include the use of trigonometry."
+  },
+  {
+    "code": "6-8.PS2.B.1",
+    "description": "Analyze diagrams and collect data to determine the factors that affect the strength of electric and magnetic forces.",
+    "clarification": "Examples of devices that use electric and magnetic forces could include electromagnets, electric motors, or generators. Examples of data could include the effect of the number of turns of wire on the strength of an electromagnet, or the effect of increasing the number or strength of magnets on the speed of an electric motor.",
+    "assessmentBoundary": "Assessment about questions that require quantitative answers is limited to proportional reasoning and algebraic thinking."
+  },
+  {
+    "code": "6-8.PS2.B.2",
+    "description": "Create and analyze a graph to use as evidence to support the claim that gravitational interactions depend on the mass of interacting objects.",
+    "clarification": "Examples of evidence for arguments could include data generated from simulations or digital tools; and charts displaying mass, strength of interaction, distance from the Sun, and orbital periods of objects within the solar system.",
+    "assessmentBoundary": "Assessment does not include Newton’s Law of Gravitation or Kepler’s Laws."
+  },
+  {
+    "code": "6-8.PS2.B.3",
+    "description": "Conduct an investigation and evaluate the experimental design to provide evidence that electric and magnetic fields exist between objects exerting forces on each other even though the objects are not in contact. .",
+    "clarification": "Examples of this phenomenon could include the interactions of magnets, electrically-charged strips of tape, and electrically-charged pith balls. Examples of investigations could include first-hand experiences or simulations.",
+    "assessmentBoundary": "Assessment is limited to electric and magnetic fields, and limited to qualitative evidence for the existence of fields."
+  },
+  {
+    "code": "6-8.PS3.A.1",
+    "description": "Construct and interpret graphical displays of data to describe the relationships of kinetic energy to the mass of an object and to the speed of an object.",
+    "clarification": "Emphasis is on descriptive relationships between kinetic energy and mass separately from kinetic energy and speed. Examples could include riding a bicycle at different speeds, rolling different sizes of rocks downhill, and getting hit by a whiffle ball versus a tennis ball."
+  },
+  {
+    "code": "6-8.PS3.A.2",
+    "description": "Develop a model to describe that when the arrangement of objects interacting at a distance changes, different amounts of potential energy are stored in the system.",
+    "clarification": "Emphasis is on relative amounts of potential energy, not on calculations of potential energy. Examples of objects within System interacting at varying distances could include: the Earth and either a roller coaster cart at varying positions on a hill or objects at varying heights on shelves, changing the direction/orientation of a magnet, and a balloon with static electrical charge being brought closer to a classmate’s hair. Examples of models could include representations, diagrams, pictures, and written descriptions of System.",
+    "assessmentBoundary": "Assessment is limited to two objects and electric, magnetic, and gravitational interactions."
+  },
+  {
+    "code": "6-8.PS3.A.3",
+    "description": "Apply scientific principles to design, construct, and test a device that either minimizes or maximizes thermal energy transfer.",
+    "clarification": "Examples of devices could include an insulated box, a solar cooker, and a Styrofoam cup.",
+    "assessmentBoundary": "Assessment does not include calculating the total amount of thermal energy transferred."
+  },
+  {
+    "code": "6-8.PS3.A.4",
+    "description": "Plan and conduct an investigation to determine the relationships among the energy transferred, the type of matter, the mass, and the change in the temperature of the sample.",
+    "clarification": "Examples of experiments could include comparing final water temperatures after different masses of ice melted in the same volume of water with the same initial temperature, the temperature change of samples of different materials with the same mass as they cool or heat in the environment, or the same material with different masses when a specific amount of energy is added.",
+    "assessmentBoundary": "Assessment does not include calculating the total amount of thermal energy transferred. Calculations limited to proportionate thinking."
+  },
+  {
+    "code": "6-8.PS3.B.1",
+    "description": "Construct, use, and present arguments to support the claim that when the kinetic energy of an object changes, energy is transferred to or from the object.",
+    "clarification": "Examples of empirical evidence used in arguments could include an inventory or other representation of the energy before and after the transfer in the form of temperature changes or motion of object.",
+    "assessmentBoundary": "Assessment does not include calculations of energy."
+  },
+  {
+    "code": "6-8.PS4.A.1",
+    "description": "Use mathematical representations to describe a simple model for waves that includes how the amplitude of a wave is related to the energy in a wave.",
+    "clarification": "Emphasis is on describing waves with both qualitative and quantitative thinking.",
+    "assessmentBoundary": "Assessment does not include electromagnetic waves and is limited to standard repeating waves."
+  },
+  {
+    "code": "6-8.PS4.A.2",
+    "description": "Develop and use a model to describe that waves are reflected, absorbed, or transmitted through various materials.",
+    "clarification": "Emphasis is on both light and mechanical waves. Examples of models could include drawings, simulations, and written descriptions.",
+    "assessmentBoundary": "Assessment is limited to qualitative applications pertaining to light and mechanical waves."
+  }
+]

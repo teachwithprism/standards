@@ -1,0 +1,83 @@
+[
+  {
+    "code": "4.ESS1.C.1",
+    "description": "Identify evidence from patterns in rock formations and fossils in rock layers to support an explanation for changes in a landscape over time.",
+    "clarification": "Examples of evidence from patterns could include rock layers with marine shell fossils above rock layers with plant fossils and no shells, indicating a change from land to water over time; and, a canyon with different rock layers in the walls and a river in the bottom, indicating that over time a river cut through the rock."
+  },
+  {
+    "code": "4.ESS2.A.1",
+    "description": "Plan and conduct scientific investigations or simulations to provide evidence how natural processes (e.g. weathering and erosion) shape Earth's surfaces."
+  },
+  {
+    "code": "4.ESS2.B.1",
+    "description": "Analyze and interpret data from maps to describe patterns of Earth’s features.",
+    "clarification": "Maps can include topographic maps of Earth’s land and ocean floor, as well as maps of the locations of mountains, continental boundaries, volcanoes, and earthquakes."
+  },
+  {
+    "code": "4.ESS3.A.1",
+    "description": "Generate and compare multiple solutions to reduce the impacts of natural Earth processes on humans.",
+    "clarification": "Examples of solutions could include designing an earthquake resistant building and improving monitoring of volcanic activity."
+  },
+  {
+    "code": "4.ETS1.A.1",
+    "description": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost."
+  },
+  {
+    "code": "4.ETS1.C.1",
+    "description": "Plan and carry out fair tests in which variables are controlled and failure points are considered to identify aspects of a model or prototype that can be improved."
+  },
+  {
+    "code": "4.ETS1.B.1",
+    "description": "Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem."
+  },
+  {
+    "code": "4.LS1.A.1",
+    "description": "Construct an argument that plants and animals have internal and external structures that function to support survival, growth, behavior, and plant reproduction.",
+    "clarification": "Examples of structures could include thorns, stems, roots, colored petals, heart, stomach, lung, brain, and skin."
+  },
+  {
+    "code": "4.LS1.D.1",
+    "description": "Use a model to describe that animals receive different types of information through their senses, process the information in their brain, and respond to the information in different ways.",
+    "clarification": "Emphasis is on System of information transfer."
+  },
+  {
+    "code": "4.PS2.A.1",
+    "description": "Make observations and/or measurements of an object’s motion to provide evidence that a pattern can be used to predict future motion."
+  },
+  {
+    "code": "4.PS2.A.2",
+    "description": "Plan and conduct an investigation to provide evidence of the effects of balanced and unbalanced forces on the motion of an object.",
+    "clarification": "Examples could include an unbalanced force on one side of a ball can make it start moving; and, balanced forces pushing on a box from both sides will not produce any motion at all."
+  },
+  {
+    "code": "4.PS2.B.1",
+    "description": "Plan and conduct a fair test to compare and contrast the forces (measured by a spring scale in Newtons) required to overcome friction when an object moves over different surfaces (i.e., rough/smooth)."
+  },
+  {
+    "code": "4.PS2.B.2",
+    "description": "Predict how changes in either the amount of force applied to an object or the mass of the object affects the motion (speed and direction) of the object."
+  },
+  {
+    "code": "4.PS3.A.1",
+    "description": "Use evidence to construct an explanation relating the speed of an object to the energy of that object."
+  },
+  {
+    "code": "4.PS3.B.1",
+    "description": "Provide evidence to construct an explanation of an energy transformation(e.g. temperature change, light, sound, motion, and magnetic effects)"
+  },
+  {
+    "code": "4.PS3.B.2",
+    "description": "Apply scientific ideas to design, test, and refine a device that converts energy from one form to another.",
+    "clarification": "Examples of devices could include electric circuits that convert electrical energy into motion energy of a vehicle, light, or sound; and, a passive solar heater that converts light into heat. Examples of constraints could include the materials, cost, or time to design the device."
+  },
+  {
+    "code": "4.PS3.C.1",
+    "description": "Use models to explain that simple machines change the amount of effort force and/or direction of force.",
+    "clarification": "memorization of a simple machine is not the focus, concept builds on the application of force and motion ."
+  },
+  {
+    "code": "4.PS4.A.1",
+    "description": "Develop a model of waves to describe patterns in terms of amplitude or wavelength and that waves can cause objects to move. (Boundary: The terms amplitude and wavelength should not be assessed.)",
+    "clarification": "Examples of models could include diagrams, analogies, and physical models using wire to illustrate wavelength and amplitude of waves."
+  }
+]

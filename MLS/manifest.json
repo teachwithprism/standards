@@ -153,6 +153,138 @@
               "count": 38
             }
           ]
+        },
+        {
+          "id": "science",
+          "name": "Science",
+          "grades": [
+            {
+              "id": "k",
+              "name": "Kindergarten",
+              "path": "standards/mls-sci-k.json",
+              "count": 14
+            },
+            {
+              "id": "1",
+              "name": "Grade 1",
+              "path": "standards/mls-sci-1.json",
+              "count": 11
+            },
+            {
+              "id": "2",
+              "name": "Grade 2",
+              "path": "standards/mls-sci-2.json",
+              "count": 13
+            },
+            {
+              "id": "3",
+              "name": "Grade 3",
+              "path": "standards/mls-sci-3.json",
+              "count": 14
+            },
+            {
+              "id": "4",
+              "name": "Grade 4",
+              "path": "standards/mls-sci-4.json",
+              "count": 18
+            },
+            {
+              "id": "5",
+              "name": "Grade 5",
+              "path": "standards/mls-sci-5.json",
+              "count": 19
+            },
+            {
+              "id": "6-8",
+              "name": "Grades 6-8",
+              "path": "standards/mls-sci-6-8.json",
+              "count": 54
+            },
+            {
+              "id": "9-12",
+              "name": "Grades 9-12",
+              "path": "standards/mls-sci-9-12.json",
+              "count": 71
+            }
+          ]
+        },
+        {
+          "id": "social-studies",
+          "name": "Social Studies",
+          "grades": [
+            {
+              "id": "k",
+              "name": "Kindergarten",
+              "path": "standards/mls-ss-k.json",
+              "count": 26
+            },
+            {
+              "id": "1",
+              "name": "Grade 1",
+              "path": "standards/mls-ss-1.json",
+              "count": 29
+            },
+            {
+              "id": "2",
+              "name": "Grade 2",
+              "path": "standards/mls-ss-2.json",
+              "count": 43
+            },
+            {
+              "id": "3",
+              "name": "Grade 3",
+              "path": "standards/mls-ss-3.json",
+              "count": 55
+            },
+            {
+              "id": "4",
+              "name": "Grade 4",
+              "path": "standards/mls-ss-4.json",
+              "count": 51
+            },
+            {
+              "id": "5",
+              "name": "Grade 5",
+              "path": "standards/mls-ss-5.json",
+              "count": 52
+            },
+            {
+              "id": "6-8-ah",
+              "name": "6–8 American History",
+              "path": "standards/mls-ss-6-8-ah.json",
+              "count": 86
+            },
+            {
+              "id": "6-8-wh",
+              "name": "6–8 World History",
+              "path": "standards/mls-ss-6-8-wh.json",
+              "count": 54
+            },
+            {
+              "id": "6-8-geo",
+              "name": "6–8 Geography",
+              "path": "standards/mls-ss-6-8-geo.json",
+              "count": 36
+            },
+            {
+              "id": "9-12-ah",
+              "name": "9–12 American History",
+              "path": "standards/mls-ss-9-12-ah.json",
+              "count": 94
+            },
+            {
+              "id": "9-12-wh",
+              "name": "9–12 World History",
+              "path": "standards/mls-ss-9-12-wh.json",
+              "count": 72
+            },
+            {
+              "id": "9-12-gv",
+              "name": "9–12 Government",
+              "path": "standards/mls-ss-9-12-gv.json",
+              "count": 47
+            }
+          ]
         }
       ]
     }

@@ -1,0 +1,388 @@
+[
+  {
+    "code": "9-12.ESS1.A.1",
+    "description": "Develop a model based on evidence to illustrate the life span of the Sun and the role of nuclear fusion in the Sun’s core to release energy in the form of radiation.",
+    "clarification": "Emphasis is on the energy transfer mechanisms that allow energy from nuclear fusion in the Sun’s core to reach Earth. Examples of evidence for the model include observations of the masses and lifetimes of other stars, as well as the ways that the Sun’s radiation varies due to sudden solar flares (“space weather”).",
+    "assessmentBoundary": "Assessment does not include details of the atomic and sub-atomic processes involved with the Sun’s nuclear fusion."
+  },
+  {
+    "code": "9-12.ESS1.A.2",
+    "description": "Construct an explanation of the Big Bang theory based on astronomical evidence of light spectra, motion of distant galaxies, and composition of matter in the universe.",
+    "clarification": "Emphasis is on the astronomical evidence of the red shift of light from galaxies as an indication that the universe is currently expanding, the cosmic microwave background as the remnant radiation from the Big Bang, and the observed composition of ordinary matter of the universe, primarily found in stars and interstellar gases (from the spectra of electromagnetic radiation from stars), which matches that predicted by the Big Bang theory (3/4 hydrogen and 1/4 helium)."
+  },
+  {
+    "code": "9-12.ESS1.A.3",
+    "description": "Communicate scientific ideas about the way stars, over their life cycle, produce elements.",
+    "clarification": "Emphasis is on the way nucleosynthesis, and therefore the different elements created, varies as a function of the mass of a star and the stage of its lifetime.",
+    "assessmentBoundary": "Details of the many different nucleosynthesis pathways for stars of differing masses are not assessed."
+  },
+  {
+    "code": "9-12.ESS1.B.1",
+    "description": "Use Kepler’s Law to predict the motion of orbiting objects in the solar system. [Clarification Statement: Emphasis is on Newtonian gravitational laws governing orbital motions, which apply to human-made satellites as well as planets and moons",
+    "assessmentBoundary": "Kepler’s Laws of orbital motions should not deal with more than two bodies, nor involve calculus."
+  },
+  {
+    "code": "9-12.ESS1.C.1",
+    "description": "Evaluate evidence of the past and current movements of continental and oceanic crust, the theory of plate tectonics, and relative densities of oceanic and continental rocks to explain why continental rocks are generally much older than rocks of the ocean floor.",
+    "clarification": "Examples include the ages of oceanic crust increasing with distance from mid-ocean ridges (a result of plate spreading) and the ages of North American continental crust increasing with distance away from a central ancient core (a result of past plate interactions)."
+  },
+  {
+    "code": "9-12.ESS1.C.2",
+    "description": "Apply scientific reasoning and evidence from ancient Earth materials, meteorites, and other planetary surfaces to construct an account of Earth’s formation and early history.",
+    "clarification": "Emphasis is on using available evidence within the solar system to reconstruct the early history of Earth, which formed along with the rest of the solar system 4.6 billion years ago. Examples of evidence include the absolute ages of ancient materials (obtained by radiometric dating of meteorites, moon rocks, and Earth’s oldest minerals), the sizes and compositions of solar system objects, and the impact cratering record of planetary surfaces."
+  },
+  {
+    "code": "9-12.ESS2.A.1",
+    "description": "Develop a model to illustrate how Earth’s interior and surface processes (constructive and destructive) operate at different spatial and temporal scales to form continental and ocean-floor features.",
+    "clarification": "Emphasis is on how the appearance of land features (such as mountains, valleys, and plateaus) and sea-floor features (such as trenches, ridges, and seamounts) are a result of both constructive forces (such as volcanism, tectonic uplift, and orogeny) and destructive mechanisms (such as weathering, mass wasting, and coastal erosion).",
+    "assessmentBoundary": "Assessment does not include memorization of the details of the formation of specific geographic features of Earth’s surface."
+  },
+  {
+    "code": "9-12.ESS2.A.2",
+    "description": "Analyze geoscientific data to make the claim that one change to Earth's surface can create changes to other Earth System."
+  },
+  {
+    "code": "9-12.ESS2.A.3",
+    "description": "Develop a model based on evidence of Earth’s interior to describe the cycling of matter by thermal convection. [Clarification Statement: Emphasis is on both a one-dimensional model of Earth, with radial layers determined by density, and a three-dimensional model, which is controlled by mantle convection and the resulting plate tectonics. Examples of evidence include maps of Earth’s three-dimensional structure obtained from seismic waves, records of the rate of change of Earth’s magnetic field (as constraints on convection in the outer core), and identification of the composition of Earth’s layers from high-pressure laboratory experiments."
+  },
+  {
+    "code": "9-12.ESS2.A.4",
+    "description": "Use a model to describe how variations in the flow of energy into and out of Earth's System result in changes in climate.",
+    "assessmentBoundary": "Assessment of the results of changes in climate is limited to changes in surface temperatures, precipitation patterns, glacial ice volumes, sea levels, and biosphere distribution."
+  },
+  {
+    "code": "9-12.ESS2.C.1",
+    "description": "Plan and conduct an investigation of the properties of water and its effects on Earth materials and surface processes. Clarification Statement: Emphasis is on mechanical and chemical investigations with water and a variety of solid materials to provide the evidence for connections between the hydrologic cycle and system interactions commonly known as the rock cycle. Examples of mechanical investigations include stream transportation and deposition using a stream table, erosion using variations in soil moisture content, or ice wedging by the expansion of water as it freezes. Examples of chemical investigations include chemical weathering and recrystallization (by testing the solubility of different materials) or melt generation (by examining how water lowers the melting temperature of most solids).]"
+  },
+  {
+    "code": "9-12.ESS2.D.1",
+    "description": "Develop a quantitative model to describe the cycling of carbon among the hydrosphere, atmosphere, geosphere, and biosphere.",
+    "clarification": "Emphasis is on modeling biogeochemical cycles that include the cycling of carbon through the ocean, atmosphere, soil, and biosphere (including humans), providing the foundation for living Organisms."
+  },
+  {
+    "code": "9-12.ESS2.E.1",
+    "description": "Construct an argument based on evidence about the simultaneous co evolution of Earth's System and life on Earth.",
+    "clarification": "Emphasis is on the dynamic causes, effects, and feedbacks between the biosphere and Earth’s other System, whereby geoscience factors control the evolution of life, which in turn continuously alters Earth’s surface. Examples of co evolution include how photosynthetic life altered the atmosphere through the production of oxygen, which in turn increased weathering rates and allowed for the evolution of animal life; how microbial life on land increased the formation of soil, which in turn allowed for the evolution of land plants; or how the evolution of corals created reefs that altered patterns of erosion and deposition along coastlines and provided habitats for new life.",
+    "assessmentBoundary": "Assessment does not include a comprehensive understanding of the mechanis6-8 of how the biosphere interacts with all of Earth’s otherSystem."
+  },
+  {
+    "code": "9-12.ESS3.A.1",
+    "description": "Construct an explanation based on evidence for how the availability of natural resources, occurrence of natural hazards, and changes in climate have influenced human activity.",
+    "clarification": "Examples of key natural resources include access to fresh water, regions of fertile soils such as river deltas, and high concentrations of minerals and fossil fuels. Examples of natural hazards can be from interior processes (such as volcanic eruptions and earthquakes), surface processes (such as tsunamis, mass wasting and soil erosion), and severe weather. Examples of the results of changes in climate that can affect populations or drive mass migrations include changes to sea level, regional patterns of temperature and precipitation, and the types of crops and livestock that can be raised."
+  },
+  {
+    "code": "9-12.ESS3.A.2",
+    "description": "Evaluate competing design solutions for developing, managing, and utilizing energy and mineral resources based on economic, social, and environmental cost-benefit ratios.",
+    "clarification": "Emphasis is on the conservation, recycling, and reuse of resources (such as minerals and metals) where possible, and on minimizing impacts where it is not. Examples include developing best practices for agricultural soil use, mining (for coal, tar sands, and oil shale), and pumping (for petroleum and natural gas). Science knowledge indicates what can happen in natural System—not what should happen."
+  },
+  {
+    "code": "9-12.ESS3.C.1",
+    "description": "Create a computational simulation to illustrate the relationships among management of natural resources, the sustainability of human populations, and biodiversity.",
+    "clarification": "Examples of factors that affect the management of natural resources include costs of resource extraction and waste management, per-capita consumption, and the development of new technologies. Examples of factors that affect human sustainability include agricultural efficiency, levels of conservation, and urban planning.",
+    "assessmentBoundary": "Assessment for computational simulations is limited to using provided multi-parameter progra6-8 or constructing simplified spreadsheet calculations."
+  },
+  {
+    "code": "9-12.ESS3.C.2",
+    "description": "Evaluate or refine a technological solution that reduces impacts of human activities on natural System in order to restore stability and or biodiversity of the ecosystem as well as prevent their reoccurrences.",
+    "clarification": "Examples of human activities could include forest fires, acid rain, flooding, urban development, pollution, deforestation, and introduction of an invasive species."
+  },
+  {
+    "code": "9-12.ESS3.D.1",
+    "description": "Analyze geoscientific data and the results from global climate models to make an evidence-based forecast of the current rate of global or regional climate change and associated future impacts to Earth System.",
+    "clarification": "Examples of evidence, for both data and climate model outputs, are for climate changes (such as precipitation and temperature) and their associated impacts (such as on sea level, glacial ice volumes, or atmosphere and ocean composition).",
+    "assessmentBoundary": "Assessment is limited to one example of a climate change and its associated impacts."
+  },
+  {
+    "code": "9-12.ESS3.D.2",
+    "description": "Predict how human activity affects the relationships between Earth System in both positive and negative ways.",
+    "clarification": "Examples of Earth System to be considered are the hydrosphere, atmosphere, cryosphere, geosphere, and/or biosphere."
+  },
+  {
+    "code": "9-12.ETS1.A.1",
+    "description": "Analyze a major global challenge to specify qualitative and quantitative criteria and constraints for solutions that account for societal needs and wants."
+  },
+  {
+    "code": "9-12.ETS1.A.2",
+    "description": "Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering."
+  },
+  {
+    "code": "9-12.ETS1.B.1",
+    "description": "Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints, including cost, safety, reliability, and aesthetics as well as possible social, cultural, and environmental impacts."
+  },
+  {
+    "code": "9-12.ETS1.B.2",
+    "description": "Use a computer simulation to model the impact of proposed solutions to a complex real-world problem with numerous criteria and constraints on interactions within and between System relevant to the problem."
+  },
+  {
+    "code": "9-12.LS1.A.1",
+    "description": "Construct a model of how the structure of DNA determines the structure of proteins which carry out the essential functions of life through System of specialized cells.",
+    "clarification": "Genes are the regions in DNA that code for proteins. Basic transcription and translation explain the roles of DNA and RNA in coding the instructions for making polypeptides.",
+    "assessmentBoundary": "Assessment does not include identification of specific cell or tissue types, whole bodySystem, specific protein structures and functions, or the biochemistry of protein synthesis."
+  },
+  {
+    "code": "9-12.LS1.A.2",
+    "description": "Develop and use a model to illustrate the hierarchical organization of interacting System that provide specific functions within multicellular Organisms.",
+    "clarification": "Emphasis is on functions at the organism system level such as nutrient uptake, water delivery, and organism movement in response to stimuli.",
+    "assessmentBoundary": "Assessment does not include interactions and functions at the molecular or chemical reaction level."
+  },
+  {
+    "code": "9-12.LS1.A.3",
+    "description": "Plan and conduct an investigation to provide evidence that feedback mechanisms maintain homeostasis.",
+    "clarification": "Examples of investigations could include heart rate response to exercise, stomata response to moisture and temperature, and root development in response to water levels.",
+    "assessmentBoundary": "Assessment does not include the cellular processes involved in the feedback mechanism."
+  },
+  {
+    "code": "9-12.LS1.B.1",
+    "description": "Develop and use models to communicate the role of mitosis, cellular division, and differentiation in producing and maintaining complex Organisms.",
+    "clarification": "Major events of the cell cycle include cell growth, DNA replication, preparation for division, separation of chromosomes, and separation of cell contents.",
+    "assessmentBoundary": "Assessment does not include specific gene control mechanis6-8 or rote memorization of steps of mitosis."
+  },
+  {
+    "code": "9-12.LS1.C.1",
+    "description": "Use a model to demonstrate how photosynthesis transforms light energy into stored chemical energy.",
+    "clarification": "Emphasis is on illustrating inputs and outputs of matter and the transfer and transformation of energy in photosynthesis by plants and other photosynthesizing Organisms. Examples of models could include diagrams, chemical equations, and conceptual models."
+  },
+  {
+    "code": "9-12.LS1.C.2",
+    "description": "Use a model to demonstrate that cellular respiration is a chemical process whereby the bonds of molecules are broken and the bonds in new compounds are formed resulting in a net transfer of energy.",
+    "clarification": "Emphasis is on the conceptual understanding of the inputs and outputs of the process of cellular respiration.",
+    "assessmentBoundary": "Assessment does not include identification of the steps or specific processes involved in cellular respiration."
+  },
+  {
+    "code": "9-12.LS1.C.3",
+    "description": "Construct and revise an explanation based on evidence that organic macromolecules are primarily composed of six elements, where carbon, hydrogen, and oxygen atoms may combine with nitrogen, sulfur, and phosphorus to form large carbon-based molecules.",
+    "clarification": "Large carbon-based molecules included are proteins, carbohydrates, nucleic acids, and lipids.",
+    "assessmentBoundary": "Assessment does not include the details of the specific chemical reactions or identification of specific macromolecules."
+  },
+  {
+    "code": "9-12.LS2.A.1",
+    "description": "Explain how various biotic and abiotic factors affect the carrying capacity and biodiversity of an ecosystem using mathematical and/or computational representations.",
+    "clarification": "Examples of biotic factors could include relationships among individuals (e.g., feeding relationships, symbioses, competition) and disease. Examples of abiotic factors could include climate and weather conditions, natural disasters, and availability of resources. Genetic diversity includes within a population and species within an ecosystem. Examples of mathematical comparisons could include graph, charts, histograms, and population changes gathered from simulations or historical data sets.",
+    "assessmentBoundary": "Assessment does not include deriving mathematical equations to make comparisons and is limited to provided data."
+  },
+  {
+    "code": "9-12.LS2.B.1",
+    "description": "Construct and revise an explanation based on evidence that the processes of photosynthesis, chemosynthesis, and aerobic and anaerobic respiration are responsible for the cycling of matter and flow of energy through Ecosystems and that environmental conditions restrict which reactions can occur.",
+    "clarification": "Examples of environmental conditions can include the availability of sunlight or oxygen.",
+    "assessmentBoundary": "Assessment does not include the specific chemical processes of photosynthesis, chemosynthesis, of either aerobic respiration or anaerobic respiration."
+  },
+  {
+    "code": "9-12.LS2.B.2",
+    "description": "Communicate the pattern of the cycling of matter and the flow of energy among trophic levels in an ecosystem.",
+    "clarification": "Emphasis is on using a model of stored energy in biomass to describe the transfer of energy from one tropic level to another. Emphasis is on atoms and molecules as they move through an ecosystem.",
+    "assessmentBoundary": "Assessment is limited to proportional reasoning to describe the cycling of matter and the flow of energy."
+  },
+  {
+    "code": "9-12.LS2.B.3",
+    "description": "Use a model that illustrates the roles of photosynthesis, cellular respiration, decomposition, and combustion to explain the cycling of carbon in its various forms among the biosphere, atmosphere, hydrosphere, and geosphere.",
+    "clarification": "The primary forms of carbon include carbon dioxide, hydrocarbons, waste, and biomass. Examples of models could include simulations and mathematical and conceptual models.",
+    "assessmentBoundary": "Assessment does not include the specific chemical steps of photosynthesis, respiration, decomposition, and combustion."
+  },
+  {
+    "code": "9-12.LS2.C.1",
+    "description": "Evaluate the claims, evidence, and reasoning that the interactions in Ecosystems maintain relatively consistent populations of species while conditions remain stable, but changing conditions may result in new ecosystem dynamics.",
+    "clarification": "Examples of changes in ecosystem conditions could include modest biological or physical changes, such as moderate hunting or a seasonal flood; and extreme changes, such as volcanic eruption or sea level rise."
+  },
+  {
+    "code": "9-12.LS2.C.2",
+    "description": "Design, evaluate, and/or refine solutions that positively impact the environment and biodiversity.",
+    "clarification": "Examples of solutions may include captive breeding programs, habitat restoration, pollution mitigation, energy conservation, agriculture and mining programs, and ecotourism."
+  },
+  {
+    "code": "9-12.LS3.A.1",
+    "description": "Develop and use models to clarify relationships about how DNA in the form of chromosomes is passed from parents to offspring through the processes of meiosis and fertilization in sexual reproduction.",
+    "assessmentBoundary": "Assessment does not include rote memorization of the phases of meiosis or the biochemical mechanism of specific steps in the process."
+  },
+  {
+    "code": "9-12.LS3.B.1",
+    "description": "Compare and contrast asexual and sexual reproduction with regard to genetic information and variation in offspring"
+  },
+  {
+    "code": "9-12.LS3.B.2",
+    "description": "Develop and use a model to describe why structural changes to genes (mutations) located on chromosomes may affect proteins and may result in harmful, beneficial, or neutral effects to the structure and function of the organism.",
+    "clarification": "Emphasis is on conceptual understanding that changes in genetic material may result in making different proteins.",
+    "assessmentBoundary": "Assessment does not include specific changes at the molecular level, mechanis6-8 for protein synthesis, or specific types of mutations."
+  },
+  {
+    "code": "9-12.LS3.B.3",
+    "description": "Make and defend a claim that inheritable genetic variations may result from: (1) new genetic combinations through meiosis, (2) mutations occurring during replication, and/or (3) mutations caused by environmental factors.",
+    "clarification": "Emphasis is on using data to support arguments for the way variation occurs.",
+    "assessmentBoundary": "Assessment does not include the phases of meiosis or the biochemical mechanism of specific steps in the process."
+  },
+  {
+    "code": "9-12.LS3.B.4",
+    "description": "Apply concepts of statistics and probability to explain the variation and distribution of expressed traits in a population.",
+    "clarification": "Emphasis is on the use of mathematics (Punnett Squares) to describe the probability of traits as it relates to genetic and environmental factors in the expression of traits.",
+    "assessmentBoundary": "Assessment does not include Hardy -Weinberg calculations."
+  },
+  {
+    "code": "9-12.LS4.A.1",
+    "description": "Communicate scientific information that common ancestry and biological evolution are supported by multiple lines of empirical evidence. (Clarification statement: Emphasis is on a conceptual understanding of the role each line of evidence has relating to common ancestry and biological evolution. Examples of evidence could include similarities in DNA sequences, anatomical structures, and order of appearance of structures in embryological development. Communicate could mean written report, oral discussion, etc.)"
+  },
+  {
+    "code": "9-12.LS4.A.2",
+    "description": "Analyze displays of pictorial data to compare patterns of similarities in the embryological development across multiple species to identify relationships not evident in the fully formed anatomy.",
+    "clarification": "Emphasis is on inferring general patterns of relatedness among embryos of different Organisms by comparing the macroscopic appearance of diagrams or pictures.",
+    "assessmentBoundary": "Assessment of comparisons is limited to gross appearance of anatomical structures (head, body, appendages, or tail) in embryological development."
+  },
+  {
+    "code": "9-12.LS4.B.1",
+    "description": "Construct an explanation based on evidence that the process of evolution primarily results from four factors: (1) the potential for a species to increase in number, (2) the heritable genetic variation of individuals in a species due to mutation and sexual reproduction, (3) competition for limited resources, and (4) the proliferation of those Organisms that are better able to survive and reproduce in the environment. (Clarification Statement: Emphasis is on using evidence to explain the influence each of the four factors has on number of Organisms, behaviors, morphology, or physiology in terms of ability to compete for limited resources and subsequent survival of individuals and adaptation of species. Examples of evidence could include mathematical models such as simple distribution graph and proportional reasoning.)",
+    "assessmentBoundary": "(Assessment Boundary: Assessment does not include other mechanis6-8 of evolution, such as genetic drift, gene flow through migration, and co-evolution.)"
+  },
+  {
+    "code": "9-12.LS4.B.2",
+    "description": "Apply concepts of statistics and probability to support explanations that Organisms with an advantageous heritable trait tend to increase in proportion to Organisms lacking this trait.",
+    "clarification": "Emphasis is on analyzing shifts in numerical distribution of traits and using these shifts as evidence to support explanations.",
+    "assessmentBoundary": "Assessment is limited to basic statistical and graphical analysis. Assessment does not include allele frequency calculations."
+  },
+  {
+    "code": "9-12.LS4.C.1",
+    "description": "Construct an explanation based on evidence for how natural selection leads to adaptation of populations.",
+    "clarification": "Emphasis is on using data to provide evidence for how specific biotic and abiotic differences in Ecosystems (such as ranges of seasonal temperature, long-term climate change, acidity, light, geographic barriers, or evolution of other Organisms) contribute to a change in gene frequency over time, leading to adaptation of populations."
+  },
+  {
+    "code": "9-12.LS4.C.2",
+    "description": "Evaluate the evidence supporting claims that changes in environmental conditions may result in: (1) increases in the number of individuals of some species, (2) the emergence of new species over time, and (3) the extinction of other species. [Clarification statement: Emphasis is on determining cause and effect relationships for how changes to the environment such as deforestation, fishing, and application of fertilizers, droughts, flood, and the rate of change of the environment affect distribution or disappearance of traits in species.]"
+  },
+  {
+    "code": "9-12.LS4.C.3",
+    "description": "Create or revise a model to test a solution to mitigate adverse impacts of human activity on biodiversity.",
+    "clarification": "Emphasis is on designing solutions for a proposed problem related to threatened or endangered species, or to genetic variation of Organisms for multiple species."
+  },
+  {
+    "code": "9-12.PS1.A.1",
+    "description": "Use the organization of the periodic table to predict the relative properties of elements based on the patterns of electrons in the outermost energy level of atoms.",
+    "clarification": "Examples of properties that could be predicted from patterns could include reactivity of metals, types of bonds formed, numbers of bonds formed, and reactions with oxygen.",
+    "assessmentBoundary": "Assessment is limited to main group elements. Assessment does not include quantitative understanding of ionization energy beyond relative trends."
+  },
+  {
+    "code": "9-12.PS1.A.2",
+    "description": "Construct and revise an explanation for the products of a simple chemical reaction based on the outermost electron states of atoms, trends in the periodic table, and knowledge of the patterns of chemical properties.",
+    "clarification": "Examples of chemical reactions could include the reaction of sodium and chlorine, or of oxygen and hydrogen.",
+    "assessmentBoundary": "Assessment is limited to chemical reactions involving main group elements including synthesis, decomposition, combustion, and/or replacement reactions."
+  },
+  {
+    "code": "9-12.PS1.A.3",
+    "description": "Plan and conduct an investigation to gather evidence to compare physical and chemical properties of substances such as melting point, boiling point, vapor pressure, surface tension, and chemical reactivity to infer the relative strength of attractive forces between particles. [Clarification Statement: Emphasis is on understanding the relative strength of forces between particles. Examples of particles could include ions, atoms, molecules, and networked materials (such as graphite).",
+    "assessmentBoundary": "Assessment does not include Raoult’s law calculations of vapor pressure."
+  },
+  {
+    "code": "9-12.PS1.A.4",
+    "description": "Apply the concepts of bonding and crystalline/molecular structure to explain the macroscopic properties of various categories of structural materials, i.e. metals, ionic (ceramics), and polymers.",
+    "clarification": "Emphasis is on the attractive and repulsive forces that determine the functioning of the material. Examples could include why electrically conductive materials are often made of metal, flexible but durable materials are made up of long chained molecules, and pharmaceuticals are designed to interact with specific receptors.",
+    "assessmentBoundary": "Assessment is limited to structures of specified materials."
+  },
+  {
+    "code": "9-12.PS1.A.5",
+    "description": "Develop a model to illustrate that the release or absorption of energy from a chemical reaction system depends upon the changes in total bond energy.",
+    "clarification": "Emphasis is on the idea that a chemical reaction is a system that affects the energy change. Examples of models could include molecular-level drawings and diagrams of reactions, graph showing the relative energies of reactants and products, and representations showing energy is conserved.",
+    "assessmentBoundary": "Assessment does not include calculating the total bond energy changes during a chemical reaction from the bond energies of reactants and products."
+  },
+  {
+    "code": "9-12.PS1.B.1",
+    "description": "Apply scientific principles and evidence to provide an explanation about the effects of changing the temperature or concentration of the reacting particles on the rate at which a reaction occurs.",
+    "clarification": "Emphasis is on student reasoning that focuses on the number and energy of collisions between molecules.",
+    "assessmentBoundary": "Assessment is limited to simple reactions in which there are only two reactants; evidence from temperature, concentration, and rate data; and qualitative relationships between rate and temperature. No calculations."
+  },
+  {
+    "code": "9-12.PS1.B.2",
+    "description": "Refine the design of a chemical system by specifying a change in conditions that would alter the amount of products at equilibrium.",
+    "clarification": "Emphasis is on the application of Le Chatelier’s Principle and on refining designs of chemical reaction System, including descriptions of the connection between changes made at the macroscopic level and what happens at the molecular level. Examples of designs could include different ways to increase product formation including adding reactants or removing products.",
+    "assessmentBoundary": "Assessment is limited to specifying the change in only one variable at a time. Assessment does not include calculating equilibrium constants and concentrations."
+  },
+  {
+    "code": "9-12.PS1.B.3",
+    "description": "Use symbolic representations and mathematical calculations to support the claim that atoms, and therefore mass, are conserved during a chemical reaction.",
+    "clarification": "Emphasis is on conservation of matter and mass through balanced chemical equations, use of the mole concept and proportional relationships.",
+    "assessmentBoundary": "Assessment does not include complex chemical reactions."
+  },
+  {
+    "code": "9-12.PS1.C.1",
+    "description": "Use symbolic representations to illustrate the changes in the composition of the nucleus of the atom and the energy released during the processes of fission, fusion, and radioactive decay.",
+    "clarification": "Emphasis is on simple qualitative models, such as pictures or diagrams, and on the scale of energy released in nuclear processes relative to other kinds of transformations.",
+    "assessmentBoundary": "Assessment does not include quantitative calculation of energy released. Assessment is limited to alpha, beta, and gamma radioactive decays."
+  },
+  {
+    "code": "9-12.PS2.A.1",
+    "description": "Analyze data to support and verify the concepts expressed by Newton's 2nd law of motion, as it describes the mathematical relationship among the net force on a macroscopic object, its mass, and its acceleration.",
+    "clarification": "Examples of data could include tables or graph of position or velocity as a function of time for objects subject to a net unbalanced force, such as a falling object, an object rolling down a ramp, or a moving object being pulled by a constant force.",
+    "assessmentBoundary": "Assessment is limited to one-dimensional motion and to macroscopic objects moving at non-relativistic speeds."
+  },
+  {
+    "code": "9-12.PS2.A.2",
+    "description": "Use mathematical representations to support and verify the concepts that the total momentum of a system of objects is conserved when there is no net force on the system.",
+    "clarification": "Emphasis is on the quantitative conservation of momentum in interactions and the qualitative meaning of this principle.",
+    "assessmentBoundary": "Assessment is limited to system of two macroscopic bodies moving in one dimension."
+  },
+  {
+    "code": "9-12.PS2.A.3",
+    "description": "Apply scientific principles of motion and momentum to design, evaluate, and refine a device that minimizes the force on a macroscopic object during a collision.",
+    "clarification": "Examples of evaluation and refinement could include determining the success of the device at protecting an object from damage and modifying the design to improve it. Examples of a device could include a football helmet or a parachute.",
+    "assessmentBoundary": "Assessment is limited to qualitative evaluations and/or algebraic manipulations."
+  },
+  {
+    "code": "9-12.PS2.B.1",
+    "description": "Use mathematical representations of Newton’s Law of Gravitation to describe and predict the gravitational forces between objects.",
+    "clarification": "Emphasis is on both quantitative and conceptual descriptions of gravitational fields.",
+    "assessmentBoundary": "Assessment is limited to system with two objects."
+  },
+  {
+    "code": "9-12.PS2.B.2",
+    "description": "Plan and conduct an investigation to provide evidence that an electric current can produce a magnetic field and that a changing magnetic field can produce an electric current.",
+    "assessmentBoundary": "Assessment is limited to designing and conducting investigations with provided materials and tools."
+  },
+  {
+    "code": "9-12.PS3.A.1",
+    "description": "Create a computational model to calculate the change in the energy of one component in a system when the changes in energy are known.",
+    "clarification": "Emphasis is on explaining the meaning of mathematical expressions used in the model.",
+    "assessmentBoundary": "Assessment is limited to basic algebraic expressions or computations; toSystem of two or three components; and to thermal energy, kinetic energy, and/or the energies in gravitational, magnetic, or electric fields."
+  },
+  {
+    "code": "9-12.PS3.A.2",
+    "description": "Develop and use models to illustrate that energy at the macroscopic scale can be accounted for as a combination of energy associated with the motions of particles (objects) and energy associated with the relative position of particles (objects).",
+    "clarification": "Examples of phenomena at the macroscopic scale could include the conversion of kinetic energy to thermal energy, the energy stored due to position of an object above the earth, and the energy stored between two electrically-charged plates. Examples of models could include diagrams, drawings, descriptions, and computer simulations."
+  },
+  {
+    "code": "9-12.PS3.A.3",
+    "description": "Design, build, and refine a device that works within given constraints to convert one form of energy into another form of energy.",
+    "clarification": "Emphasis is on both qualitative and quantitative evaluations of devices. Examples of devices could include Rube Goldberg devices, wind turbines, solar cells, solar ovens, and generators. Examples of constraints could include use of renewable energy forms and efficiency.",
+    "assessmentBoundary": "Assessment for quantitative evaluations is limited to total output for a given input. Assessment is limited to devices constructed with materials provided to students."
+  },
+  {
+    "code": "9-12.PS3.B.1",
+    "description": "Plan and conduct an investigation to provide evidence that the transfer of thermal energy when two components of different temperature are combined within a closed system results in a more uniform energy distribution among the components in the system (second law of thermodynamics).",
+    "clarification": "Emphasis is on analyzing data from student investigations and using mathematical thinking to describe the energy changes both quantitatively and conceptually. Examples of investigations could include mixing liquids at different initial temperatures or adding objects at different temperatures to water.",
+    "assessmentBoundary": "Assessment is limited to investigations based on materials and tools provided to students."
+  },
+  {
+    "code": "9-12.PS3.C.1",
+    "description": "Develop and use a model of two objects interacting through electric or magnetic fields to illustrate the forces between objects and the changes in energy of the objects due to the interaction. .",
+    "clarification": "Examples of models could include drawings, diagrams, and texts, such as drawings of what happens when two charges of opposite polarity are near each other.",
+    "assessmentBoundary": "Assessment is limited to system containing two objects."
+  },
+  {
+    "code": "9-12.PS4.A.1",
+    "description": "Use mathematical representations to support a claim regarding relationships among the frequency, wavelength, and speed of waves traveling in various media.",
+    "clarification": "Examples of data could include electromagnetic radiation traveling in a vacuum and glass, sound waves traveling through air and water, and seismic waves traveling through the Earth.",
+    "assessmentBoundary": "Assessment is limited to algebraic relationships and describing those relationships qualitatively."
+  },
+  {
+    "code": "9-12.PS4.A.2",
+    "description": "Evaluate the claims, evidence, and reasoning behind the idea that electromagnetic radiation can be described either by a wave model or a particle model, and that for some situations one model is more useful than the other.",
+    "clarification": "Emphasis is on how the experimental evidence supports the claim and how a theory is generally modified in light of new evidence. Examples of a phenomenon could include resonance, interference, diffraction, and photoelectric effect.",
+    "assessmentBoundary": "Assessment does not include using quantum theory."
+  },
+  {
+    "code": "9-12.PS4.B.1",
+    "description": "Communicate technical information about how electromagnetic radiation interacts with matter.",
+    "clarification": "Examples could include solar cells capturing light and converting it to electricity; medical imaging; and communications technology.",
+    "assessmentBoundary": "Assessments are limited to qualitative information. Assessments do not include band theory."
+  },
+  {
+    "code": "9-12.PS4.B.2",
+    "description": "Evaluate the validity and reliability of claims in published materials of the effects that different frequencies of electromagnetic radiation have when absorbed by matter.",
+    "clarification": "Emphasis is on the idea that photons associated with different frequencies of light have different energies, and the damage to living tissue from electromagnetic radiation depends on the energy of the radiation. Examples of published materials could include trade books, magazines, web resources, videos, and other passages that may reflect bias.",
+    "assessmentBoundary": "Assessment is limited to qualitative descriptions."
+  }
+]

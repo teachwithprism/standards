@@ -1,0 +1,87 @@
+[
+  {
+    "code": "5.ESS1.A.1",
+    "description": "Support an argument that relative distances from Earth affects the apparent brightness of the sun compared to other stars."
+  },
+  {
+    "code": "5.ESS1.B.1",
+    "description": "Make observations during different seasons to relate the amount of daylight to the time of year.",
+    "clarification": "Emphasis is on relative comparisons of the amount of daylight in the winter to the amount in the spring or fall."
+  },
+  {
+    "code": "5.ESS1.B.2",
+    "description": "Represent data in graphical displays to reveal patterns of daily changes in length and direction of shadows, day and night, and the seasonal appearance of some stars in the night sky.",
+    "clarification": "Examples of patterns could include the position and motion of Earth with respect to the sun and selected stars that are visible only in particular month."
+  },
+  {
+    "code": "5.ESS2.A.1",
+    "description": "Develop a model using an example to describe ways the geosphere, biosphere, hydrosphere, and/or atmosphere interact.",
+    "clarification": "Examples could include the influence of the ocean on Ecosystems, landform shape, and climate; the influence of the atmosphere on landforms and Ecosystems through weather and climate; and the influence of mountain ranges on winds and clouds in the atmosphere. The geosphere, hydrosphere, atmosphere, and biosphere are each a system."
+  },
+  {
+    "code": "5.ESS2.C.1",
+    "description": "Describe and graph the amounts and percentages of water and fresh water in various reservoirs to provide evidence about the distribution of water on Earth."
+  },
+  {
+    "code": "5.ESS3.C.1",
+    "description": "Obtain and combine information about ways individual communities use science ideas to protect the Earth’s resources and environment."
+  },
+  {
+    "code": "5.ETS1.A.1",
+    "description": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost."
+  },
+  {
+    "code": "5.ETS1.B.1",
+    "description": "Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem."
+  },
+  {
+    "code": "5.ETS1.C.1",
+    "description": "Plan and carry out fair tests in which variables are controlled and failure points are considered to identify aspects of a model or prototype that can be improved."
+  },
+  {
+    "code": "5.LS1.A.1",
+    "description": "Compare and contrast the major organs/organ System (e.g. support, reproductive, digestive, transport/circulatory, excretory, response) that perform similar functions for animals belonging to different vertebrate classes."
+  },
+  {
+    "code": "5.LS1.C.1",
+    "description": "Support an argument that plants get the materials (i.e. carbon dioxide, water, sunlight) they need for growth chiefly from air and water.",
+    "clarification": "Emphasis is on the idea that plant matter comes mostly from air and water, not from the soil. Clarification Statement: [Do not assess photosynthesis. "
+  },
+  {
+    "code": "5.LS2.B.1",
+    "description": "Develop a model to describe the movement of matter among plants, animals, decomposers, and the environment.",
+    "clarification": "Emphasis is on the idea that matter that is not food (air, water, decomposed materials in soil) is changed by plants into matter that is food. Examples of System could include Organisms, Ecosystems, and the Earth."
+  },
+  {
+    "code": "5.PS1.A.1",
+    "description": "Develop a model to describe that matter is made of particles too small to be seen.",
+    "clarification": "Examples of evidence supporting a model could include adding air to expand a basketball, compressing air in a syringe, dissolving sugar in water, and evaporating salt water."
+  },
+  {
+    "code": "5.PS1.A.2",
+    "description": "Measure and graph quantities to provide evidence that regardless of the type of change that occurs when heating, cooling, or mixing substances, the total weight of matter is conserved.",
+    "clarification": "Examples of reactions or changes could include phase changes, dissolving, and mixing that form new substances."
+  },
+  {
+    "code": "5.PS1.B.1",
+    "description": "Plan and conduct investigations to separate the components of a mixture/solution by their physical properties (i.e., sorting, filtration, magnets, screening)."
+  },
+  {
+    "code": "5.PS1.B.2",
+    "description": "Conduct an investigation to determine whether the combining of two or more substances results in new substances."
+  },
+  {
+    "code": "5.PS2.B.1",
+    "description": "Support an argument that the gravitational force exerted by Earth on objects is directed toward the planet's center.",
+    "clarification": "“Down” is a local description of the direction that points toward the center of the spherical Earth."
+  },
+  {
+    "code": "5.PS3.D.1",
+    "description": "Use models to describe that energy stored in food (used for body repair, growth, motion, and to maintain body warmth) was once energy from the sun.",
+    "clarification": "Examples of models could include diagrams, and flow charts."
+  },
+  {
+    "code": "5.PS4.A.1",
+    "description": "Develop a model to describe that objects can be seen only when light is reflected off them or when they produce their own light."
+  }
+]
