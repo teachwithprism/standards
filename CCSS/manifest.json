@@ -1,0 +1,197 @@
+{
+  "sets": [
+    {
+      "id": "ccss",
+      "name": "Common Core State Standards (CCSS)",
+      "attribution": "© Copyright 2010. National Governors Association Center for Best Practices and Council of Chief State School Officers. All rights reserved.",
+      "subjects": [
+        {
+          "id": "math",
+          "name": "Mathematics",
+          "grades": [
+            {
+              "id": "k",
+              "name": "Kindergarten",
+              "path": "standards/ccss-math-k.json",
+              "count": 25
+            },
+            {
+              "id": "1",
+              "name": "Grade 1",
+              "path": "standards/ccss-math-1.json",
+              "count": 24
+            },
+            {
+              "id": "2",
+              "name": "Grade 2",
+              "path": "standards/ccss-math-2.json",
+              "count": 28
+            },
+            {
+              "id": "3",
+              "name": "Grade 3",
+              "path": "standards/ccss-math-3.json",
+              "count": 37
+            },
+            {
+              "id": "4",
+              "name": "Grade 4",
+              "path": "standards/ccss-math-4.json",
+              "count": 37
+            },
+            {
+              "id": "5",
+              "name": "Grade 5",
+              "path": "standards/ccss-math-5.json",
+              "count": 40
+            },
+            {
+              "id": "6",
+              "name": "Grade 6",
+              "path": "standards/ccss-math-6.json",
+              "count": 47
+            },
+            {
+              "id": "7",
+              "name": "Grade 7",
+              "path": "standards/ccss-math-7.json",
+              "count": 43
+            },
+            {
+              "id": "8",
+              "name": "Grade 8",
+              "path": "standards/ccss-math-8.json",
+              "count": 36
+            },
+            {
+              "id": "hs-number-quantity",
+              "name": "High School: Number & Quantity",
+              "path": "standards/ccss-math-hs-number-quantity.json",
+              "count": 32
+            },
+            {
+              "id": "hs-algebra",
+              "name": "High School: Algebra",
+              "path": "standards/ccss-math-hs-algebra.json",
+              "count": 34
+            },
+            {
+              "id": "hs-functions",
+              "name": "High School: Functions",
+              "path": "standards/ccss-math-hs-functions.json",
+              "count": 45
+            },
+            {
+              "id": "hs-geometry",
+              "name": "High School: Geometry",
+              "path": "standards/ccss-math-hs-geometry.json",
+              "count": 45
+            },
+            {
+              "id": "hs-statistics-probability",
+              "name": "High School: Statistics & Probability",
+              "path": "standards/ccss-math-hs-statistics-probability.json",
+              "count": 36
+            }
+          ]
+        },
+        {
+          "id": "ela",
+          "name": "English Language Arts",
+          "grades": [
+            {
+              "id": "k",
+              "name": "Kindergarten",
+              "path": "standards/ccss-ela-k.json",
+              "count": 72
+            },
+            {
+              "id": "1",
+              "name": "Grade 1",
+              "path": "standards/ccss-ela-1.json",
+              "count": 81
+            },
+            {
+              "id": "2",
+              "name": "Grade 2",
+              "path": "standards/ccss-ela-2.json",
+              "count": 71
+            },
+            {
+              "id": "3",
+              "name": "Grade 3",
+              "path": "standards/ccss-ela-3.json",
+              "count": 90
+            },
+            {
+              "id": "4",
+              "name": "Grade 4",
+              "path": "standards/ccss-ela-4.json",
+              "count": 85
+            },
+            {
+              "id": "5",
+              "name": "Grade 5",
+              "path": "standards/ccss-ela-5.json",
+              "count": 83
+            },
+            {
+              "id": "6",
+              "name": "Grade 6",
+              "path": "standards/ccss-ela-6.json",
+              "count": 79
+            },
+            {
+              "id": "7",
+              "name": "Grade 7",
+              "path": "standards/ccss-ela-7.json",
+              "count": 76
+            },
+            {
+              "id": "8",
+              "name": "Grade 8",
+              "path": "standards/ccss-ela-8.json",
+              "count": 78
+            },
+            {
+              "id": "9-10",
+              "name": "Grades 9-10",
+              "path": "standards/ccss-ela-9-10.json",
+              "count": 75
+            },
+            {
+              "id": "11-12",
+              "name": "Grades 11-12",
+              "path": "standards/ccss-ela-11-12.json",
+              "count": 74
+            }
+          ]
+        },
+        {
+          "id": "literacy",
+          "name": "Literacy in History/Social Studies, Science & Technical Subjects",
+          "grades": [
+            {
+              "id": "6-8",
+              "name": "Grades 6-8",
+              "path": "standards/ccss-literacy-6-8.json",
+              "count": 40
+            },
+            {
+              "id": "9-10",
+              "name": "Grades 9-10",
+              "path": "standards/ccss-literacy-9-10.json",
+              "count": 40
+            },
+            {
+              "id": "11-12",
+              "name": "Grades 11-12",
+              "path": "standards/ccss-literacy-11-12.json",
+              "count": 39
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

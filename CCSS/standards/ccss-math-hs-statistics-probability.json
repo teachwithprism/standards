@@ -1,0 +1,193 @@
+[
+  {
+    "code": "S-ID.A.1",
+    "description": "Represent data with plots on the real number line (dot plots, histograms, and box plots).",
+    "modeling": true
+  },
+  {
+    "code": "S-ID.A.2",
+    "description": "Use statistics appropriate to the shape of the data distribution to compare center (median, mean) and spread (interquartile range, standard deviation) of two or more different data sets.",
+    "modeling": true
+  },
+  {
+    "code": "S-ID.A.3",
+    "description": "Interpret differences in shape, center, and spread in the context of the data sets, accounting for possible effects of extreme data points (outliers).",
+    "modeling": true
+  },
+  {
+    "code": "S-ID.A.4",
+    "description": "Use the mean and standard deviation of a data set to fit it to a normal distribution and to estimate population percentages. Recognize that there are data sets for which such a procedure is not appropriate. Use calculators, spreadsheets, and tables to estimate areas under the normal curve.",
+    "modeling": true
+  },
+  {
+    "code": "S-ID.B.5",
+    "description": "Summarize categorical data for two categories in two-way frequency tables. Interpret relative frequencies in the context of the data (including joint, marginal, and conditional relative frequencies). Recognize possible associations and trends in the data.",
+    "modeling": true
+  },
+  {
+    "code": "S-ID.B.6",
+    "description": "Represent data on two quantitative variables on a scatter plot, and describe how the variables are related.",
+    "modeling": true
+  },
+  {
+    "code": "S-ID.B.6a",
+    "description": "Fit a function to the data; use functions fitted to data to solve problems in the context of the data. Use given functions or choose a function suggested by the context. Emphasize linear, quadratic, and exponential models.",
+    "modeling": true
+  },
+  {
+    "code": "S-ID.B.6b",
+    "description": "Informally assess the fit of a function by plotting and analyzing residuals.",
+    "modeling": true
+  },
+  {
+    "code": "S-ID.B.6c",
+    "description": "Fit a linear function for a scatter plot that suggests a linear association.",
+    "modeling": true
+  },
+  {
+    "code": "S-ID.C.7",
+    "description": "Interpret the slope (rate of change) and the intercept (constant term) of a linear model in the context of the data.",
+    "modeling": true
+  },
+  {
+    "code": "S-ID.C.8",
+    "description": "Compute (using technology) and interpret the correlation coefficient of a linear fit.",
+    "modeling": true
+  },
+  {
+    "code": "S-ID.C.9",
+    "description": "Distinguish between correlation and causation.",
+    "modeling": true
+  },
+  {
+    "code": "S-IC.A.1",
+    "description": "Understand statistics as a process for making inferences about population parameters based on a random sample from that population.",
+    "modeling": true
+  },
+  {
+    "code": "S-IC.A.2",
+    "description": "Decide if a specified model is consistent with results from a given data-generating process, e.g., using simulation. For example, a model says a spinning coin falls heads up with probability 0.5. Would a result of 5 tails in a row cause you to question the model?",
+    "modeling": true
+  },
+  {
+    "code": "S-IC.B.3",
+    "description": "Recognize the purposes of and differences among sample surveys, experiments, and observational studies; explain how randomization relates to each.",
+    "modeling": true
+  },
+  {
+    "code": "S-IC.B.4",
+    "description": "Use data from a sample survey to estimate a population mean or proportion; develop a margin of error through the use of simulation models for random sampling.",
+    "modeling": true
+  },
+  {
+    "code": "S-IC.B.5",
+    "description": "Use data from a randomized experiment to compare two treatments; use simulations to decide if differences between parameters are significant.",
+    "modeling": true
+  },
+  {
+    "code": "S-IC.B.6",
+    "description": "Evaluate reports based on data.",
+    "modeling": true
+  },
+  {
+    "code": "S-CP.A.1",
+    "description": "Describe events as subsets of a sample space (the set of outcomes) using characteristics (or categories) of the outcomes, or as unions, intersections, or complements of other events (“or,” “and,” “not”).",
+    "modeling": true
+  },
+  {
+    "code": "S-CP.A.2",
+    "description": "Understand that two events A and B are independent if the probability of A and B occurring together is the product of their probabilities, and use this characterization to determine if they are independent.",
+    "modeling": true
+  },
+  {
+    "code": "S-CP.A.3",
+    "description": "Understand the conditional probability of A given B as P(A and B)/P(B), and interpret independence of A and B as saying that the conditional probability of A given B is the same as the probability of A, and the conditional probability of B given A is the same as the probability of B.",
+    "modeling": true
+  },
+  {
+    "code": "S-CP.A.4",
+    "description": "Construct and interpret two-way frequency tables of data when two categories are associated with each object being classified. Use the two-way table as a sample space to decide if events are independent and to approximate conditional probabilities. For example, collect data from a random sample of students in your school on their favorite subject among math, science, and English. Estimate the probability that a randomly selected student from your school will favor science given that the student is in tenth grade. Do the same for other subjects and compare the results.",
+    "modeling": true
+  },
+  {
+    "code": "S-CP.A.5",
+    "description": "Recognize and explain the concepts of conditional probability and independence in everyday language and everyday situations. For example, compare the chance of having lung cancer if you are a smoker with the chance of being a smoker if you have lung cancer.",
+    "modeling": true
+  },
+  {
+    "code": "S-CP.B.6",
+    "description": "Find the conditional probability of A given B as the fraction of B’s outcomes that also belong to A, and interpret the answer in terms of the model.",
+    "modeling": true
+  },
+  {
+    "code": "S-CP.B.7",
+    "description": "Apply the Addition Rule, P(A or B) = P(A) + P(B) – P(A and B), and interpret the answer in terms of the model.",
+    "modeling": true
+  },
+  {
+    "code": "S-CP.B.8",
+    "description": "Apply the general Multiplication Rule in a uniform probability model, P(A and B) = P(A)P(B|A) = P(B)P(A|B), and interpret the answer in terms of the model.",
+    "modeling": true,
+    "plus": true
+  },
+  {
+    "code": "S-CP.B.9",
+    "description": "Use permutations and combinations to compute probabilities of compound events and solve problems.",
+    "modeling": true,
+    "plus": true
+  },
+  {
+    "code": "S-MD.A.1",
+    "description": "Define a random variable for a quantity of interest by assigning a numerical value to each event in a sample space; graph the corresponding probability distribution using the same graphical displays as for data distributions.",
+    "modeling": true,
+    "plus": true
+  },
+  {
+    "code": "S-MD.A.2",
+    "description": "Calculate the expected value of a random variable; interpret it as the mean of the probability distribution.",
+    "modeling": true,
+    "plus": true
+  },
+  {
+    "code": "S-MD.A.3",
+    "description": "Develop a probability distribution for a random variable defined for a sample space in which theoretical probabilities can be calculated; find the expected value. For example, find the theoretical probability distribution for the number of correct answers obtained by guessing on all five questions of a multiple-choice test where each question has four choices, and find the expected grade under various grading schemes.",
+    "modeling": true,
+    "plus": true
+  },
+  {
+    "code": "S-MD.A.4",
+    "description": "Develop a probability distribution for a random variable defined for a sample space in which probabilities are assigned empirically; find the expected value. For example, find a current data distribution on the number of TV sets per household in the United States, and calculate the expected number of sets per household. How many TV sets would you expect to find in 100 randomly selected households?",
+    "modeling": true,
+    "plus": true
+  },
+  {
+    "code": "S-MD.B.5",
+    "description": "Weigh the possible outcomes of a decision by assigning probabilities to payoff values and finding expected values.",
+    "modeling": true,
+    "plus": true
+  },
+  {
+    "code": "S-MD.B.5a",
+    "description": "Find the expected payoff for a game of chance. For example, find the expected winnings from a state lottery ticket or a game at a fast-food restaurant.",
+    "modeling": true,
+    "plus": true
+  },
+  {
+    "code": "S-MD.B.5b",
+    "description": "Evaluate and compare strategies on the basis of expected values. For example, compare a high-deductible versus a low-deductible automobile insurance policy using various, but reasonable, chances of having a minor or a major accident.",
+    "modeling": true,
+    "plus": true
+  },
+  {
+    "code": "S-MD.B.6",
+    "description": "Use probabilities to make fair decisions (e.g., drawing by lots, using a random number generator).",
+    "modeling": true,
+    "plus": true
+  },
+  {
+    "code": "S-MD.B.7",
+    "description": "Analyze decisions and strategies using probability concepts (e.g., product testing, medical testing, pulling a hockey goalie at the end of a game).",
+    "modeling": true,
+    "plus": true
+  }
+]

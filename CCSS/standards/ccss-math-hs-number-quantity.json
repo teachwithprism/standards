@@ -1,0 +1,156 @@
+[
+  {
+    "code": "N-RN.A.1",
+    "description": "Explain how the definition of the meaning of rational exponents follows from extending the properties of integer exponents to those values, allowing for a notation for radicals in terms of rational exponents. For example, we define 5^(1/3) to be the cube root of 5 because we want (5^(1/3))^3 = 5^((1/3)3) to hold, so (5^(1/3))^3 must equal 5."
+  },
+  {
+    "code": "N-RN.A.2",
+    "description": "Rewrite expressions involving radicals and rational exponents using the properties of exponents."
+  },
+  {
+    "code": "N-RN.B.3",
+    "description": "Explain why the sum or product of two rational numbers is rational; that the sum of a rational number and an irrational number is irrational; and that the product of a nonzero rational number and an irrational number is irrational."
+  },
+  {
+    "code": "N-Q.A.1",
+    "description": "Use units as a way to understand problems and to guide the solution of multi-step problems; choose and interpret units consistently in formulas; choose and interpret the scale and the origin in graphs and data displays.",
+    "modeling": true
+  },
+  {
+    "code": "N-Q.A.2",
+    "description": "Define appropriate quantities for the purpose of descriptive modeling.",
+    "modeling": true
+  },
+  {
+    "code": "N-Q.A.3",
+    "description": "Choose a level of accuracy appropriate to limitations on measurement when reporting quantities.",
+    "modeling": true
+  },
+  {
+    "code": "N-CN.A.1",
+    "description": "Know there is a complex number i such that i^2 = –1, and every complex number has the form a + bi with a and b real."
+  },
+  {
+    "code": "N-CN.A.2",
+    "description": "Use the relation i^2 = –1 and the commutative, associative, and distributive properties to add, subtract, and multiply complex numbers."
+  },
+  {
+    "code": "N-CN.A.3",
+    "description": "Find the conjugate of a complex number; use conjugates to find moduli and quotients of complex numbers.",
+    "plus": true
+  },
+  {
+    "code": "N-CN.B.4",
+    "description": "Represent complex numbers on the complex plane in rectangular and polar form (including real and imaginary numbers), and explain why the rectangular and polar forms of a given complex number represent the same number.",
+    "plus": true
+  },
+  {
+    "code": "N-CN.B.5",
+    "description": "Represent addition, subtraction, multiplication, and conjugation of complex numbers geometrically on the complex plane; use properties of this representation for computation. For example, (–1 + √3 i)^3 = 8 because (–1 + √3 i) has modulus 2 and argument 120°.",
+    "plus": true
+  },
+  {
+    "code": "N-CN.B.6",
+    "description": "Calculate the distance between numbers in the complex plane as the modulus of the difference, and the midpoint of a segment as the average of the numbers at its endpoints.",
+    "plus": true
+  },
+  {
+    "code": "N-CN.C.7",
+    "description": "Solve quadratic equations with real coefficients that have complex solutions."
+  },
+  {
+    "code": "N-CN.C.8",
+    "description": "Extend polynomial identities to the complex numbers. For example, rewrite x^2 + 4 as (x + 2i)(x – 2i).",
+    "plus": true
+  },
+  {
+    "code": "N-CN.C.9",
+    "description": "Know the Fundamental Theorem of Algebra; show that it is true for quadratic polynomials.",
+    "plus": true
+  },
+  {
+    "code": "N-VM.A.1",
+    "description": "Recognize vector quantities as having both magnitude and direction. Represent vector quantities by directed line segments, and use appropriate symbols for vectors and their magnitudes (e.g., v, |v|, ||v||, v).",
+    "plus": true
+  },
+  {
+    "code": "N-VM.A.2",
+    "description": "Find the components of a vector by subtracting the coordinates of an initial point from the coordinates of a terminal point.",
+    "plus": true
+  },
+  {
+    "code": "N-VM.A.3",
+    "description": "Solve problems involving velocity and other quantities that can be represented by vectors.",
+    "plus": true
+  },
+  {
+    "code": "N-VM.B.4",
+    "description": "Add and subtract vectors.",
+    "plus": true
+  },
+  {
+    "code": "N-VM.B.4a",
+    "description": "Add vectors end-to-end, component-wise, and by the parallelogram rule. Understand that the magnitude of a sum of two vectors is typically not the sum of the magnitudes.",
+    "plus": true
+  },
+  {
+    "code": "N-VM.B.4b",
+    "description": "Given two vectors in magnitude and direction form, determine the magnitude and direction of their sum.",
+    "plus": true
+  },
+  {
+    "code": "N-VM.B.4c",
+    "description": "Understand vector subtraction v – w as v + (–w), where –w is the additive inverse of w, with the same magnitude as w and pointing in the opposite direction. Represent vector subtraction graphically by connecting the tips in the appropriate order, and perform vector subtraction component-wise.",
+    "plus": true
+  },
+  {
+    "code": "N-VM.B.5",
+    "description": "Multiply a vector by a scalar.",
+    "plus": true
+  },
+  {
+    "code": "N-VM.B.5a",
+    "description": "Represent scalar multiplication graphically by scaling vectors and possibly reversing their direction; perform scalar multiplication component-wise, e.g., as c(v_x, v_y) = (cv_x, cv_y).",
+    "plus": true
+  },
+  {
+    "code": "N-VM.B.5b",
+    "description": "Compute the magnitude of a scalar multiple cv using ||cv|| = |c|v. Compute the direction of cv knowing that when |c|v ≠ 0, the direction of cv is either along v (for c > 0) or against v (for c < 0).",
+    "plus": true
+  },
+  {
+    "code": "N-VM.C.6",
+    "description": "Use matrices to represent and manipulate data, e.g., to represent payoffs or incidence relationships in a network.",
+    "plus": true
+  },
+  {
+    "code": "N-VM.C.7",
+    "description": "Multiply matrices by scalars to produce new matrices, e.g., as when all of the payoffs in a game are doubled.",
+    "plus": true
+  },
+  {
+    "code": "N-VM.C.8",
+    "description": "Add, subtract, and multiply matrices of appropriate dimensions.",
+    "plus": true
+  },
+  {
+    "code": "N-VM.C.9",
+    "description": "Understand that, unlike multiplication of numbers, matrix multiplication for square matrices is not a commutative operation, but still satisfies the associative and distributive properties.",
+    "plus": true
+  },
+  {
+    "code": "N-VM.C.10",
+    "description": "Understand that the zero and identity matrices play a role in matrix addition and multiplication similar to the role of 0 and 1 in the real numbers. The determinant of a square matrix is nonzero if and only if the matrix has a multiplicative inverse.",
+    "plus": true
+  },
+  {
+    "code": "N-VM.C.11",
+    "description": "Multiply a vector (regarded as a matrix with one column) by a matrix of suitable dimensions to produce another vector. Work with matrices as transformations of vectors.",
+    "plus": true
+  },
+  {
+    "code": "N-VM.C.12",
+    "description": "Work with 2 × 2 matrices as transformations of the plane, and interpret the absolute value of the determinant in terms of area.",
+    "plus": true
+  }
+]
