@@ -1,0 +1,58 @@
+[
+  {
+    "code": "2.PS1.A.1",
+    "description": "Plan and conduct an investigation to describe and classify different kinds of materials by their observable properties.",
+    "clarification": "Observations could include color, texture, hardness, and flexibility. Patterns could include the similar properties that different materials share."
+  },
+  {
+    "code": "2.ESS1.C.1",
+    "description": "Use information from several sources to provide evidence that Earth events can occur quickly or slowly.",
+    "clarification": "Examples of events and timescales could include volcanic explosions and earthquakes, which happen quickly and erosion of rocks, which occurs slowly."
+  },
+  {
+    "code": "2.ESS2.A.1",
+    "description": "Compare multiple solutions designed to slow or prevent wind or water from changing the shape of the land.",
+    "clarification": "Examples of solutions could include different designs of dikes and windbreaks to hold back wind and water, and different designs for using shrubs, grass, and trees to hold back the land."
+  },
+  {
+    "code": "2.ESS2.B.1",
+    "description": "Develop a model to represent the shapes and kinds of land and bodies of water in an area."
+  },
+  {
+    "code": "2.ESS2.C.1",
+    "description": "Obtain information to identify where water is found on Earth and that it can be solid or liquid."
+  },
+  {
+    "code": "2.ETS1.A.1",
+    "description": "Ask questions, make observations, and gather information about a situation people want to change to define a simple problem that can be solved through the development of a new or improved object or tool."
+  },
+  {
+    "code": "2.ETS1.B.1",
+    "description": "Develop a simple sketch, drawing, or physical model to illustrate how the shape of an object helps it function as needed to solve a given problem."
+  },
+  {
+    "code": "2.ETS1.C.1",
+    "description": "Analyze data from tests of two objects designed to solve the same problem to compare the strength and weaknesses of how each performs."
+  },
+  {
+    "code": "2.LS2.A.1",
+    "description": "Plan and conduct investigations on the growth of plants when growing conditions are altered (e.g., dark vs. light, water vs. no water)."
+  },
+  {
+    "code": "2.LS2.A.2",
+    "description": "Develop a simple model that mimics the function of an animal in dispersing seeds or pollinating plants."
+  },
+  {
+    "code": "2.PS1.A.2",
+    "description": "Analyze data obtained from testing different materials to determine which materials have the properties that are best suited for an intended purpose.",
+    "clarification": "Examples of properties could include, strength, flexibility, hardness, texture, and absorbency."
+  },
+  {
+    "code": "2.PS2.A.1",
+    "description": "Analyze data to determine how the motion of an object changed by an applied force or the mass of an object."
+  },
+  {
+    "code": "2.PS4.A.1",
+    "description": "Plan and conduct investigations to provide evidence that changes in vibration create change in sound."
+  }
+]

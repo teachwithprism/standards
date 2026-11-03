@@ -1,0 +1,66 @@
+[
+  {
+    "code": "3.ESS2.D.1",
+    "description": "Represent data in tables and graphical displays to describe typical weather conditions expected during a particular season.",
+    "clarification": "Examples of data could include average temperature, precipitation, and wind direction."
+  },
+  {
+    "code": "3.ESS2.D.2",
+    "description": "Obtain and combine information to describe climates in different regions of the world."
+  },
+  {
+    "code": "3.ESS3.B.1",
+    "description": "Make a claim about the merit of an existing design solution (e.g. levies, tornado shelters, sea walls, etc.) that reduces the impacts of a weather-related hazard.",
+    "clarification": "Examples of design solutions to weather-related hazards could include barriers to prevent flooding, wind resistant roofs, and lightning rods."
+  },
+  {
+    "code": "3.ETS1.A.1",
+    "description": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost."
+  },
+  {
+    "code": "3.ETS1.B.1",
+    "description": "Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem."
+  },
+  {
+    "code": "3.ETS1.C.1",
+    "description": "Plan and carry out fair tests in which variables are controlled and failure points are considered to identify aspects of a model or prototype that can be improved."
+  },
+  {
+    "code": "3.LS1.B.1",
+    "description": "Develop a model to compare and contrast observations on the life cycle of different plants and animals.",
+    "clarification": "Changes Organisms go through during their life form a pattern."
+  },
+  {
+    "code": "3.LS3.A.1",
+    "description": "Construct scientific arguments to support claims that some characteristics of Organisms are inherited from parents and some are influenced by the environment.",
+    "clarification": "Examples of the environment affecting a trait could include normally tall plants grown with insufficient water are stunted; and, a pet dog that is given too much food and little exercise may become overweight."
+  },
+  {
+    "code": "3.LS3.B.1",
+    "description": "Use evidence to construct an explanation for how the variations in characteristics among individuals of the same species may provide advantages in surviving and finding mates.",
+    "clarification": "Examples of cause and effect relationships could be plants that have larger thorns than other plants may be less likely to be eaten by predators; and, animals that have better camouflage coloration than other animals may be more likely to survive and therefore more likely to leave offspring."
+  },
+  {
+    "code": "3.LS3.C.1",
+    "description": "Construct an argument with evidence that in a particular ecosystem some Organisms -- based on structural adaptations or behaviors -- can survive well, some survive less well, and some cannot.",
+    "clarification": "Examples of evidence could include needs and characteristics of the Organisms and habitats involved. The Organisms and their habitat make up a system in which the parts depend on each other."
+  },
+  {
+    "code": "3.LS3.D.1",
+    "description": "Make a claim about the merit of a solution to a problem caused when the environment changes and the types of plants and animals that live there may change.",
+    "clarification": "Examples of environmental changes could include changes in land characteristics, water distribution, temperature, food, and other Organisms."
+  },
+  {
+    "code": "3.PS1.A.1",
+    "description": "Predict and investigate that water can change from a liquid to a solid (freeze), and back again (melt), or from a liquid to a gas (evaporation), and back again (condensation) as the result of temperature changes."
+  },
+  {
+    "code": "3.PS1.B.1",
+    "description": "Construct an argument with evidence that some changes caused by heating or cooling can be reversed and some cannot."
+  },
+  {
+    "code": "3.PS2.B.1",
+    "description": "Plan and conduct investigations to determine the cause and effect relationship of electric or magnetic interactions between two objects not in contact with each other.",
+    "clarification": "Examples of an electric force could include the force on hair from an electrically charged balloon and the electrical forces between a charged rod and pieces of paper; examples of a magnetic force could include the force between two permanent magnets, the force between an electromagnet and steel paperclips, and the force exerted by one magnet versus the force exerted by two magnets. Examples of cause and effect relationships could include how the distance between objects affects strength of the force and how the orientation of magnets affects the direction of the magnetic force."
+  }
+]

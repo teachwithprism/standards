@@ -1,0 +1,290 @@
+[
+  {
+    "code": "9-12.WH.1.CC.A",
+    "description": "Create and use tools to analyze a chronological sequence of related events in world history."
+  },
+  {
+    "code": "9-12.WH.1.CC.B",
+    "description": "Explain connections between historical context and peoples’ perspectives at the time in world history."
+  },
+  {
+    "code": "9-12.WH.1.CC.C",
+    "description": "Develop a research plan, identify appropriate resources for investigating social studies topics, and create and present a research product which applies an aspect of world history post c. 1450 to a contemporary issue."
+  },
+  {
+    "code": "9-12.WH.1.CC.D",
+    "description": "Using an inquiry lens, develop compelling questions about world history post c. 1450, to determine helpful resources and consider multiple points of views represented in the resources."
+  },
+  {
+    "code": "9-12.WH.1.CC.E",
+    "description": "Analyze the causes and consequences of a specific problem in world history post c. 1450 as well as the challenges and opportunities faced by those trying to address the problem."
+  },
+  {
+    "code": "9-12.WH.1.GS.A",
+    "description": "Analyze laws, policies and processes to determine how governmental systems affect individuals and groups in society in World history prior to c.1450."
+  },
+  {
+    "code": "9-12.WH.1.GS.B",
+    "description": "Predict the consequences which can occur when individuals fail to carry out their personal responsibilities."
+  },
+  {
+    "code": "9-12.WH.1.GS.C",
+    "description": "Predict the consequences which can occur when institutions fail to meet the needs of individuals and groups."
+  },
+  {
+    "code": "9-12.WH.1.G.A",
+    "description": "Create and use maps and other graphic representations in order to explain relationships and reveal patterns or trends in world history c.1450-2010."
+  },
+  {
+    "code": "9-12.WH.1.G.B",
+    "description": "Analyze how the physical and human characteristics of world regions post c. 1450 are connected to changing identity and culture."
+  },
+  {
+    "code": "9-12.WH.1.G.C",
+    "description": "Locate major cities of the world and key world nations; the world’s continents, and oceans; and major topographical features of the world"
+  },
+  {
+    "code": "9-12.WH.1.EC.A",
+    "description": "Using a world history lens, analyze the opportunity costs and benefits of economic decisions on society as a whole as well as on individuals post c. 1450."
+  },
+  {
+    "code": "9-12.WH.1.PC.A",
+    "description": "Using a world history lens, describe how peoples’ perspectives shaped the sources/artifacts they created."
+  },
+  {
+    "code": "9-12.WH.1.PC.B",
+    "description": "Using a world history lens, examine the origins and impact of social structures and stratification on societies and relationships between peoples."
+  },
+  {
+    "code": "9-12.WH.2.CC.A",
+    "description": "Explain the causes and effects of the expansion of societies in Western Africa, Byzantine Empire, Gupta India, Chinese Dynasties, and Muslim Empires."
+  },
+  {
+    "code": "9-12.WH.2.CC.B",
+    "description": "Compare the dominant characteristics, contributions of, and interactions among major civilizations of Asia, Europe, Africa, the Americas and Middle East in ancient and medieval times."
+  },
+  {
+    "code": "9-12.WH.2.CC.C",
+    "description": "Explain how the Crusades, Scientific Revolution, Black Death, and the resulting exchanges that followed, impacted Europe and led to the Renaissance."
+  },
+  {
+    "code": "9-12.WH.3.CC.A",
+    "description": "Analyze the historical context of the Protestant Reformation and Scientific Revolution to explain new institutions and ways of thinking, and explain their social, political and economic impact."
+  },
+  {
+    "code": "9-12.WH.3.CC.B",
+    "description": "Analyze the causes and consequences of European overseas expansion to determine its effect on people and cultures in Europe, Asia, Africa, and the Americas."
+  },
+  {
+    "code": "9-12.WH.3.CC.C",
+    "description": "Explain the challenges and benefits of large land empires including those found in Russia, China, and the Middle East."
+  },
+  {
+    "code": "9-12.WH.4.CC.A",
+    "description": "Evaluate the forms of republics over time to determine their implication for pre-revolutionary ideas and expectations during the Age of Revolution."
+  },
+  {
+    "code": "9-12.WH.4.CC.B",
+    "description": "Compare and contrast causes and significant outcomes of political revolutions during this era."
+  },
+  {
+    "code": "9-12.WH.4.CC.C",
+    "description": "Analyze political revolutions and reform movements in order to determine their enduring effects worldwide on the political expectations for self-government and individual liberty."
+  },
+  {
+    "code": "9-12.WH.4.CC.D",
+    "description": "Analyze responses and reactions to revolutions in order to predict future conflicts."
+  },
+  {
+    "code": "9-12.WH.4.CC.E",
+    "description": "Evaluate the impact of nationalism on existing and emerging peoples and nations post c. 1450."
+  },
+  {
+    "code": "9-12.WH.5.CC.A",
+    "description": "Analyze world-wide imperialism in the late nineteenth and twentieth centuries to determine its causes and consequences."
+  },
+  {
+    "code": "9-12.WH.5.CC.B",
+    "description": "Trace the origins, and relationships among the world wars, revolutions, and global conflicts of twentieth century to determine their impacts on the world today."
+  },
+  {
+    "code": "9-12.WH.5.CC.C",
+    "description": "Analyze the varying process of colonization and decolonization to compare their impact on and legacies in the world today."
+  },
+  {
+    "code": "9-12.WH.2.GS.A",
+    "description": "Compare and contrast governmental systems, including monarchy, oligarchy, dynasty, and theocracy."
+  },
+  {
+    "code": "9-12.WH.2.GS.B",
+    "description": "Explain the influence of the classical revival on governmental systems including their source of power, how leaders are selected, and how decisions are made."
+  },
+  {
+    "code": "9-12.WH.3.GS.A",
+    "description": "Describe how governments and institutions of the Eastern and Western Hemispheres changed to deal with the challenges and opportunities of an interconnected world."
+  },
+  {
+    "code": "9-12.WH.3.GS.B",
+    "description": "Analyze the style and function of a leader to determine his/her impact on a governmental system."
+  },
+  {
+    "code": "9-12.WH.4.GS.A",
+    "description": "Analyze the key ideas of Enlightenment thinkers to explain the development of ideas such as natural law, natural rights, social contract, due process, and separation of powers."
+  },
+  {
+    "code": "9-12.WH.4.GS.B",
+    "description": "Compare and contrast limited and absolute governments and the extent of their impact on individuals and society."
+  },
+  {
+    "code": "9-12.WH.4.GS.C",
+    "description": "Compare and contrast government systems resulting from political revolutions."
+  },
+  {
+    "code": "9-12.WH.5.GS.A",
+    "description": "Compare and contrast evolving governmental systems, including monarchy, theocracy, totalitarianism and representative government to determine their impact on society."
+  },
+  {
+    "code": "9-12.WH.5.GS.B",
+    "description": "Analyze treaties, agreements, and international organizations to determine their impact on world challenges along with national and international order."
+  },
+  {
+    "code": "9-12.WH.2.G.A",
+    "description": "Analyze physical geography to explain how regions are connected or isolated from each other."
+  },
+  {
+    "code": "9-12.WH.2.G.B",
+    "description": "Compare and contrast geographic regions by examining the cultural characteristics of European, African, and Asian and American societies."
+  },
+  {
+    "code": "9-12.WH.3.G.A",
+    "description": "Analyze physical geography to explain the availability and movement of resources."
+  },
+  {
+    "code": "9-12.WH.3.G.B",
+    "description": "Describe major changes in patterns of migration and human settlement in Africa, Asia and the Americas resulting from European expansion."
+  },
+  {
+    "code": "9-12.WH.4.G.A",
+    "description": "Explain how and why places changed as a result of revolutions and why various people perceive the same place in varied ways."
+  },
+  {
+    "code": "9-12.WH.4.G.B",
+    "description": "Extrapolate the push-pull factors created by revolutions to determine their impacts on population distribution, settlements, and migrations."
+  },
+  {
+    "code": "9-12.WH.4.G.C",
+    "description": "Explain the significance of new technologies in expanding people’s’ capacity to modify the physical environment and their intended and unintended consequences."
+  },
+  {
+    "code": "9-12.WH.5.G.A",
+    "description": "Analyze physical geography to explain the availability and movement of resources."
+  },
+  {
+    "code": "9-12.WH.5.G.B",
+    "description": "Explain how technology has reduced barriers and expanded peoples’ capacity to make use of, or modify, the physical environment."
+  },
+  {
+    "code": "9-12.WH.5.G.C",
+    "description": "Evaluate the relationship between technological and scientific advancements and increasing global interaction."
+  },
+  {
+    "code": "9-12.WH.5.G.D",
+    "description": "Analyze major demographic patterns to determine their effect on the human and physical systems."
+  },
+  {
+    "code": "9-12.WH.2.EC.A",
+    "description": "Analyze the flow of goods and ideas along ocean and overland trade routes to explain their contributions to economic success or failures of societies in Europe, Africa, Middle East, India, the Americas and China."
+  },
+  {
+    "code": "9-12.WH.3.EC.A",
+    "description": "Compare the extent, interaction and impact of African, European, American and Asian trade networks."
+  },
+  {
+    "code": "9-12.WH.3.EC.B",
+    "description": "Compare the origins, development and effects of coercive labor systems in Asia, Africa, Europe and the Americas."
+  },
+  {
+    "code": "9-12.WH.3.EC.C",
+    "description": "Describe how new sources of wealth, resulting from increasing global interactions, impacted cultures and civilizations."
+  },
+  {
+    "code": "9-12.WH.4.EC.A",
+    "description": "Analyze the origins and characteristics of laissez faire, market, mixed, and command economic systems to determine their effects on personal, social, and political decisions"
+  },
+  {
+    "code": "9-12.WH.4.EC.B",
+    "description": "Examine the connections among natural resources, entrepreneurship, innovation, labor, and capital to determine their effects on an industrial economy in Europe, Africa, Asia and the Americas."
+  },
+  {
+    "code": "9-12.WH.5.EC.A",
+    "description": "Analyze economic systems such as market, mixed, and command to determine their impact on economic growth, labor markets, rights of citizens, the environment, and resource allocation in and among regions."
+  },
+  {
+    "code": "9-12.WH.5.EC.B",
+    "description": "Evaluate the response of individuals, groups, and governments to economic, environmental, health, and medical challenges to understand how systems change and evolve over time."
+  },
+  {
+    "code": "9-12.WH.2.PC.A",
+    "description": "Explain how scientific and technological advancements impacted the interconnectedness within and among regions."
+  },
+  {
+    "code": "9-12.WH.2.PC.B",
+    "description": "Analyze the intellectual, architectural, and artistic achievements of the Renaissance resulting from the rebirth of Classical ideas"
+  },
+  {
+    "code": "9-12.WH.2.PC.C",
+    "description": "Analyze the historic development of Islam as well as the expansion of Christianity, Islam, Hinduism and Buddhism in order to explain their transformations and roles in conflict and cooperation."
+  },
+  {
+    "code": "9-12.WH.3.PC.A",
+    "description": "Analyze the exchange of people, goods and ideas to determine their impact on global interdependence and conflict."
+  },
+  {
+    "code": "9-12.WH.3.PC.B",
+    "description": "Determine the extent and impact of cultural exchange, interaction, and disruption that resulted from the Columbian Exchange and European expansion in the Eastern and Western Hemispheres."
+  },
+  {
+    "code": "9-12.WH.3.PC.C",
+    "description": "Assess changing ideas of class, ethnicity, race, gender, and age to affect a person’s roles in society and social institutions."
+  },
+  {
+    "code": "9-12.WH.3.PC.D",
+    "description": "Trace the development and impact of religious, reform on exploration, interactions and conflicts among various, groups and nations."
+  },
+  {
+    "code": "9-12.WH.4.PC.A",
+    "description": "Analyze the intellectual, artistic, and literary achievements of the Enlightenment and ensuing revolutions in order to determine how they challenged the status quo."
+  },
+  {
+    "code": "9-12.WH.4.PC.B",
+    "description": "Analyze new technologies and new forms of energy to determine their effects on the lives of individuals, groups, and societal organization."
+  },
+  {
+    "code": "9-12.WH.4.PC.C",
+    "description": "Analyze social and educational reform movements to determine their impact on the challenges brought about by revolutions."
+  },
+  {
+    "code": "9-12.WH.4.PC.D",
+    "description": "Analyze political, social, cultural, artistic and economic revolutions to determine how they impacted concepts of class, race, tribe, slavery, and caste affiliation"
+  },
+  {
+    "code": "9-12.WH.5.PC.A",
+    "description": "Analyze causes and patterns of human rights violations and genocide and suggest resolutions for current and future conflicts."
+  },
+  {
+    "code": "9-12.WH.5.PC.B",
+    "description": "Analyze the process of globalization to determine its effects on global conflict and cooperation."
+  },
+  {
+    "code": "9-12.WH.5.PC.C",
+    "description": "Analyze the technological, intellectual, artistic, and literary achievements of the modern era to determine how society reflects and challenges the status quo."
+  },
+  {
+    "code": "9-12.WH.5.PC.D",
+    "description": "Analyze the causes and effects of the changing roles of class, ethnicity, race, gender and age on world cultures post c. 1450."
+  },
+  {
+    "code": "9-12.WH.5.PC.E",
+    "description": "Distinguish the powers and responsibilities of citizens and institutions to address and solve world problems post c. 1450."
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "code": "RL.7.1",
+    "description": "Cite several pieces of textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text."
+  },
+  {
+    "code": "RL.7.2",
+    "description": "Determine a theme or central idea of a text and analyze its development over the course of the text; provide an objective summary of the text."
+  },
+  {
+    "code": "RL.7.3",
+    "description": "Analyze how particular elements of a story or drama interact (e.g., how setting shapes the characters or plot)."
+  },
+  {
+    "code": "RL.7.4",
+    "description": "Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of rhymes and other repetitions of sounds (e.g., alliteration) on a specific verse or stanza of a poem or section of a story or drama."
+  },
+  {
+    "code": "RL.7.5",
+    "description": "Analyze how a drama’s or poem’s form or structure (e.g., soliloquy, sonnet) contributes to its meaning."
+  },
+  {
+    "code": "RL.7.6",
+    "description": "Analyze how an author develops and contrasts the points of view of different characters or narrators in a text."
+  },
+  {
+    "code": "RL.7.7",
+    "description": "Compare and contrast a written story, drama, or poem to its audio, filmed, staged, or multimedia version, analyzing the effects of techniques unique to each medium (e.g., lighting, sound, color, or camera focus and angles in a film)."
+  },
+  {
+    "code": "RL.7.9",
+    "description": "Compare and contrast a fictional portrayal of a time, place, or character and a historical account of the same period as a means of understanding how authors of fiction use or alter history."
+  },
+  {
+    "code": "RL.7.10",
+    "description": "By the end of the year, read and comprehend literature, including stories, dramas, and poems, in the grades 6–8 text complexity band proficiently, with scaffolding as needed at the high end of the range."
+  },
+  {
+    "code": "RI.7.1",
+    "description": "Cite several pieces of textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text."
+  },
+  {
+    "code": "RI.7.2",
+    "description": "Determine two or more central ideas in a text and analyze their development over the course of the text; provide an objective summary of the text."
+  },
+  {
+    "code": "RI.7.3",
+    "description": "Analyze the interactions between individuals, events, and ideas in a text (e.g., how ideas influence individuals or events, or how individuals influence ideas or events)."
+  },
+  {
+    "code": "RI.7.4",
+    "description": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze the impact of a specific word choice on meaning and tone."
+  },
+  {
+    "code": "RI.7.5",
+    "description": "Analyze the structure an author uses to organize a text, including how the major sections contribute to the whole and to the development of the ideas."
+  },
+  {
+    "code": "RI.7.6",
+    "description": "Determine an author’s point of view or purpose in a text and analyze how the author distinguishes his or her position from that of others."
+  },
+  {
+    "code": "RI.7.7",
+    "description": "Compare and contrast a text to an audio, video, or multimedia version of the text, analyzing each medium’s portrayal of the subject (e.g., how the delivery of a speech affects the impact of the words)."
+  },
+  {
+    "code": "RI.7.8",
+    "description": "Trace and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient to support the claims."
+  },
+  {
+    "code": "RI.7.9",
+    "description": "Analyze how two or more authors writing about the same topic shape their presentations of key information by emphasizing different evidence or advancing different interpretations of facts."
+  },
+  {
+    "code": "RI.7.10",
+    "description": "By the end of the year, read and comprehend literary nonfiction in the grades 6–8 text complexity band proficiently, with scaffolding as needed at the high end of the range."
+  },
+  {
+    "code": "W.7.1",
+    "description": "Write arguments to support claims with clear reasons and relevant evidence."
+  },
+  {
+    "code": "W.7.1a",
+    "description": "Introduce claim(s), acknowledge alternate or opposing claims, and organize the reasons and evidence logically."
+  },
+  {
+    "code": "W.7.1b",
+    "description": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text."
+  },
+  {
+    "code": "W.7.1c",
+    "description": "Use words, phrases, and clauses to create cohesion and clarify the relationships among claim(s), reasons, and evidence."
+  },
+  {
+    "code": "W.7.1d",
+    "description": "Establish and maintain a formal style."
+  },
+  {
+    "code": "W.7.1e",
+    "description": "Provide a concluding statement or section that follows from and supports the argument presented."
+  },
+  {
+    "code": "W.7.2",
+    "description": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content."
+  },
+  {
+    "code": "W.7.2a",
+    "description": "Introduce a topic clearly, previewing what is to follow; organize ideas, concepts, and information, using strategies such as definition, classification, comparison/contrast, and cause/ effect; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension."
+  },
+  {
+    "code": "W.7.2b",
+    "description": "Develop the topic with relevant facts, definitions, concrete details, quotations, or other information and examples."
+  },
+  {
+    "code": "W.7.2c",
+    "description": "Use appropriate transitions to create cohesion and clarify the relationships among ideas and concepts."
+  },
+  {
+    "code": "W.7.2d",
+    "description": "Use precise language and domain-specific vocabulary to inform about or explain the topic."
+  },
+  {
+    "code": "W.7.2e",
+    "description": "Establish and maintain a formal style."
+  },
+  {
+    "code": "W.7.2f",
+    "description": "Provide a concluding statement or section that follows from and supports the information or explanation presented."
+  },
+  {
+    "code": "W.7.3",
+    "description": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences."
+  },
+  {
+    "code": "W.7.3a",
+    "description": "Engage and orient the reader by establishing a context and point of view and introducing a narrator and/or characters; organize an event sequence that unfolds naturally and logically."
+  },
+  {
+    "code": "W.7.3b",
+    "description": "Use narrative techniques, such as dialogue, pacing, and description, to develop experiences, events, and/or characters."
+  },
+  {
+    "code": "W.7.3c",
+    "description": "Use a variety of transition words, phrases, and clauses to convey sequence and signal shifts from one time frame or setting to another."
+  },
+  {
+    "code": "W.7.3d",
+    "description": "Use precise words and phrases, relevant descriptive details, and sensory language to capture the action and convey experiences and events."
+  },
+  {
+    "code": "W.7.3e",
+    "description": "Provide a conclusion that follows from and reflects on the narrated experiences or events."
+  },
+  {
+    "code": "W.7.4",
+    "description": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience. (Grade-specific expectations for writing types are defined in standards 1–3 above.)"
+  },
+  {
+    "code": "W.7.5",
+    "description": "With some guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on how well purpose and audience have been addressed. (Editing for conventions should demonstrate command of Language standards 1–3 up to and including grade 7 on page 53.)"
+  },
+  {
+    "code": "W.7.6",
+    "description": "Use technology, including the Internet, to produce and publish writing and link to and cite sources as well as to interact and collaborate with others, including linking to and citing sources."
+  },
+  {
+    "code": "W.7.7",
+    "description": "Conduct short research projects to answer a question, drawing on several sources and generating additional related, focused questions for further research and investigation."
+  },
+  {
+    "code": "W.7.8",
+    "description": "Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accuracy of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation."
+  },
+  {
+    "code": "W.7.9",
+    "description": "Draw evidence from literary or informational texts to support analysis, reflection, and research."
+  },
+  {
+    "code": "W.7.9a",
+    "description": "Apply grade 7 Reading standards to literature (e.g., “Compare and contrast a fictional portrayal of a time, place, or character and a historical account of the same period as a means of understanding how authors of fiction use or alter history”)."
+  },
+  {
+    "code": "W.7.9b",
+    "description": "Apply grade 7 Reading standards to literary nonfiction (e.g. “Trace and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient to support the claims”)."
+  },
+  {
+    "code": "W.7.10",
+    "description": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences."
+  },
+  {
+    "code": "SL.7.1",
+    "description": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others’ ideas and expressing their own clearly."
+  },
+  {
+    "code": "SL.7.1a",
+    "description": "Come to discussions prepared, having read or researched material under study; explicitly draw on that preparation by referring to evidence on the topic, text, or issue to probe and reflect on ideas under discussion."
+  },
+  {
+    "code": "SL.7.1b",
+    "description": "Follow rules for collegial discussions, track progress toward specific goals and deadlines, and define individual roles as needed."
+  },
+  {
+    "code": "SL.7.1c",
+    "description": "Pose questions that elicit elaboration and respond to others’ questions and comments with relevant observations and ideas that bring the discussion back on topic as needed."
+  },
+  {
+    "code": "SL.7.1d",
+    "description": "Acknowledge new information expressed by others and, when warranted, modify their own views."
+  },
+  {
+    "code": "SL.7.2",
+    "description": "Analyze the main ideas and supporting details presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how the ideas clarify a topic, text, or issue under study."
+  },
+  {
+    "code": "SL.7.3",
+    "description": "Delineate a speaker’s argument and specific claims, evaluating the soundness of the reasoning and the relevance and sufficiency of the evidence."
+  },
+  {
+    "code": "SL.7.4",
+    "description": "Present claims and findings, emphasizing salient points in a focused, coherent manner with pertinent descriptions, facts, details, and examples; use appropriate eye contact, adequate volume, and clear pronunciation."
+  },
+  {
+    "code": "SL.7.5",
+    "description": "Include multimedia components and visual displays in presentations to clarify claims and findings and emphasize salient points."
+  },
+  {
+    "code": "SL.7.6",
+    "description": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate. (See grade 7 Language standards 1 and 3 on page 53 for specific expectations.)"
+  },
+  {
+    "code": "L.7.1",
+    "description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking."
+  },
+  {
+    "code": "L.7.1a",
+    "description": "Explain the function of phrases and clauses in general and their function in specific sentences."
+  },
+  {
+    "code": "L.7.1b",
+    "description": "Choose among simple, compound, complex, and compound-complex sentences to signal differing relationships among ideas."
+  },
+  {
+    "code": "L.7.1c",
+    "description": "Place phrases and clauses within a sentence, recognizing and correcting misplaced and dangling modifiers.",
+    "progressive": true
+  },
+  {
+    "code": "L.7.2",
+    "description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing."
+  },
+  {
+    "code": "L.7.2a",
+    "description": "Use a comma to separate coordinate adjectives (e.g., It was a fascinating, enjoyable movie but not He wore an old[,] green shirt)."
+  },
+  {
+    "code": "L.7.2b",
+    "description": "Spell correctly."
+  },
+  {
+    "code": "L.7.3",
+    "description": "Use knowledge of language and its conventions when writing, speaking, reading, or listening."
+  },
+  {
+    "code": "L.7.3a",
+    "description": "Choose language that expresses ideas precisely and concisely, recognizing and eliminating wordiness and redundancy.",
+    "progressive": true
+  },
+  {
+    "code": "L.7.4",
+    "description": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 7 reading and content, choosing flexibly from a range of strategies."
+  },
+  {
+    "code": "L.7.4a",
+    "description": "Use context (e.g., the overall meaning of a sentence or paragraph; a word’s position or function in a sentence) as a clue to the meaning of a word or phrase."
+  },
+  {
+    "code": "L.7.4b",
+    "description": "Use common, grade-appropriate Greek or Latin affixes and roots as clues to the meaning of a word (e.g., belligerent, bellicose, rebel)."
+  },
+  {
+    "code": "L.7.4c",
+    "description": "Consult general and specialized reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning or its part of speech."
+  },
+  {
+    "code": "L.7.4d",
+    "description": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary)."
+  },
+  {
+    "code": "L.7.5",
+    "description": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings."
+  },
+  {
+    "code": "L.7.5a",
+    "description": "Interpret figures of speech (e.g., literary, biblical, and mythological allusions) in context."
+  },
+  {
+    "code": "L.7.5b",
+    "description": "Use the relationship between particular words (e.g., synonym/antonym, analogy) to better understand each of the words."
+  },
+  {
+    "code": "L.7.5c",
+    "description": "Distinguish among the connotations (associations) of words with similar denotations (definitions) (e.g., refined, respectful, polite, diplomatic, condescending)."
+  },
+  {
+    "code": "L.7.6",
+    "description": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression."
+  }
+]

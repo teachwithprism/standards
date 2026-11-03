@@ -1,0 +1,315 @@
+[
+  {
+    "code": "RL.8.1",
+    "description": "Cite the textual evidence that most strongly supports an analysis of what the text says explicitly as well as inferences drawn from the text."
+  },
+  {
+    "code": "RL.8.2",
+    "description": "Determine a theme or central idea of a text and analyze its development over the course of the text, including its relationship to the characters, setting, and plot; provide an objective summary of the text."
+  },
+  {
+    "code": "RL.8.3",
+    "description": "Analyze how particular lines of dialogue or incidents in a story or drama propel the action, reveal aspects of a character, or provoke a decision."
+  },
+  {
+    "code": "RL.8.4",
+    "description": "Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone, including analogies or allusions to other texts."
+  },
+  {
+    "code": "RL.8.5",
+    "description": "Compare and contrast the structure of two or more texts and analyze how the differing structure of each text contributes to its meaning and style."
+  },
+  {
+    "code": "RL.8.6",
+    "description": "Analyze how differences in the points of view of the characters and the audience or reader (e.g., created through the use of dramatic irony) create such effects as suspense or humor."
+  },
+  {
+    "code": "RL.8.7",
+    "description": "Analyze the extent to which a filmed or live production of a story or drama stays faithful to or departs from the text or script, evaluating the choices made by the director or actors."
+  },
+  {
+    "code": "RL.8.9",
+    "description": "Analyze how a modern work of fiction draws on themes, patterns of events, or character types from myths, traditional stories, or religious works such as the Bible, including describing how the material is rendered new."
+  },
+  {
+    "code": "RL.8.10",
+    "description": "By the end of the year, read and comprehend literature, including stories, dramas, and poems, at the high end of grades 6–8 text complexity band independently and proficiently."
+  },
+  {
+    "code": "RI.8.1",
+    "description": "Cite the textual evidence that most strongly supports an analysis of what the text says explicitly as well as inferences drawn from the text."
+  },
+  {
+    "code": "RI.8.2",
+    "description": "Determine a central idea of a text and analyze its development over the course of the text, including its relationship to supporting ideas; provide an objective summary of the text."
+  },
+  {
+    "code": "RI.8.3",
+    "description": "Analyze how a text makes connections among and distinctions between individuals, ideas, or events (e.g., through comparisons, analogies, or categories)."
+  },
+  {
+    "code": "RI.8.4",
+    "description": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze the impact of specific word choices on meaning and tone, including analogies or allusions to other texts."
+  },
+  {
+    "code": "RI.8.5",
+    "description": "Analyze in detail the structure of a specific paragraph in a text, including the role of particular sentences in developing and refining a key concept."
+  },
+  {
+    "code": "RI.8.6",
+    "description": "Determine an author’s point of view or purpose in a text and analyze how the author acknowledges and responds to conflicting evidence or viewpoints."
+  },
+  {
+    "code": "RI.8.7",
+    "description": "Evaluate the advantages and disadvantages of using different mediums (e.g., print or digital text, video, multimedia) to present a particular topic or idea."
+  },
+  {
+    "code": "RI.8.8",
+    "description": "Delineate and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient; recognize when irrelevant evidence is introduced."
+  },
+  {
+    "code": "RI.8.9",
+    "description": "Analyze a case in which two or more texts provide conflicting information on the same topic and identify where the texts disagree on matters of fact or interpretation."
+  },
+  {
+    "code": "RI.8.10",
+    "description": "By the end of the year, read and comprehend literary nonfiction at the high end of the grades 6–8 text complexity band independently and proficiently."
+  },
+  {
+    "code": "W.8.1",
+    "description": "Write arguments to support claims with clear reasons and relevant evidence."
+  },
+  {
+    "code": "W.8.1a",
+    "description": "Introduce claim(s), acknowledge and distinguish the claim(s) from alternate or opposing claims, and organize the reasons and evidence logically."
+  },
+  {
+    "code": "W.8.1b",
+    "description": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text."
+  },
+  {
+    "code": "W.8.1c",
+    "description": "Use words, phrases, and clauses to create cohesion and clarify the relationships among claim(s), counterclaims, reasons, and evidence."
+  },
+  {
+    "code": "W.8.1d",
+    "description": "Establish and maintain a formal style."
+  },
+  {
+    "code": "W.8.1e",
+    "description": "Provide a concluding statement or section that follows from and supports the argument presented."
+  },
+  {
+    "code": "W.8.2",
+    "description": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content."
+  },
+  {
+    "code": "W.8.2a",
+    "description": "Introduce a topic clearly, previewing what is to follow; organize ideas, concepts, and information into broader categories; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension."
+  },
+  {
+    "code": "W.8.2b",
+    "description": "Develop the topic with relevant, well-chosen facts, definitions, concrete details, quotations, or other information and examples."
+  },
+  {
+    "code": "W.8.2c",
+    "description": "Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas and concepts."
+  },
+  {
+    "code": "W.8.2d",
+    "description": "Use precise language and domain-specific vocabulary to inform about or explain the topic."
+  },
+  {
+    "code": "W.8.2e",
+    "description": "Establish and maintain a formal style."
+  },
+  {
+    "code": "W.8.2f",
+    "description": "Provide a concluding statement or section that follows from and supports the information or explanation presented."
+  },
+  {
+    "code": "W.8.3",
+    "description": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences."
+  },
+  {
+    "code": "W.8.3a",
+    "description": "Engage and orient the reader by establishing a context and point of view and introducing a narrator and/or characters; organize an event sequence that unfolds naturally and logically."
+  },
+  {
+    "code": "W.8.3b",
+    "description": "Use narrative techniques, such as dialogue, pacing, description, and reflection, to develop experiences, events, and/or characters."
+  },
+  {
+    "code": "W.8.3c",
+    "description": "Use a variety of transition words, phrases, and clauses to convey sequence, signal shifts from one time frame or setting to another, and show the relationships among experiences and events."
+  },
+  {
+    "code": "W.8.3d",
+    "description": "Use precise words and phrases, relevant descriptive details, and sensory language to capture the action and convey experiences and events."
+  },
+  {
+    "code": "W.8.3e",
+    "description": "Provide a conclusion that follows from and reflects on the narrated experiences or events."
+  },
+  {
+    "code": "W.8.4",
+    "description": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience. (Grade-specific expectations for writing types are defined in standards 1–3 above.)"
+  },
+  {
+    "code": "W.8.5",
+    "description": "With some guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on how well purpose and audience have been addressed. (Editing for conventions should demonstrate command of Language standards 1–3 up to and including grade 8 on page 53.)"
+  },
+  {
+    "code": "W.8.6",
+    "description": "Use technology, including the Internet, to produce and publish writing and present the relationships between information and ideas efficiently as well as to interact and collaborate with others."
+  },
+  {
+    "code": "W.8.7",
+    "description": "Conduct short research projects to answer a question (including a self-generated question), drawing on several sources and generating additional related, focused questions that allow for multiple avenues of exploration."
+  },
+  {
+    "code": "W.8.8",
+    "description": "Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accuracy of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation."
+  },
+  {
+    "code": "W.8.9",
+    "description": "Draw evidence from literary or informational texts to support analysis, reflection, and research."
+  },
+  {
+    "code": "W.8.9a",
+    "description": "Apply grade 8 Reading standards to literature (e.g., “Analyze how a modern work of fiction draws on themes, patterns of events, or character types from myths, traditional stories, or religious works such as the Bible, including describing how the material is rendered new”)."
+  },
+  {
+    "code": "W.8.9b",
+    "description": "Apply grade 8 Reading standards to literary nonfiction (e.g., “Delineate and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient; recognize when irrelevant evidence is introduced”)."
+  },
+  {
+    "code": "W.8.10",
+    "description": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences."
+  },
+  {
+    "code": "SL.8.1",
+    "description": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, building on others’ ideas and expressing their own clearly."
+  },
+  {
+    "code": "SL.8.1a",
+    "description": "Come to discussions prepared, having read or researched material under study; explicitly draw on that preparation by referring to evidence on the topic, text, or issue to probe and reflect on ideas under discussion."
+  },
+  {
+    "code": "SL.8.1b",
+    "description": "Follow rules for collegial discussions and decision-making, track progress toward specific goals and deadlines, and define individual roles as needed."
+  },
+  {
+    "code": "SL.8.1c",
+    "description": "Pose questions that connect the ideas of several speakers and respond to others’ questions and comments with relevant evidence, observations, and ideas."
+  },
+  {
+    "code": "SL.8.1d",
+    "description": "Acknowledge new information expressed by others, and, when warranted, qualify or justify their own views in light of the evidence presented."
+  },
+  {
+    "code": "SL.8.2",
+    "description": "Analyze the purpose of information presented in diverse media and formats (e.g., visually, quantitatively, orally) and evaluate the motives (e.g., social, commercial, political) behind its presentation."
+  },
+  {
+    "code": "SL.8.3",
+    "description": "Delineate a speaker’s argument and specific claims, evaluating the soundness of the reasoning and relevance and sufficiency of the evidence and identifying when irrelevant evidence is introduced."
+  },
+  {
+    "code": "SL.8.4",
+    "description": "Present claims and findings, emphasizing salient points in a focused, coherent manner with relevant evidence, sound valid reasoning, and well-chosen details; use appropriate eye contact, adequate volume, and clear pronunciation."
+  },
+  {
+    "code": "SL.8.5",
+    "description": "Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add interest."
+  },
+  {
+    "code": "SL.8.6",
+    "description": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate. (See grade 8 Language standards 1 and 3 on page 53 for specific expectations.)"
+  },
+  {
+    "code": "L.8.1",
+    "description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking."
+  },
+  {
+    "code": "L.8.1a",
+    "description": "Explain the function of verbals (gerunds, participles, infinitives) in general and their function in particular sentences."
+  },
+  {
+    "code": "L.8.1b",
+    "description": "Form and use verbs in the active and passive voice."
+  },
+  {
+    "code": "L.8.1c",
+    "description": "Form and use verbs in the indicative, imperative, interrogative, conditional, and subjunctive mood."
+  },
+  {
+    "code": "L.8.1d",
+    "description": "Recognize and correct inappropriate shifts in verb voice and mood.",
+    "progressive": true
+  },
+  {
+    "code": "L.8.2",
+    "description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing."
+  },
+  {
+    "code": "L.8.2a",
+    "description": "Use punctuation (comma, ellipsis, dash) to indicate a pause or break."
+  },
+  {
+    "code": "L.8.2b",
+    "description": "Use an ellipsis to indicate an omission."
+  },
+  {
+    "code": "L.8.2c",
+    "description": "Spell correctly."
+  },
+  {
+    "code": "L.8.3",
+    "description": "Use knowledge of language and its conventions when writing, speaking, reading, or listening."
+  },
+  {
+    "code": "L.8.3a",
+    "description": "Use verbs in the active and passive voice and in the conditional and subjunctive mood to achieve particular effects (e.g., emphasizing the actor or the action; expressing uncertainty or describing a state contrary to fact)."
+  },
+  {
+    "code": "L.8.4",
+    "description": "Determine or clarify the meaning of unknown and multiple-meaning words or phrases based on grade 8 reading and content, choosing flexibly from a range of strategies."
+  },
+  {
+    "code": "L.8.4a",
+    "description": "Use context (e.g., the overall meaning of a sentence or paragraph; a word’s position or function in a sentence) as a clue to the meaning of a word or phrase."
+  },
+  {
+    "code": "L.8.4b",
+    "description": "Use common, grade-appropriate Greek or Latin affixes and roots as clues to the meaning of a word (e.g., precede, recede, secede)."
+  },
+  {
+    "code": "L.8.4c",
+    "description": "Consult general and specialized reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning or its part of speech."
+  },
+  {
+    "code": "L.8.4d",
+    "description": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary)."
+  },
+  {
+    "code": "L.8.5",
+    "description": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings."
+  },
+  {
+    "code": "L.8.5a",
+    "description": "Interpret figures of speech (e.g. verbal irony, puns) in context."
+  },
+  {
+    "code": "L.8.5b",
+    "description": "Use the relationship between particular words to better understand each of the words."
+  },
+  {
+    "code": "L.8.5c",
+    "description": "Distinguish among the connotations (associations) of words with similar denotations (definitions) (e.g., bullheaded, willful, firm, persistent, resolute)."
+  },
+  {
+    "code": "L.8.6",
+    "description": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression."
+  }
+]

@@ -8,19 +8,19 @@
     "description": "Rewrite expressions involving radicals and rational exponents using the properties of exponents. Limit to rational exponents with a numerator of 1."
   },
   {
-    "code": "A1.NQ.B.3a",
+    "code": "A1.NQ.B.3.a",
     "description": "Identify, label and use appropriate units of measure within a problem."
   },
   {
-    "code": "A1.NQ.B.3b",
+    "code": "A1.NQ.B.3.b",
     "description": "Convert units and rates."
   },
   {
-    "code": "A1.NQ.B.3c",
+    "code": "A1.NQ.B.3.c",
     "description": "Use units within problems."
   },
   {
-    "code": "A1.NQ.B.3d",
+    "code": "A1.NQ.B.3.d",
     "description": "Choose and interpret the scale and the origin in graphs and data displays."
   },
   {
@@ -40,11 +40,11 @@
     "description": "Analyze the structure of polynomials to create equivalent expressions or equations."
   },
   {
-    "code": "A1.SSE.A.3a",
+    "code": "A1.SSE.A.3.a",
     "description": "Find the zeros of a quadratic function by rewriting it in factored form."
   },
   {
-    "code": "A1.SSE.A.3b",
+    "code": "A1.SSE.A.3.b",
     "description": "Find the maximum or minimum value of a quadratic function by completing the square."
   },
   {
@@ -68,15 +68,15 @@
     "description": "Explain how each step taken when solving an equation or inequality in one variable creates an equivalent equation or inequality that has the same solution(s) as the original."
   },
   {
-    "code": "A1.REI.A.2a",
+    "code": "A1.REI.A.2.a",
     "description": "Use the method of completing the square to create an equivalent quadratic equation."
   },
   {
-    "code": "A1.REI.A.2b",
+    "code": "A1.REI.A.2.b",
     "description": "Derive the quadratic formula."
   },
   {
-    "code": "A1.REI.A.2c",
+    "code": "A1.REI.A.2.c",
     "description": "Analyze different methods of solving quadratic equations."
   },
   {
@@ -112,11 +112,11 @@
     "description": "Divide polynomials by monomials."
   },
   {
-    "code": "A1.IF.A.1a",
+    "code": "A1.IF.A.1.a",
     "description": "Represent a function using function notation."
   },
   {
-    "code": "A1.IF.A.1b",
+    "code": "A1.IF.A.1.b",
     "description": "Understand that the graph of a function labeled 𝑓 is the set of all ordered pairs (𝑥, y) that satisfy the equation 𝑦=f(𝑥)."
   },
   {
@@ -156,11 +156,11 @@
     "description": "Analyze the effect of translations and scale changes on functions."
   },
   {
-    "code": "A1.LQE.A.1a",
+    "code": "A1.LQE.A.1.a",
     "description": "Determine that linear functions change by equal differences over equal intervals."
   },
   {
-    "code": "A1.LQE.A.1b",
+    "code": "A1.LQE.A.1.b",
     "description": "Recognize exponential situations in which a quantity grows or decays by a constant percent rate per unit interval."
   },
   {
@@ -196,19 +196,19 @@
     "description": "Interpret differences in shape, center and spreads in the context of the data sets, accounting for possible effects of outliers."
   },
   {
-    "code": "A1.DS.A.4a",
+    "code": "A1.DS.A.4.a",
     "description": "Interpret relative frequencies in the context of the data."
   },
   {
-    "code": "A1.DS.A.4b",
+    "code": "A1.DS.A.4.b",
     "description": "Recognize possible associations and trends in the data."
   },
   {
-    "code": "A1.DS.A.5a",
+    "code": "A1.DS.A.5.a",
     "description": "Construct a linear function to model bivariate data represented on a scatter plot that minimizes residuals."
   },
   {
-    "code": "A1.DS.A.5b",
+    "code": "A1.DS.A.5.b",
     "description": "Construct an exponential function to model bivariate data represented on a scatter plot that minimizes residuals."
   },
   {

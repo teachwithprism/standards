@@ -1,0 +1,158 @@
+[
+  {
+    "code": "RH.11-12.1",
+    "description": "Cite specific textual evidence to support analysis of primary and secondary sources, connecting insights gained from specific details to an understanding of the text as a whole."
+  },
+  {
+    "code": "RH.11-12.2",
+    "description": "Determine the central ideas or information of a primary or secondary source; provide an accurate summary that makes clear the relationships among the key details and ideas."
+  },
+  {
+    "code": "RH.11-12.3",
+    "description": "Evaluate various explanations for actions or events and determine which explanation best accords with textual evidence, acknowledging where the text leaves matters uncertain."
+  },
+  {
+    "code": "RH.11-12.4",
+    "description": "Determine the meaning of words and phrases as they are used in a text, including analyzing how an author uses and refines the meaning of a key term over the course of a text (e.g., how Madison defines faction in Federalist No. 10)."
+  },
+  {
+    "code": "RH.11-12.5",
+    "description": "Analyze in detail how a complex primary source is structured, including how key sentences, paragraphs, and larger portions of the text contribute to the whole."
+  },
+  {
+    "code": "RH.11-12.6",
+    "description": "Evaluate authors’ differing points of view on the same historical event or issue by assessing the authors’ claims, reasoning, and evidence."
+  },
+  {
+    "code": "RH.11-12.7",
+    "description": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., visually, quantitatively, as well as in words) in order to address a question or solve a problem."
+  },
+  {
+    "code": "RH.11-12.8",
+    "description": "Evaluate an author’s premises, claims, and evidence by corroborating or challenging them with other information."
+  },
+  {
+    "code": "RH.11-12.9",
+    "description": "Integrate information from diverse sources, both primary and secondary, into a coherent understanding of an idea or event, noting discrepancies among sources."
+  },
+  {
+    "code": "RH.11-12.10",
+    "description": "By the end of grade 12, read and comprehend history/social studies texts in the grades 11–CCR text"
+  },
+  {
+    "code": "RST.11-12.1",
+    "description": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account."
+  },
+  {
+    "code": "RST.11-12.2",
+    "description": "Determine the central ideas or conclusions of a text; summarize complex concepts, processes, or information presented in a text by paraphrasing them in simpler but still accurate terms."
+  },
+  {
+    "code": "RST.11-12.3",
+    "description": "Follow precisely a complex multistep procedure when carrying out experiments, taking measurements, or performing technical tasks; analyze the specific results based on explanations in the text."
+  },
+  {
+    "code": "RST.11-12.4",
+    "description": "Determine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant to grades 11–12 texts and topics."
+  },
+  {
+    "code": "RST.11-12.5",
+    "description": "Analyze how the text structures information or ideas into categories or hierarchies, demonstrating understanding of the information or ideas."
+  },
+  {
+    "code": "RST.11-12.6",
+    "description": "Analyze the author’s purpose in providing an explanation, describing a procedure, or discussing an experiment in a text, identifying important issues that remain unresolved."
+  },
+  {
+    "code": "RST.11-12.7",
+    "description": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., quantitative data, video, multimedia) in order to address a question or solve a problem."
+  },
+  {
+    "code": "RST.11-12.8",
+    "description": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information."
+  },
+  {
+    "code": "RST.11-12.9",
+    "description": "Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible."
+  },
+  {
+    "code": "RST.11-12.10",
+    "description": "By the end of grade 12, read and comprehend science/technical texts in the grades 11–CCR text"
+  },
+  {
+    "code": "WHST.11-12.1",
+    "description": "Write arguments focused on discipline-specific content."
+  },
+  {
+    "code": "WHST.11-12.1a",
+    "description": "Introduce precise, knowledgeable claim(s), establish the significance of the claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that logically sequences the claim(s), counterclaims, reasons, and evidence."
+  },
+  {
+    "code": "WHST.11-12.1b",
+    "description": "Develop claim(s) and counterclaims fairly and thoroughly, supplying the most relevant data and evidence for each while pointing out the strengths and limitations of both claim(s) and counterclaims in a discipline-appropriate form that anticipates the audience’s knowledge level, concerns, values, and possible biases."
+  },
+  {
+    "code": "WHST.11-12.1c",
+    "description": "Use words, phrases, and clauses as well as varied syntax to link the major sections of the text, create cohesion, and clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims."
+  },
+  {
+    "code": "WHST.11-12.1d",
+    "description": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing."
+  },
+  {
+    "code": "WHST.11-12.1e",
+    "description": "Provide a concluding statement or section that follows from or supports the argument presented."
+  },
+  {
+    "code": "WHST.11-12.2",
+    "description": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/ experiments, or technical processes."
+  },
+  {
+    "code": "WHST.11-12.2a",
+    "description": "Introduce a topic and organize complex ideas, concepts, and information so that each new element builds on that which precedes it to create a unified whole; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension."
+  },
+  {
+    "code": "WHST.11-12.2b",
+    "description": "Develop the topic thoroughly by selecting the most significant and relevant facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience’s knowledge of the topic."
+  },
+  {
+    "code": "WHST.11-12.2c",
+    "description": "Use varied transitions and sentence structures to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas and concepts."
+  },
+  {
+    "code": "WHST.11-12.2d",
+    "description": "Use precise language, domain-specific vocabulary and techniques such as metaphor, simile, and analogy to manage the complexity of the topic; convey a knowledgeable stance in a style that responds to the discipline and context as well as to the expertise of likely readers."
+  },
+  {
+    "code": "WHST.11-12.2e",
+    "description": "Provide a concluding statement or section that follows from and supports the information or explanation provided (e.g., articulating implications or the significance of the topic)."
+  },
+  {
+    "code": "WHST.11-12.4",
+    "description": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience."
+  },
+  {
+    "code": "WHST.11-12.5",
+    "description": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience."
+  },
+  {
+    "code": "WHST.11-12.6",
+    "description": "Use technology, including the Internet, to produce, publish, and update individual or shared writing products in response to ongoing feedback, including new arguments or information."
+  },
+  {
+    "code": "WHST.11-12.7",
+    "description": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation."
+  },
+  {
+    "code": "WHST.11-12.8",
+    "description": "Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the strengths and limitations of each source in terms of the specific task, purpose, and audience; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and overreliance on any one source and following a standard format for citation."
+  },
+  {
+    "code": "WHST.11-12.9",
+    "description": "Draw evidence from informational texts to support analysis, reflection, and research."
+  },
+  {
+    "code": "WHST.11-12.10",
+    "description": "Write routinely over extended time frames (time for reflection and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences."
+  }
+]
